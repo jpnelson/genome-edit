@@ -13,11 +13,11 @@ It is assumed that MiniZinc has been installed, and is avialable from your PATH 
 If you receive the output above, the scripts will work as intended.
 
 The file structure is
-* bio-data/  -Contains scraped mitochondrial genomes from the NCBI database, and a script to convert this into .dzn files for the MiniZinc solver
+* `bio-data/`  -Contains scraped mitochondrial genomes from the NCBI database, and a script to convert this into .dzn files for the MiniZinc solver
     
-* compress/  -Contains code, and a binary file, for compressing a circular genome.
+* `compress/`  -Contains code, and a binary file, for compressing a circular genome.
     
-* genome-edit-distance/  -Contains genome-positional.mzn, genome-relational.mzn; the MiniZinc model files used for computation, and a shell script for these, itt-edit-distance.sh, which can run either of these models on a sequence directly. 
+* `genome-edit-distance/`  -Contains `genome-positional.mzn`, `genome-relational.mzn`; the MiniZinc model files used for computation, and a shell script for these, `itt-edit-distance.sh`, which can run either of these models on a sequence directly. 
 Also contains a program to convert relational model output to positional output for better interpretation of plans and results.
                               
-* inversion-only/  -Contains baobab-lunar.jar, the inversion-only solver used, and a script that uses this to pre-process .dzn files with a "costCap=N;" parameter, which provides the MiniZinc solvers with an upper bound on plan cost
+* `inversion-only/`  -Contains `baobab-lunar.jar`, the inversion-only solver used, and a script that uses this to pre-process .dzn files with a "costCap=N;" parameter, which provides the MiniZinc solvers with an upper bound on plan cost
