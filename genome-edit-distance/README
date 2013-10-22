@@ -1,0 +1,52 @@
+###########################################
+#### Genome edit distance model README ####
+###########################################
+#                                         #
+#           Joshua Nelson, 2013           #
+#                                         #
+###########################################
+
+Contents of this directory:
+	-genome-position.mzn:	The positional MiniZinc model
+	-genome-relational.mzn	The relational MiniZinc model
+	-relationalPrint/	    Code for printing the output of a relational plan in a positional format
+	-itt-edit-distance.sh	A script to use MiniZinc to solve the genome edit distance problem for a pair of sequences
+	-example-dzn-files      A directory containing a few example dzn input files
+
+######################################
+##### itt-edit-distance.sh usage #####
+######################################
+	Purpose:
+		To provide a front end for the minizinc and model files
+
+	Examples:	
+		./itt-edit-dsitance.sh positional [-3,-2,-1] [1,2,3]
+		./itt-edit-distance.sh relational [-6,-5,-4,1,2,3] [1,2,3,4,5,6]
+	
+	Where:
+		-Argument 1: the model file to use. Either "positional" or "relationa" (runs genome-relational.mz or genome-positional.mzn)
+		-Argument 2: the initial sequence
+		-Argument 3: the goal sequence
+	
+	Output:
+		-The final plan state
+		-The plan cost
+		-The time taken
+		-(relational model): positional interpretation of results
+
+
+###########################################################
+##### genome-relational.mzn / genome-positional usage #####
+###########################################################
+	Purpose:
+		The back end model files
+	
+	Examples:
+		minizinc -b lazyfd genome-relational.mzn example-dzn-files/genome6.dzn | ./relational/relationalPrint
+		minizinc -b lazyfd genome-positional.mzn example-dzn-files/genome6.dzn
+		
+	Where:
+	    - ./relational/relationalPrint is the program to convert relational encodings to positional ones for viewing
+	    - "-b lazyfd" is the option for the lazyfd solver
+	    - "genome-relational.mzn" and "genome-positional.mzn" are the model files
+	    - "example-dzn-files/genome6.dzn" is an example data file
