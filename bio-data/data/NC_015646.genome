@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13763
+                     /organism="Tubulipora flabellaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:365325"
+                     /common="bryozoan"
+
+</METADATA>
+<DATA>
++COX1
+-tRNA-Glu
+-tRNA-Asn
++tRNA-Tyr
+-ATP6
+-tRNA-Pro
+-l-rRNA
+-tRNA-Leu
+-s-rRNA
+-tRNA-Ile
++tRNA-Leu
+-ND2
+-tRNA-Gln
+-ND3
+-tRNA-Arg
+-tRNA-Phe
+-tRNA-Thr
++tRNA-His
++ND5
++tRNA-Val
+-tRNA-Asp
+-COX2
++ND6
++ND4L
++tRNA-Ser
+-CYTB
++tRNA-Ser
++tRNA-Met
++ND1
++tRNA-Trp
++tRNA-Gly
++COX3
+-tRNA-Lys
++tRNA-Ala
++ND4
++tRNA-Cys
+</DATA>

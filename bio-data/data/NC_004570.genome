@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14737
+                     /organism="Ciona savignyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:51511"
+                     /common="sea squirt"
+
+</METADATA>
+<DATA>
++COX1
++ND5
++tRNA-Asp
++tRNA-Met
++tRNA-Leu
++s-rRNA
++tRNA-Met
++tRNA-Thr
++tRNA-Trp
++tRNA-Ser
++ND6
++tRNA-Gly
++tRNA-Asn
++ATP6
++ND2
++trnA
++COX2
++CYTB
++ND1
++trnP
++ND4L
++tRNA-His
++tRNA-Arg
++tRNA-Gln
++COX3
++tRNA-Lys
++l-rRNA
++tRNA-Ile
++ND3
++tRNA-Glu
++tRNA-Val
++ND4
++tRNA-Phe
++tRNA-Cys
++tRNA-Gly
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
+</DATA>

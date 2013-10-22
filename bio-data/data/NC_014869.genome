@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15800
+                     /organism="Cephalothrix sp. SCS-2010"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="csp200703"
+                     /db_xref="taxon:743460"
+                     /country="China"
+                     /common="worm"
+
+</METADATA>
+<DATA>
++trnC
++ATP6
++trnF
++trnD
++ATP8
++trnM
++rrnS
++trnV
++rrnL
++trnL(uag)
++trnL(uaa)
++ND1
+-trnP
++CYTB
++trnS(uga)
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnQ
++ND6
++COX3
++trnK
++trnA
++trnR
++trnN
++trnI
++ND3
++trnG
++trnS(gcu)
++ND2
++trnE
++COX1
++COX2
++trnW
++trnY
+</DATA>

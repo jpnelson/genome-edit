@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17244
+                     /organism="Crassostrea virginica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6565"
+
+</METADATA>
+<DATA>
++l-rRNA
++COX1
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++COX2
++tRNA-Ser
++tRNA-Leu
++tRNA-Pro
++tRNA-Gly
++s-rRNA
++tRNA-Met
++tRNA-Lys
++tRNA-Cys
++tRNA-Val
++tRNA-Asp
++tRNA-Met
++tRNA-Ser
++tRNA-Tyr
++ATP6
++ND2
++tRNA-Arg
++tRNA-His
++ND4
++tRNA-Asn
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
+</DATA>

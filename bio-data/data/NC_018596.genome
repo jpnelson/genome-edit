@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..13904
+                     /organism="Trichuris discolor"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Bos grunniens mutus"
+                     /db_xref="taxon:483153"
+                     /dev_stage="adult"
+                     /country="China"
+
+</METADATA>
+<DATA>
++cox1
++cox2
++tRNA-Leu
++tRNA-Glu
++nad1
++tRNA-Lys
+-nad2
+-tRNA-Met
+-tRNA-Phe
+-nad5
+-tRNA-His
++tRNA-Arg
+-nad4
+-nad4L
++tRNA-Thr
+-tRNA-Pro
++nad6
++cytb
++tRNA-Ser
++small subunit ribosomal RNA
++tRNA-Val
++large subunit ribosomal RNA
++atp6
++cox3
+-tRNA-Trp
++tRNA-Gln
+-tRNA-Ile
+-tRNA-Gly
++tRNA-Asp
++atp8
++nad3
++tRNA-Ser
++tRNA-Asn
++tRNA-Leu
++tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

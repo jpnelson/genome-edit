@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15155
+                     /organism="Pseudoniphargus daviui"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1041814"
+                     /country="Spain:Balearic Islands, Cabrera"
+                     /common="amphipod"
+
+</METADATA>
+<DATA>
++trnM
+-trnY
+-trnQ
+-trnC
++ND2
++trnW
++trnG
++COX1
++trnL
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++ND3
++trnA
++trnS
++trnN
++trnE
++trnR
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
+-ND1
++trnI
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-trnL
+-rrnL
+-trnV
+-rrnS
+</DATA>

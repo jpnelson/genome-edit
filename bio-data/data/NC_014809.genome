@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..20268
+                     /organism="Meretrix lusoria"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74491"
+                     /common="hard clam"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++ND1
++ND2
++ND4L
++tRNA-Ile
++tRNA-Asp
++COX2
++tRNA-Pro
++CYTB
++l-rRNA
++ATP8
++ND4
++tRNA-His
++tRNA-Glu
++tRNA-Ser
++ATP6
++ND3
++ND5
++ND6
++tRNA-Trp
++tRNA-Met
++tRNA-Val
++tRNA-Lys
++tRNA-Phe
++tRNA-Leu
++tRNA-Gly
++tRNA-Gln
++tRNA-Arg
++tRNA-Asn
++tRNA-Thr
++s-rRNA
++tRNA-Cys
++tRNA-Tyr
++tRNA-Ser
++COX3
++tRNA-Ala
+</DATA>

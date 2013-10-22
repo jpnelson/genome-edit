@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..12672
+                     /organism="Brachionus plicatilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NH1L"
+                     /db_xref="taxon:10195"
+                     /common="rotifer"
+                     /note="Bp-mtDNA-II"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Arg
++tRNA-Ile
++ND6
++tRNA-Cys
++ND4L
++ND4
++ND5
++tRNA-Asn
++COX2
++COX3
++tRNA-Ala
++ND3
++tRNA-Lys
++tRNA-Leu
++tRNA-Phe
++tRNA-Ser
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..18128
+                     /organism="Heterorhabditis bacteriophora"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="HP88"
+                     /db_xref="taxon:37862"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
++tRNA-Pro
++tRNA-Val
++ND6
++ND4L
++tRNA-Trp
++tRNA-Glu
++s-rRNA
++tRNA-Ser
++tRNA-Asn
++tRNA-Tyr
++ND1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Arg
++COX1
++tRNA-Met
++tRNA-Cys
++COX2
++tRNA-His
++l-rRNA
++ND3
++tRNA-Gln
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Thr
++ND4
++tRNA-Asp
++tRNA-Gly
++ND5
++tRNA-Ala
+</DATA>

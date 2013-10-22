@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16505
+                     /organism="Amblydoras gonzalezi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:909836"
+                     /tissue_type="muscle"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++CO1
+-tRNA-Ser
++tRNA-Asp
++CO2
++tRNA-Lys
++ATPase 8
++ATPase 6
++CO3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++Cyt B
++tRNA-Thr
+-tRNA-Pro
+</DATA>

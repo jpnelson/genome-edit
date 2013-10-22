@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16573
+                     /organism="Micromesistius poutassou"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Mp1"
+                     /db_xref="taxon:81636"
+                     /tissue_type="liver"
+                     /country="Norway"
+
+</METADATA>
+<DATA>
++trnF
++12S rRNA
++trnV
++mtLSU rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15107
+                     /organism="Megabalanus volcano"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:266495"
+                     /tissue_type="muscle"
+                     /common="an acorn barnacle"
+
+</METADATA>
+<DATA>
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
++COX1
++tRNA-Leu
++COX2
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++tRNA-Asn
++tRNA-Ala
++tRNA-Glu
++tRNA-Ser
++tRNA-Pro
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Thr
++ND6
++CYTB
++tRNA-Ser
++tRNA-Tyr
+-tRNA-Lys
+-tRNA-Gln
+-tRNA-Cys
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

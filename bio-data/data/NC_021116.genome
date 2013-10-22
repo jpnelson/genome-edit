@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..8958
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="2"
+
+</METADATA>
+<DATA>
+-trnY(cua)
++trnL(uag)
+-trnV(uac)
++trnG(ucg)
+-atp9
+-trnD(guc)
+-trnL(caa)
+-rnl_p3
+-rnl_p1
+-rnl_p2
+-rns_p1
+-trnW(uca)
+</DATA>

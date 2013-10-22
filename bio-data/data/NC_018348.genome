@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14914
+                     /organism="Drosophila pseudoobscura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7237"
+                     /common="fruit fly"
+
+</METADATA>
+<DATA>
++trnI-gau
+-trnQ-uug
++trnM-cau
++ND2
++trnW-uca
+-trnC-gca
+-trnY-gua
++COX1
++trnL-uaa
++COX2
++trnK-cuu
++trnD-guc
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnA-ugc
++trnR-ucg
++trnN-guu
++trnS-gcu
++trnE-uuc
+-trnF-gaa
+-ND5
+-trnH-gug
+-ND4
+-ND4L
++trnT-ugu
+-trnP-ugg
++ND6
++CYTB
++trnS-uga
+-ND1
+-trnL-uag
+-l-rRNA
+-trnV-uac
+-s-rRNA
+</DATA>

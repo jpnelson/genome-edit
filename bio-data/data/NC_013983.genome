@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..17207
+                     /organism="Hypsiglena ochrorhyncha nuchalata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="nuchalata"
+                     /specimen_voucher="MVZ 180363"
+                     /db_xref="taxon:427719"
+                     /lat_lon="38.1002 N 120.5625 W"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

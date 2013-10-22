@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15680
+                     /organism="Upogebia pusilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1267414"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
++tRNA-Ile
+-ND1
+-16S ribosomal RNA
+-tRNA-Val
+-12S ribosomal RNA
+-tRNA-Gln
+-tRNA-Cys
+-tRNA-Tyr
++tRNA-Met
++ND2
++tRNA-Trp
+</DATA>

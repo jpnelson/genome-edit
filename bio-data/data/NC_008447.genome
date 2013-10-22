@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16866
+                     /organism="Lagostrophus fasciatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:65634"
+                     /tissue_type="muscle"
+                     /country="Australia:Western Australia, Denham"
+
+</METADATA>
+<DATA>
++trnF
++rrns
++trnV
++rrnl
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
+-trnA
+-trnC
++trnW
+-trnN
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

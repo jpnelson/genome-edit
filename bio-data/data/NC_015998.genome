@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..8118
+                     /organism="Anaticola crassicornis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:160206"
+
+</METADATA>
+<DATA>
++tRNA-Phe
+-tRNA-Gly
++ND6
++tRNA-Cys
++s-rRNA
+-tRNA-Glu
++l-rRNA
++tRNA-Ile
++COX1
++tRNA-Thr
++tRNA-Met
+-tRNA-Lys
++tRNA-Lys
+-tRNA-Gln
++tRNA-Lys
++ND4
++tRNA-Lys
+-ND1
+-ND3
+</DATA>

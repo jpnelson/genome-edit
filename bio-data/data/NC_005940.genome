@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16907
+                     /organism="Haliotis rubra"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36100"
+                     /common="black lip abalone"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Asp
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Ile
++ND3
++tRNA-Asn
++tRNA-Ser
++ND2
++COX1
++COX2
++ATP8
++ATP6
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Met
+-tRNA-Tyr
+-tRNA-Cys
+-tRNA-Trp
+-tRNA-Gln
+-tRNA-Gly
+-tRNA-Glu
+</DATA>

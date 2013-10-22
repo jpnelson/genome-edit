@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..16150
+                     /organism="Lophelia pertusa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NL-1"
+                     /db_xref="taxon:174260"
+                     /country="Norway:Nord-Leksa, Nord Trondelag"
+                     /lat_lon="63.36 N 9.24 E"
+                     /collection_date="30-Sep-2008"
+
+</METADATA>
+<DATA>
++nd5
++nd1
++atp6
++ssu
++COIII
++COII
++nd4L
++nd3
++cytb
++nd2
++nd6
++tRNA-Trp
++atp8
++COI
++tRNA-Met
++lsu
+</DATA>

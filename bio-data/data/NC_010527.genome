@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14266
+                     /organism="Toxocara malaysiensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:321166"
+                     /dev_stage="adult"
+                     /country="China:Guangdong"
+                     /common="roundworm"
+
+</METADATA>
+<DATA>
++ND1
++ATP6
++trnK
++trnL
++trnS
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL
++COX3
++trnT
++ND4
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++rnl
++ND3
++ND5
++trnA
++trnP
++trnV
++ND6
++ND4L
++trnW
++trnE
++rns
++trnS
++trnN
++trnY
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15322
+                     /organism="Bemisia tabaci"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7038"
+                     /common="sweet potato whitefly"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++ATP8
++ATP6
+-tRNA-Ser
+-tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-tRNA-Asp
+-tRNA-Gln
+-s-rRNA
+-tRNA-Asn
+-tRNA-Arg
+-tRNA-Ala
+-ND3
+-tRNA-Gly
+-COX3
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Tyr
+-tRNA-Cys
+</DATA>

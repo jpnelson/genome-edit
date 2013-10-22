@@ -1,0 +1,43 @@
+<METADATA>
+     source          1..19960
+                     /organism="Amphimedon queenslandica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:400682"
+                     /common="desmosponge"
+
+</METADATA>
+<DATA>
++l-rRNA
++tRNA-Arg
++ND4L
++COX1
++tRNA-Cys
++tRNA-Ser
++ND1
++tRNA-Tyr
++tRNA-Pro
++tRNA-Met
++tRNA-Met
++ND2
++ND5
++tRNA-Ala
++COX2
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Arg
++COX3
++tRNA-Gln
++tRNA-Trp
++tRNA-Asn
++CYTB
++tRNA-Ser
++ND4
++tRNA-Glu
++ND6
++ND3
++s-rRNA
++tRNA-Gly
++tRNA-Phe
+</DATA>

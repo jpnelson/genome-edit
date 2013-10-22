@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15981
+                     /organism="Paracyclopina nana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:565004"
+                     /common="cyclopoid copepod"
+
+</METADATA>
+<DATA>
++COX1
+-tRNA-Ser
+-ND4L
+-ND6
++tRNA-Lys
++tRNA-Val
+-tRNA-Leu
+-ND3
+-tRNA-His
+-ND5
+-tRNA-Gln
+-tRNA-Tyr
+-ND2
+-tRNA-Glu
+-COX2
++tRNA-Ser
++tRNA-Arg
++ND4
++COX3
++tRNA-Leu
+-tRNA-Pro
+-tRNA-Thr
+-s-rRNA
+-tRNA-Phe
+-tRNA-Ile
+-CYTB
+-tRNA-Met
+-tRNA-Ala
+-tRNA-Ala
+-l-rRNA
+-tRNA-Cys
+-tRNA-Asn
++tRNA-Asp
+-ND1
+-tRNA-Gly
+-tRNA-Trp
++ATP6
+</DATA>

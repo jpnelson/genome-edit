@@ -1,0 +1,81 @@
+<METADATA>
+     source          1..16109
+                     /organism="Loxodonta cyclotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Coco"
+                     /isolation_source="captive elephant in Paris, France"
+                     /specimen_voucher="Lcy-SL0001"
+                     /db_xref="taxon:99490"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="Sierra Leone"
+                     /collection_date="2001"
+                     /collected_by="Alexis Lecu"
+                     /PCR_primers="fwd_name: mtall-f1, fwd_seq:
+                     cccccacgggawacagcag, rev_name: mtall-r1, rev_seq:
+                     gtctgaactcagatcacgtaggact"
+                     /PCR_primers="fwd_name: mtall-f2, fwd_seq:
+                     gacctcgatgttggatcagg, rev_name: mtall-r2, rev_seq:
+                     tgcaaattcraagaagcag"
+                     /PCR_primers="fwd_name: mtall-f3, fwd_seq:
+                     aactggcttcaatctacttctcc, rev_name: mtall-r3, rev_seq:
+                     ggaattgcrtckgtttttagacct"
+                     /PCR_primers="fwd_name: mtall-f4, fwd_seq:
+                     cacttccaygaccayaccctaataat, rev_name: mtall-r4, rev_seq:
+                     tgagtcgaaatcayttgtt"
+                     /PCR_primers="fwd_name: mtall-f5, fwd_seq:
+                     gccatccaagctaataatacaagtcta, rev_name: mtall-r5, rev_seq:
+                     aagcaatttgtcttgttgttttgt"
+                     /PCR_primers="fwd_name: nd56-f1d, fwd_seq:
+                     tggtgcaactccarataaaagtaa, rev_name: nd56-r1a, rev_seq:
+                     tyacatctcggcaaatatgg"
+                     /PCR_primers="fwd_name: cbcr-f1d, fwd_seq:
+                     accatgactaatgatctgaaaaacc, rev_name: cbcr-r1d, rev_seq:
+                     ctcagacggccatagctga"
+                     /PCR_primers="fwd_name: mtall-f8, fwd_seq:
+                     acccaaarctganattct, rev_name: mtall-r8, rev_seq:
+                     tgttacgacttgtctcctct"
+                     /note="stored at Laboratory of Genomic Diversity, National
+                     Cancer Institute, Frederick, Maryland."
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Ile
++tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

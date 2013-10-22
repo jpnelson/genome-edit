@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13681
+                     /organism="Oesophagostomum quadrispinulatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:61181"
+                     /dev_stage="adult"
+                     /country="China:Chongqing"
+                     /common="porcine nodular worm"
+
+</METADATA>
+<DATA>
++trnP
++trnV
++ND6
++ND4L
++trnW
++trnE
++rrns
++trnS
++trnN
++trnY
++ND1
++ATP6
++trnK
++trnL
++trnS
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL
++COX3
++trnT
++ND4
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++rrnl
++ND3
++ND5
++trnA
+</DATA>

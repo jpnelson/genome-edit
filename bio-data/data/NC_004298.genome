@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..13657
+                     /organism="Brugia malayi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="TRS"
+                     /db_xref="taxon:6279"
+                     /common="agent of lymphatic filariasis"
+
+</METADATA>
+<DATA>
++tRNA-Glu
++tRNA-Ser
++ND2
++tRNA-Thr
++ND4
++COX1
++tRNA-Trp
++ND6
++tRNA-Arg
++tRNA-Gln
++CYTB
++tRNA-Leu
++COX3
++tRNA-Ala
++tRNA-Leu
++tRNA-Asn
++tRNA-Met
++tRNA-Lys
++ND4L
++small subunit ribosomal RNA
++tRNA-Tyr
++ND1
++tRNA-Phe
++ATP6
++tRNA-Ile
++tRNA-Gly
++COX2
++tRNA-His
++large subunit ribosomal RNA
++ND3
++tRNA-Cys
++tRNA-Ser
++tRNA-Pro
++tRNA-Asp
++tRNA-Val
++ND5
+</DATA>

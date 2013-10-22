@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..14583
+                     /organism="Bursaphelenchus mucronatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6325"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Cys
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++COX2
++tRNA-His
++l-rRNA
++ND3
++ND5
++tRNA-Ala
++tRNA-Pro
++tRNA-Val
++ND6
++ND4L
++tRNA-Trp
++tRNA-Glu
++s-rRNA
++tRNA-Ser
++tRNA-Tyr
++ND1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Arg
++tRNA-Gln
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Asn
++tRNA-Thr
++ND4
+</DATA>

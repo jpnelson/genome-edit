@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..13931
+                     /organism="Phyxioschema suthepium"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1155482"
+                     /common="funnel-web spider"
+
+</METADATA>
+<DATA>
+-tRNA-Cys
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
+-tRNA-Leu
++tRNA-Asn
++tRNA-Ala
++tRNA-Ser
++tRNA-Arg
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
++tRNA-Thr
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Tyr
+</DATA>

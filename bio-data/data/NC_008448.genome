@@ -1,0 +1,24 @@
+<METADATA>
+     source          1..19017
+                     /organism="Galaxiella nigrostriata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:89574"
+
+</METADATA>
+<DATA>
++tRNA-Gly
++ND3
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

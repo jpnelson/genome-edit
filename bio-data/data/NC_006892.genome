@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13888
+                     /organism="Leptorhynchoides thecatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:60532"
+                     /common="thorny-headed worm"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Gly
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++ND6
++tRNA-Asp
++tRNA-Ser
++ATP6
++ND3
++tRNA-Trp
++tRNA-Lys
++tRNA-Val
++tRNA-Lys
++tRNA-Glu
++tRNA-Thr
++tRNA-Gln
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Leu
++tRNA-Pro
++CYTB
++ND1
++tRNA-Ile
++tRNA-Ser
++tRNA-Met
++tRNA-Ser
++s-rRNA
++tRNA-Phe
++COX2
++tRNA-Cys
++COX3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++ND2
+</DATA>

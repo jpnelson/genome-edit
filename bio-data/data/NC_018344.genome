@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..17265
+                     /organism="Celleporella hyalina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="N"
+                     /db_xref="taxon:60593"
+                     /common="bryozoan"
+
+</METADATA>
+<DATA>
++COX1
++ATP8
++tRNA-Ser
++ND4L
++ND3
++CYTB
++tRNA-Gln
++ATP6
+-tRNA-Ile
+-tRNA-Tyr
+-tRNA-Thr
+-tRNA-Lys
+-l-rRNA
+-tRNA-Asp
+-s-rRNA
+-tRNA-Met
+-tRNA-Leu
+-tRNA-Arg
+-tRNA-Glu
+-tRNA-Trp
+-tRNA-Gly
+-tRNA-Phe
+-ND4
+-tRNA-Val
+-ND6
+-tRNA-Ser
+-tRNA-Cys
+-ND5
+-tRNA-His
+-COX3
+-tRNA-Leu
+-COX2
+-ND2
++tRNA-Pro
++ND1
++tRNA-Asn
++tRNA-Ala
+</DATA>

@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..20591
+                     /organism="Halisarca sp. DVL-2010"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:936147"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++COX1
++trnS(uga)
++trnC(gca)
++ND1
++trnL(uaa)
++trnR(ucu)
++COX3
++trnQ(uug)
++trnW(uca)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++COX2
++trnK(uuu)
++ATP8
++ATP6
++trnI(gau)
++trnY(gua)
++trnI(cau)
++trnD(guc)
++trnN(guu)
++trnL(uag)
++CYTB
++trnT(ugu)
++ATP9
++trnS(gcu)
++trnP(ugg)
++ND4
++trnH(gug)
++trnE(uuc)
++ND6
++ND3
++trnR(ucg)
++ND4L
++trnM(cau)e
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

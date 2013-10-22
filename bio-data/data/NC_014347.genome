@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13075
+                     /organism="Panonychus citri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:50023"
+
+</METADATA>
+<DATA>
++COX1
++ND3
++tRNA-Asn
+-tRNA-Asp
++tRNA-Leu
+-tRNA-Glu
++l-rRNA
++tRNA-Arg
+-ND4L
+-tRNA-Pro
+-tRNA-Phe
+-COX3
+-ATP6
+-ATP8
+-tRNA-Lys
+-COX2
+-tRNA-Tyr
++s-rRNA
++tRNA-Gly
+-tRNA-Thr
+-ND1
+-tRNA-Leu
+-tRNA-Gln
++tRNA-Cys
++CYTB
+-tRNA-Ser
+-tRNA-Ala
++ND6
++ND4
++tRNA-His
++ND5
++tRNA-Trp
++ND2
++tRNA-Met
++tRNA-Ser
++tRNA-Val
++tRNA-Ile
+</DATA>

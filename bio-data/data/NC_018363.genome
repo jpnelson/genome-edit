@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13668
+                     /organism="Thelazia callipaeda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="dog"
+                     /db_xref="taxon:103827"
+                     /dev_stage="adult"
+                     /country="China"
+
+</METADATA>
+<DATA>
++cox1
++tRNA-Trp
++nad6
++tRNA-Arg
++tRNA-Gln
++cytb
++tRNA-Leu
++cox3
++tRNA-Ala
++tRNA-Leu
++tRNA-Asn
++tRNA-Met
++tRNA-Lys
++nad4L
++small subunit ribosomal RNA
++tRNA-Tyr
++nad1
++tRNA-Phe
++atp6
++tRNA-Ile
++tRNA-Gly
++cox2
++tRNA-His
++large subunit ribosomal RNA
++nad3
++tRNA-Cys
++tRNA-Ser
++tRNA-Pro
++tRNA-Asp
++tRNA-Val
++nad5
++tRNA-Glu
++tRNA-Ser
++nad2
++tRNA-Thr
++nad4
+</DATA>

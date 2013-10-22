@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16029
+                     /organism="Philanthus triangulum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:280486"
+
+</METADATA>
+<DATA>
++trnM-cau
+-trnQ-uug
++ND2
+-trnC-gca
+-trnY-gua
++trnW-uca
++COX1
++trnL-uaa
++COX2
++trnK-uuu
++trnD-guc
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnA-ugc
++trnR-ucg
++trnN-guu
++trnE-uuc
++trnS-ucu
+-trnF-gaa
+-ND5
+-trnH-gug
+-ND4
+-ND4L
+-trnP-ugg
++trnT-ugu
++ND6
++CYTB
++trnS-uga
+-ND1
+-trnL-uag
+-l-rRNA
+-trnV-uac
+-s-rRNA
++trnI-gau
+</DATA>

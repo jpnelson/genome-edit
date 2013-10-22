@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16351
+                     /organism="Moschus moschiferus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:68415"
+
+</METADATA>
+<DATA>
++trnF
++s-rRNA
++trnV
++l-rRNA
++trnL(UUR)
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS(UCN)
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS(AGY)
++trnL(CUN)
++ND5
+-ND6
+-trnE
++CYTB
+-trnT
+-trnP
+</DATA>

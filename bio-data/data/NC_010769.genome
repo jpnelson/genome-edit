@@ -1,0 +1,43 @@
+<METADATA>
+     source          1..17427
+                     /organism="Aphrocallistes vastus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:83887"
+
+</METADATA>
+<DATA>
++rnl
++trnS(uga)
++trnL(uag)
++ND4L
++trnV(uac)
++trnA(ugc)
++ATP6
++COX3
++ND2
++ND5
++trnF(gaa)
++trnC(gca)
++ND1
++trnI(gau)
++trnN(guu)
++trnY(gua)
++CYTB
++trnR(ucu)
++ND4
++trnH(gug)
++ND6
++trnG(ucc)
++ATP9
++trnQ(uug)
++rns
++trnW(uca)
++trnM(cau)
++trnP(ugg)
++trnR
++trnK(uuu)
++ND3
++COX1
++COX2
+</DATA>

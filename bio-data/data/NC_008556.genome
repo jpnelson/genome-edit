@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15234
+                     /organism="Xenoturbella bocki"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:242395"
+                     /common="marine worm"
+
+</METADATA>
+<DATA>
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++ND5
++CYTB
++tRNA-Pro
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Thr
++tRNA-Leu
++tRNA-Leu
+-ND6
++tRNA-Glu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Asn
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Ala
+-tRNA-Tyr
+</DATA>

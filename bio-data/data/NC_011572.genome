@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14667
+                     /organism="Symphylella sp. YG-2006"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:390856"
+                     /common="symphylan"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Ser
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Leu
++tRNA-Glu
++tRNA-Asn
+-tRNA-Pro
+-tRNA-Leu
+-l-rRNA
+-tRNA-Tyr
+-s-rRNA
+-tRNA-Cys
+-tRNA-Gln
+-ND1
+-tRNA-Val
++tRNA-Thr
++CYTB
++tRNA-Ser
++ND6
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Arg
++tRNA-Trp
+</DATA>

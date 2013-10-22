@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14628
+                     /organism="Tigriopus japonicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:158387"
+                     /country="Japan: Kanagawa, Jogashima Island"
+                     /common="copepod"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Met
++tRNA-Pro
++tRNA-Asp
++tRNA-Glu
++tRNA-Ser
++tRNA-Cys
++tRNA-Ala
++tRNA-Leu
++ND2
++tRNA-Gln
++tRNA-Phe
++ND1
++COX2
++tRNA-Leu
++tRNA-Tyr
++CYTB
++tRNA-His
++tRNA-Arg
++ND4
++tRNA-Asn
++COX3
++l-rRNA
++tRNA-Gly
++tRNA-Thr
++s-rRNA
++tRNA-Lys
++tRNA-Ile
++ND5
++ND3
++tRNA-Val
++ND6
++ND4L
++ATP8
++ATP6
++tRNA-Ser
++tRNA-Trp
+</DATA>

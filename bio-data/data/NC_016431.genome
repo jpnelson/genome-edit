@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..24850
+                     /organism="Eunapius subterraneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:681720"
+
+</METADATA>
+<DATA>
++rnl
++COX2
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnaQ(uug)
++trnaW(uca)
++trnaN(guu)
++trnaL(uag)
++CYTB
++trnaT(ugu)
++ATP9
++trnaS(gcu)
++trnaP(ugg)
++ND4
++trnaH(gug)
++trnaE(uuc)
++ND6
++ND3
++trnaR(ucg)
++ND4L
++COX1
++trnaS(uga)
++trnaD(guc)
++trnaC(gca)
++ND1
++trnaL(uaa)
++trnaI(gau)
++trnaY(gua)
++trnaI(cau)
++trnaM(cau)f
++ND2
++ND5
++trnaA(ugc)
++trnaM(cau)e
++trnaF(gaa)
++rns
++trnaG(ucc)
++trnaV(uac)
+</DATA>

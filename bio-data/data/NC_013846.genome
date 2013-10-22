@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..21008
+                     /organism="Chaetoderma nitidulum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:256131"
+                     /common="glistenworm"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++COX2
++tRNA-Asp
++ATP8
++ATP6
++tRNA-Val
+-ND5
+-tRNA-His
+-tRNA-Phe
+-tRNA-Gly
+-tRNA-Trp
+-ND4
+-ND4L
++tRNA-Thr
+-CYTB
+-ND6
++tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-small subunit ribosomal RNA
+-tRNA-Met
+-tRNA-Cys
+-tRNA-Gln
+-tRNA-Tyr
+-large subunit ribosomal RNA
++tRNA-Ala
++tRNA-Arg
++tRNA-Ile
++tRNA-Glu
++COX3
++tRNA-Lys
++tRNA-Ser
++tRNA-Ser
++tRNA-Asn
++ND3
++ND2
+</DATA>

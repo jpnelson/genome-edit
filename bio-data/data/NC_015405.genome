@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..18913
+                     /organism="Paracorallium japonicum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:536042"
+                     /common="Japanese precious coral"
+
+</METADATA>
+<DATA>
++COX1
++s-rRNA
++ND1
++CYTB
++COX2
++ATP8
++ATP6
++COX3
++trmM
+-ND4
+-ND5
+-ND2
+-l-rRNA
+-msh1
+-ND4L
+-ND3
+-ND6
+</DATA>

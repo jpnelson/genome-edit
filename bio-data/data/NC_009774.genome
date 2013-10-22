@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15084
+                     /organism="Asymmetron inferum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:426587"
+                     /country="Japan: Kagoshima, off Nomamisaki"
+                     /common="lancelet"
+
+</METADATA>
+<DATA>
++COX1
++COX3
++ND3
++tRNA-Gln
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++ND6
+-tRNA-Gly
+-ND5
+-tRNA-Leu
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
++rrnS
++tRNA-Phe
++tRNA-Val
++rrnL
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Met
++ND2
+-tRNA-Asn
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

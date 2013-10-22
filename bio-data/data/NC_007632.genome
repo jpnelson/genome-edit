@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16642
+                     /organism="Echymipera rufescens australis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="australis"
+                     /db_xref="taxon:164528"
+                     /common="Rufous Spiny Bandicoot"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Ala
+-tRNA-Cys
++tRNA-Trp
+-tRNA-Asn
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

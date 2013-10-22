@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13536
+                     /organism="Taenia martis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TmaCr"
+                     /db_xref="taxon:159981"
+                     /dev_stage="cysticercus"
+                     /country="Croatia"
+
+</METADATA>
+<DATA>
++trnY
++trnL (CUN)
++trnS (UCN)
++trnL (UUR)
++trnR
++nad5
++trnG
++cox3
++trnH
++cob
++nad4L
++nad4
++trnQ
++trnF
++trnM
++atp6
++nad2
++trnV
++trnA
++trnD
++nad1
++trnN
++trnP
++trnI
++trnK
++nad3
++trnS (AGN)
++trnW
++cox1
++trnT
++rrnL
++trnC
++rrnS
++cox2
++trnE
++nad6
+</DATA>

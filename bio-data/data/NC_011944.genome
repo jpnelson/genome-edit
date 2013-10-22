@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..17411
+                     /organism="Thylacinus cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM number 125345 (skin)/49724(skull)"
+                     /db_xref="taxon:9275"
+                     /sex="male"
+                     /tissue_type="0.01 gram of hair from the right side of the
+                     skin and from the hair tufts between the toes on the right
+                     hindfoot, without appreciable damage to the skin"
+                     /dev_stage="adult"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Ile
++tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Ala
+-tRNA-Cys
++tRNA-Trp
+-tRNA-Asn
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

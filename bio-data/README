@@ -1,0 +1,53 @@
+###########################################
+####         Biology data README       ####
+###########################################
+#                                         #
+#           Joshua Nelson, 2013           #
+#                                         #
+###########################################
+
+Contents of this directory:
+	-data/:                     A directory containing scraped genome data
+	-generated-dzn-files:       An empty directory that make-dzn-from-genome.py will output to
+	-make-dzn-from-genome.py:   A python script to convert and compress scraped genome data to .dzn files for the MiniZinc model
+	
+######################################
+####    Disclaimer / Copyright    ####
+######################################
+
+Data from this dataset was scraped from the NCBI database.
+
+See http://www.ncbi.nlm.nih.gov/genomes/OrganelleResource.cgi?taxid=33208 for the original data source
+
+Note that the NCBI database is in the public domain, and this scraped dataset is also public domain.
+
+The NCBI database comes with the following disclaimer
+http://www.ncbi.nlm.nih.gov/About/disclaimer.html
+
+######################################
+#####    .genome data format     #####
+######################################
+NC_XXXXXX.genome - the file for organism with Accession number NC_XXXXXX
+
+<METADATA> </METADATA>  - anything between these tags contain information about the organism, including scientific and common name
+<DATA> </DATA>          - anything between these tags contain the gene content for the mitochondrial genome of the organism specified in the metadata. +/- signs indicate gene orientation
+
+
+######################################
+####   make-dzn-from-genome.py   ####
+######################################
+
+Purpose:
+	To generate dzn files for genome comparisons from biological data.
+	Note: generated files will not have been pre-processed. See "../inversion-only" for a script to pre-process files with costCap.
+	Alternatively, the line "costCap=N", where "N" is the length of the genome will work, but this will not be ideal (the performance benfit of pre-processing will be lost)
+
+Examples:	
+	python make-dzn-from-genome.py data/NC_005826.genome data/NC_013606.genome data/NC_016119.genome data/NC_011191.genome biol
+
+Where:
+	-Argument 1 to n-1: The genome files to compare
+	-Argument n:        the directory (within generated-dzn-files) to output the dzn files to
+
+Output:
+	-A directory of dzn files, in generated-dzn-files, with a problem.csv file describing the problems (in terms of i and j from the file name of generated the dzn files)

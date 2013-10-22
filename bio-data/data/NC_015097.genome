@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..16539
+                     /organism="Pollachius pollachius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pp1"
+                     /db_xref="taxon:185739"
+                     /tissue_type="liver"
+                     /country="Norway"
+
+</METADATA>
+<DATA>
++trnF
++12S rRNA
++trnV
++16S rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
+-trnP
++trnT
+-tRNA-Pro
+</DATA>

@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..15289
+                     /organism="Ligia oceanica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:96856"
+
+</METADATA>
+<DATA>
++tRNA-Glu
++tRNA-Ser
+-CYTB
+-tRNA-Thr
++ND5
++tRNA-Phe
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++ND6
++tRNA-Ser
+-l-rRNA
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
+-ND1
+-tRNA-Leu
++tRNA-Asn
++s-rRNA
+-tRNA-Trp
+-tRNA-Val
++tRNA-Ile
+</DATA>

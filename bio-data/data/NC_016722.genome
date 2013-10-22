@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16089
+                     /organism="Flustra foliacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:478208"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Asp
++ATP8
++ND3
++tRNA-Phe
++COX1
++tRNA-Ile
++tRNA-Val
++tRNA-Trp
++tRNA-Tyr
++tRNA-Glu
++tRNA-Ala
++tRNA-Gln
++ATP6
++tRNA-Pro
++tRNA-Ser
++tRNA-Thr
++COX2
++tRNA-Leu
++ND2
++tRNA-Cys
++CYTB
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Lys
++ND6
++tRNA-Ser
++tRNA-Met
++s-rRNA
++ND1
++tRNA-Asn
++tRNA-Gly
++l-rRNA
++tRNA-Trp
++tRNA-Leu
+</DATA>

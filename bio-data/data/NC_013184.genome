@@ -1,0 +1,25 @@
+<METADATA>
+     source          1..14266
+                     /organism="Dermatophagoides farinae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AD521"
+                     /isolation_source="University of Michigan Museum of
+                     Zoology carrion-cleaning culture"
+                     /host="Dermestes maculatus"
+                     /specimen_voucher="UMMZ BMOC 05-0812-001"
+                     /db_xref="taxon:6954"
+                     /country="USA: Michigan, Washtenaw Co., Ann Arbor"
+                     /lat_lon="42.27 N 83.73 W"
+                     /collection_date="12-Aug-2005"
+                     /collected_by="P. B. Klimov"
+
+</METADATA>
+<DATA>
++tRNA-Leu
++COX1
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

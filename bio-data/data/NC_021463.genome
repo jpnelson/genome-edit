@@ -1,0 +1,58 @@
+<METADATA>
+     source          1..14928
+                     /organism="Botryllus schlosseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="sc6a-b"
+                     /db_xref="taxon:30301"
+                     /tissue_type="colony"
+                     /country="USA:California: Santa Cruz harbor, Pacific
+                     Ocean"
+                     /note="long lived (6 years +), highly regenerative
+                     laboratory colony"
+
+</METADATA>
+<DATA>
++COX1
++trnS(UCN)
++ND6
++trnQ
++trnR
++ATP8
++trnF
++trnL(UUR)
++ND5
++trnK
++ND1
++trnL(UUR)
++ND2
++trnK
++COX2
++CYTB
++trnY
++trnV
++COX3
++trnG(AGR)
++ND3
++trnH
++trnM(UAU)
++trnT
++trnM
++ND4L
++trnP
++ND4
++trnN
++trnC
++trnW
++trnL(CUN)
++trnA
++rrnS
++trnS(AGY)
++trnK
++trnG(GGN)
++trnD
++rrnL
++trnI
++ATP6
++trnE
+</DATA>

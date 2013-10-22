@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..17575
+                     /organism="Fissurella volcano"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:707972"
+                     /country="USA"
+                     /collected_by="W. Brian Simison"
+                     /common="volcano limpet"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++ATP8
++tRNA-Glu
++tRNA-Gly
++tRNA-Asp
++tRNA-Gln
++tRNA-Trp
++tRNA-Cys
++tRNA-Tyr
++tRNA-Met
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
++tRNA-Phe
++ATP6
++tRNA-Met
++tRNA-Lys
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
++tRNA-Arg
++COX3
++tRNA-Ala
++tRNA-Ser
++ND3
++tRNA-Ile
++ND2
+</DATA>

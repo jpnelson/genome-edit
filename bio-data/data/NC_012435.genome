@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13856
+                     /organism="Pyramidella dolabrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:252582"
+
+</METADATA>
+<DATA>
++tRNA-Tyr
++COX1
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++ND6
++ND5
++ND1
++ND4L
++CYTB
++tRNA-Lys
++tRNA-Phe
++tRNA-Asp
++COX2
++tRNA-Trp
++tRNA-Cys
+-tRNA-Gln
+-ATP6
+-tRNA-Arg
+-tRNA-Leu
+-tRNA-Gly
+-tRNA-His
+-ATP8
+-tRNA-Asn
+-tRNA-Glu
+-s-rRNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
++tRNA-Ser
++ND4
+-tRNA-Thr
+-COX3
++tRNA-Ile
++ND2
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..18043
+                     /organism="Neophema chrysogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:678581"
+
+</METADATA>
+<DATA>
++COX1
+-trnS-uga
++trnD-guc
++COX2
++trnK-cuu
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnR-ucg
++ND4L
++ND4
++trnH-gug
++trnS-gcu
++trnL-uag
++ND5
++CYTB
++trnT-ugu
+-trnP-ugg
+-ND6
+-trnE-uuc
++trnF-gaa
++s-rRNA
++trnV-uac
++l-rRNA
++trnL-uaa
++ND1
++trnI-gau
+-trnQ-uug
++trnM-cau
++ND2
++trnW-uca
+-trnA-ugc
+-trnN-guu
+-trnC-gca
+-trnY-gua
+</DATA>

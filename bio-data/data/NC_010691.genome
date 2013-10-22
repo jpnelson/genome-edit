@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16580
+                     /organism="Ophiura albida"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:72672"
+                     /common="brittlestar"
+
+</METADATA>
+<DATA>
++COX1
++trnR
++ND4L
++COX2
++trnK
++ATP8
++ATP6
++COX3
+-trnS(UCN)
++ND3
++ND4
++trnH
++trnS(AGY)
++ND5
+-ND6
+-trnG
+-16S rRNA
+-trnM
+-trnP
+-12S rRNA
+-trnF
+-trnE
++trnC
+-trnV
+-trnY
+-trnL(CUN)
+-trnA
+-trnQ
++trnN
++trnL(UUR)
++ND1
++trnI
++ND2
++trnD
++CYTB
++trnT
++trnW
+</DATA>

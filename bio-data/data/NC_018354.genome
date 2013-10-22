@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15026
+                     /organism="Naupactus xanthographus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU-CO691"
+                     /db_xref="taxon:114905"
+
+</METADATA>
+<DATA>
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++tRNA-Ala
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

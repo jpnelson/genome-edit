@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..18978
+                     /organism="Eurypharynx pelecanoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM-ZF 10311 (Natural History Museum &
+                     Institute, Chiba, Japan)"
+                     /db_xref="taxon:55117"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Trp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Leu
++ND5
+-ND6
++tRNA-Thr
+-tRNA-Pro
++tRNA-Ile
++tRNA-Met
++ND2
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
+-tRNA-Glu
++CYTB
+</DATA>

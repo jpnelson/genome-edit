@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..18919
+                     /organism="Romanomermis iyengari"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:416168"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
+-tRNA-Leu
++tRNA-Phe
++tRNA-Pro
+-tRNA-Tyr
++ND4L
++tRNA-Lys
+-tRNA-Leu
+-tRNA-Gln
+-ND6
++tRNA-Thr
++l-rRNA
++tRNA-Ser
++ND2
++ND3
+-tRNA-Gly
++ND3
++tRNA-Ile
+-tRNA-Asp
+-tRNA-Met
+-tRNA-Gly
++s-rRNA
++tRNA-His
+-ND4
++tRNA-Gly
+-COX2
++tRNA-Gly
+-COX1
+-CYTB
++tRNA-Ser
++ND1
+-tRNA-Trp
+-COX3
+-tRNA-Arg
++ND5
++tRNA-Val
++tRNA-Cys
+-tRNA-Ala
+-tRNA-Asn
++ATP6
++tRNA-Glu
+</DATA>

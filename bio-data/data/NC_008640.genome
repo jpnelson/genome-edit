@@ -1,0 +1,59 @@
+<METADATA>
+     source          1..26194
+                     /organism="Romanomermis culicivorax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13658"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
++COX2
++tRNA-Pro
+-tRNA-Tyr
++ND4L
+-tRNA-Gln
+-ND6
++tRNA-Leu
+-ND2
+-COX3
+-tRNA-Arg
++tRNA-Ile
++s-rRNA
+-tRNA-Leu
++tRNA-Ser
+-tRNA-Glu
+-ND4
++tRNA-Ser
+-tRNA-Asn
++ND3
+-tRNA-Lys
++tRNA-Ser
+-tRNA-Asn
++ND3
+-tRNA-Lys
++tRNA-Ser
++tRNA-His
++tRNA-Thr
+-CYTB
+-ATP6
++tRNA-Ala
+-tRNA-Cys
+-tRNA-Val
+-ND5
+-l-rRNA
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++tRNA-Phe
++COX1
++tRNA-Asn
++tRNA-Lys
+-ND3
++tRNA-Asn
+-ND1
+-tRNA-Thr
+-tRNA-His
+-tRNA-Ser
++tRNA-Trp
+</DATA>

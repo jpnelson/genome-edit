@@ -1,0 +1,35 @@
+<METADATA>
+     source          1..10567
+                     /organism="Scolytus sp. APV-2011"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1069884"
+
+</METADATA>
+<DATA>
++rrnl
++trnL
++ND1
+-trnS
+-CYTB
+-ND6
++trnP
+-trnT
++ND4L
++ND4
++ND5
+-trnE
+-trnN
+-trnR
+-trnA
+-ND3
+-trnG
+-COX3
+-ATP6
+-ATP8
+-trnD
+-trnK
+-COX2
+-trnL
+-COX1
+</DATA>

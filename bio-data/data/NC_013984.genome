@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..17205
+                     /organism="Hypsiglena ochrorhyncha klauberi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="klauberi"
+                     /specimen_voucher="CAS 229918"
+                     /db_xref="taxon:509074"
+                     /country="USA: Malibu Creek, 0.25 mi S of Malibu Cr. St.
+                     Park, 0.5 mi E of Peterstrauss Ranch, off Mulholland Hwy.,
+                     Santa Monica Mts., Los Angeles Co., CA"
+                     /lat_lon="34.1120 N 118.7724 W"
+                     /note="voucher located at California Academy of Sciences,
+                     San Francisco"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

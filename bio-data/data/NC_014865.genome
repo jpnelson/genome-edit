@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..14558
+                     /organism="Paranemertes cf. peregrina SCS-2010"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="pp200802"
+                     /db_xref="taxon:743461"
+                     /country="China"
+                     /common="ribbon worm"
+
+</METADATA>
+<DATA>
++trnY
+-trnP
++ND6
++CYTB
++trnS(uga)
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnE
++trnG
++COX3
++trnK
++trnA
++trnF
++trnQ
++trnR
++trnN
++trnI
++ND3
++COX1
++trnW
++trnS(gcu)
++ND2
++COX2
++trnD
++ATP8
++ATP6
++trnC
++trnM
++rrnS
++trnV
++rrnL
++trnL(uag)
++trnL(uaa)
++ND1
+</DATA>

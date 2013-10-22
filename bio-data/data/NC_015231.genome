@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16277
+                     /organism="Ostrea denselamellosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74434"
+                     /common="flat oyster"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Gly
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++COX2
++tRNA-Met
++tRNA-Ser
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Pro
++l-rRNA
++ND2
++tRNA-Cys
++tRNA-Tyr
++ATP6
++tRNA-Asn
++tRNA-Arg
++tRNA-Val
++tRNA-His
++ND4
++s-rRNA
++l-rRNA
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Lys
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
++tRNA-Asp
+</DATA>

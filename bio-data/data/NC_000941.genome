@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15451
+                     /organism="Terebratulina retusa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7580"
+                     /common="lampshell"
+
+</METADATA>
+<DATA>
++ND2
++COX1
++COX2
++tRNA-Asp
++ATP8
++ATP6
++tRNA-Tyr
++tRNA-Cys
++tRNA-Met
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Leu
++ND1
++ND6
++tRNA-Pro
++CYTB
++tRNA-Lys
++tRNA-Asn
++tRNA-Ser
++ND4L
++ND4
++tRNA-Gln
++tRNA-Trp
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Glu
++tRNA-Gly
++COX3
++tRNA-Thr
++tRNA-Arg
++tRNA-Ile
++ND3
++tRNA-Ser
+</DATA>

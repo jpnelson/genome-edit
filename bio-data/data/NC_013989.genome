@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..17209
+                     /organism="Hypsiglena chlorophaea deserticola"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="deserticola"
+                     /specimen_voucher="MVZ 241611"
+                     /db_xref="taxon:427717"
+                     /country="USA: 10.4 Rd mi SE of Hwy 93A (NV), on road to
+                     Ibapah, Tooele Co., UT"
+                     /lat_lon="40.3250 N 114.0315 W"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

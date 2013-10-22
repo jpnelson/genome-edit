@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..20332
+                     /organism="Oscarella malakhovi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="DL051"
+                     /db_xref="taxon:908211"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++mttB
++trnQ(uug)
++trnN(guu)
++trnW(uca)
++trnI(cau)
++trnI(gau)
++trnY(gua)
++trnL(uaa)
++trnG(ucc)
++trnM(cau)f
++ND2
++ND5
++trnL(uag)
++CYTB
+-trnM(cau)e
+-trnA(ugc)
+-ND4L
+-ND6
+-trnE(uuc)
+-trnH(gug)
+-ND4
+-trnP(ugg)
+-trnS(gcu)
+-ATP9
+-trnT(ugu)
+-rns
+-trnF(gaa)
+-COX3
+-trnR(ucu)
+-ATP6
+-ATP8
+-trnV(uac)
+-trnT(ugu)
+-ND1
+-trnK(uuu)
+-trnC(gca)
+-trnD(guc)
+-trnS(uga)
+-COX1
++COX2
++trnV(uac)
+</DATA>

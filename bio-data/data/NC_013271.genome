@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17321
+                     /organism="Loripes lacteus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:406538"
+                     /common="clam"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Phe
++tRNA-Lys
++tRNA-His
++COX3
++tRNA-Met
++ND4L
++tRNA-Ser
++ND2
++COX2
++tRNA-Ser
++ND6
++CYTB
++tRNA-Gly
++ATP6
++tRNA-Leu
++tRNA-Glu
++s-rRNA
++tRNA-Trp
++tRNA-Asn
++ND4
++tRNA-Pro
++tRNA-Thr
++tRNA-Val
++tRNA-Arg
++tRNA-Leu
++ND3
++tRNA-Ile
++l-rRNA
++tRNA-Tyr
++ND1
++tRNA-Gln
++ATP8
++tRNA-Cys
++tRNA-Ala
++ND5
++tRNA-Asp
+</DATA>

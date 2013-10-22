@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15798
+                     /organism="Xenograpsus testudinatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:533011"
+                     /common="hydrothermal vent crab"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Asn
++tRNA-Arg
++tRNA-Glu
++tRNA-Thr
++ND6
++CYTB
++tRNA-Ser
+-tRNA-His
+-tRNA-Phe
+-ND5
+-ND4
+-ND4L
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Ile
++tRNA-Trp
+</DATA>

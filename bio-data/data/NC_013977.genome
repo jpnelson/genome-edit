@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..17209
+                     /organism="Hypsiglena chlorophaea chlorophaea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="chlorophaea"
+                     /specimen_voucher="MVZ 237359"
+                     /db_xref="taxon:509065"
+                     /country="USA: 8.4 miles west of Tuscon (at I-10) on Hwy
+                     86, Pima Co., AZ"
+                     /lat_lon="32.1553 N 111.1148 W"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

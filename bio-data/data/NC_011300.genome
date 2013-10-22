@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..14010
+                     /organism="Enterobius vermicularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:51028"
+
+</METADATA>
+<DATA>
++ND1
++ATP6
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Tyr
++tRNA-Arg
++tRNA-Gln
++tRNA-Cys
++l-rRNA
++tRNA-Met
++ND6
++tRNA-Val
++tRNA-Trp
++tRNA-Phe
++CYTB
++COX3
++tRNA-Pro
++tRNA-Thr
++ND4
++tRNA-Gly
++ND4L
++tRNA-Lys
++ND3
++ND5
++tRNA-Leu
++tRNA-Glu
++tRNA-Asp
++COX2
++tRNA-His
++s-rRNA
++tRNA-Ala
++tRNA-Ser
++tRNA-Ile
++tRNA-Asn
++COX1
+</DATA>

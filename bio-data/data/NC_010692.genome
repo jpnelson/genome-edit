@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16156
+                     /organism="Antedon mediterranea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:105859"
+                     /common="feather star"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++trnK
++ATP8
++ATP6
++COX3
+-trnS(UCN)
++ND3
++ND4
++trnH
++trnR
++ND4L
++trnS(AGY)
++ND5
+-ND6
++CYTB
++trnP
+-trnQ
++trnN
++trnL
++trnW
++trnC
++trnM
+-trnA
+-trnV
+-trnD
+-trnT
+-trnE
+-12S rRNA
+-trnF
+-trnL(UUR)
+-trnG
+-16S rRNA
+-trnY
+-ND2
+-trnI
+-ND1
+</DATA>

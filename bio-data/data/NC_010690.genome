@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14322
+                     /organism="Toxocara canis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Canis familiaris"
+                     /db_xref="taxon:6265"
+                     /dev_stage="adult"
+                     /country="China:Guangdong"
+
+</METADATA>
+<DATA>
++ND1
++ATP6
++trnK
++trnL(UUR)
++trnS(AGY)
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL(CUN)
++COX3
++trnT
++ND4
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++rrnL
++ND3
++ND5
++trnA
++trnP
++trnV
++ND6
++ND4L
++trnW
++trnE
++rrnS
++trnS(UCN)
++trnN
++trnY
+</DATA>

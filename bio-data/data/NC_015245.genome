@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15954
+                     /organism="Pristionchus pacificus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="PS312 California"
+                     /db_xref="taxon:54126"
+                     /country="USA: California"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
++tRNA-Pro
++tRNA-Val
++ND6
++ND4L
++tRNA-Trp
++tRNA-Glu
++s-rRNA
++tRNA-Ser
++tRNA-Asn
++tRNA-Tyr
++ND1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Arg
++tRNA-Gln
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Thr
++ND4
++COX1
++tRNA-Cys
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++COX2
++tRNA-His
++l-rRNA
++ND3
++ND5
++tRNA-Ala
+</DATA>

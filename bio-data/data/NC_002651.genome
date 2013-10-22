@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14670
+                     /organism="Heterodoxus macropus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="South Stradbroke Island"
+                     /db_xref="taxon:145266"
+
+</METADATA>
+<DATA>
++tRNA-Gln
+-tRNA-Val
++ND6
++tRNA-Pro
++tRNA-Thr
++COX1
+-tRNA-Cys
+-tRNA-Met
++tRNA-Trp
++tRNA-Glu
+-tRNA-Arg
+-tRNA-His
++COX3
++tRNA-Ser
++ND1
++CYTB
++tRNA-Leu
+-ND4
+-ND4L
++ND2
++tRNA-Gly
+-tRNA-Leu
+-ND5
++tRNA-Lys
++tRNA-Asn
+-tRNA-Ala
++tRNA-Tyr
++COX2
+-ND3
+-tRNA-Asp
++tRNA-Ile
+-tRNA-Phe
+-tRNA-Ser
+-l-rRNA
+-s-rRNA
+-ATP6
+-ATP8
+</DATA>

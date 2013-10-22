@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16533
+                     /organism="Trinomys dimidiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:42829"
+
+</METADATA>
+<DATA>
++trnF(gaa)
++s-rRNA
++trnV(tac)
++l-rRNA
++trnL2(taa)
++ND1
++trnI(gat)
+-trnQ(ttg)
++trnM(cat)
++ND2
++trnW(tca)
+-trnA(tgc)
+-trnN(gtt)
+-trnC(gca)
+-trnY(gta)
++COX1
+-trnS2(tga)
++trnD(gtc)
++COX2
++trnK(ttt)
++ATP8
++ATP6
++COX3
++trnG(tcc)
++ND3
++trnR(tcg)
++ND4L
++ND4
++trnH(gtg)
++trnS1(gct)
++trnL1(tag)
++ND5
+-ND6
++trnE(ttc)
++CYTB
++trnT(tgt)
+-trnP(tgg)
+</DATA>

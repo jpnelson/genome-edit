@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..13913
+                     /organism="Aelurostrongylus abstrusus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:321389"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Cys
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++COX2
++tRNA-His
++16S ribosomal RNA
++ND3
++ND5
++tRNA-Ala
++tRNA-Pro
++tRNA-Val
++ND6
++ND4L
++tRNA-Trp
++tRNA-Glu
++12S ribosomal RNA
++tRNA-Ser
++tRNA-Asn
++tRNA-Tyr
++ND1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Arg
++tRNA-Gln
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Thr
++ND4
+</DATA>

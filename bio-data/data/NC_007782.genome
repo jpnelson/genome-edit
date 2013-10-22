@@ -1,0 +1,45 @@
+<METADATA>
+     source          1..26835
+                     /organism="Lottia digitalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:225159"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asn
++COX3
++tRNA-Phe
++tRNA-Val
++COX2
++tRNA-Glu
++tRNA-Thr
++tRNA-Pro
++l-rRNA
++tRNA-Met
++s-rRNA
++tRNA-Tyr
+-CYTB
++ATP8
++tRNA-Gln
++ND4L
++ND4
++tRNA-Leu
++tRNA-Ile
+-tRNA-Arg
++ND2
++tRNA-Trp
+-ND3
+-ATP6
+-tRNA-Ala
+-tRNA-Gly
++tRNA-Asp
++ND5
++tRNA-Ser
++tRNA-Leu
+-tRNA-His
+-ND1
++tRNA-Cys
++ND6
+</DATA>

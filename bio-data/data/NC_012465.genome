@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..18997
+                     /organism="Kinyongia fischeri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CAS168965; California Academy of
+                     Sciences, San Francisco"
+                     /db_xref="taxon:414978"
+                     /country="Tanzania: Mazumbai Forest Reserve, West Usambara
+                     Mtns., Lushoto Dist., Tanga Region"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
++tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

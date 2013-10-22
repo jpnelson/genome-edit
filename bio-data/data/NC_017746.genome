@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..17360
+                     /organism="Uroteuthis edulis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:55720"
+                     /country="Japan: Yamaguchi"
+                     /collection_date="19-Oct-2010"
+                     /note="Loligo edulis forma kensaki;
+                     synonym: Loligo edulis"
+
+</METADATA>
+<DATA>
++COX3
++ND3
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Gln
++tRNA-Ile
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Trp
++tRNA-Lys
++tRNA-Ser
++ND2
++COX1
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Glu
++tRNA-Asn
++COX2
+-tRNA-Met
++tRNA-Arg
+-tRNA-Phe
+-ND5
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Leu
+-tRNA-Gly
++tRNA-Ala
++tRNA-Asp
++ATP8
++ATP6
+-tRNA-His
+-tRNA-Leu
+</DATA>

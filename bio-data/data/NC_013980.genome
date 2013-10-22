@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..17208
+                     /organism="Hypsiglena ochrorhyncha ochrorhyncha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="ochrorhyncha"
+                     /specimen_voucher="MVZ 236396"
+                     /db_xref="taxon:509076"
+                     /country="Mexico: Mex. Hwy. 7, (rd to San Juan de la
+                     Costa), 2.7 rd mi N of Mex Hwy 1, Baja California Sur"
+                     /lat_lon="24.1584 N 110.4739 W"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

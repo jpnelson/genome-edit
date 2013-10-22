@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..16260
+                     /organism="Patiria pectinifera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7594"
+                     /tissue_type="ovary"
+                     /common="starfish"
+
+</METADATA>
+<DATA>
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

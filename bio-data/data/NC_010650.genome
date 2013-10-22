@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16310
+                     /organism="Mus terricolor"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:254704"
+
+</METADATA>
+<DATA>
++trnF
++Rnr1
++trnV
++Rnr2
++trnL1
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS1
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS2
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

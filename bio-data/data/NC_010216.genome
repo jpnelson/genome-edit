@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..20310
+                     /organism="Igernella notabilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:479643"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++COX1
++ND1
++COX2
++ATP8
++CYTB
++ND6
++ND3
++ND4L
++ATP6
++COX3
++ND4
++trnM(cau)
++ND2
++trnW(uca)
++ND5
++rns
++ATP9
+</DATA>

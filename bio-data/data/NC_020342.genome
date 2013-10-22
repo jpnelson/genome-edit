@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..15770
+                     /organism="Gynaephora menyuanensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Menyuan"
+                     /db_xref="taxon:1282418"
+                     /country="China: Qinghai-Tibetan Plateau"
+                     /lat_lon="37.5 N 101.3 E"
+                     /collection_date="Jun-2012"
+                     /collected_by="M.L. Yuan and Q.L. Zhang"
+                     /common="moth"
+
+</METADATA>
+<DATA>
++trnM
++trnI
+-trnQ
++ND2
++trnW
+-trnC
+-trnY
++COX1
++trnL
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-ND1
+-trnL
+-rrnL
+-trnV
+-rrnS
+</DATA>

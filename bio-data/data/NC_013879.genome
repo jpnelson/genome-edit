@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..19100
+                     /organism="Tetrabrachium ocellatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:242972"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Glu
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

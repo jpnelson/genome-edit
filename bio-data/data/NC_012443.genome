@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..18900
+                     /organism="Chamaeleo monachus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="elevation 810 m, Diksam Plateau, ca. 35
+                     km (by air)"
+                     /specimen_voucher="MVZ236484; Museum of Vertebrate
+                     Zoology, University of California at Berkeley"
+                     /db_xref="taxon:420383"
+                     /country="Yemen: SW Hadibo, Hadramawt Governorate, Socotra
+                     Island"
+                     /lat_lon="12.516167 N 53.986000 E"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
++tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

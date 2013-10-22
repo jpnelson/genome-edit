@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..16589
+                     /organism="Micronycteris megalotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T-5539"
+                     /specimen_voucher="V-2620"
+                     /db_xref="taxon:148066"
+                     /country="French Guiana"
+                     /collection_date="19-Oct-2009"
+                     /collected_by="A. Cockle & M. Delaval"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..17061
+                     /organism="Emeus crassus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Museum of New Zealand specimen no.
+                     S91."
+                     /db_xref="taxon:147466"
+                     /tissue_type="bone"
+                     /country="New Zealand: Otago, Castle Rocks, sub-fossil
+                     rock-shelter"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
++CYTB
++tRNA-Thr
+-tRNA-Pro
+-ND6
+-tRNA-Glu
+</DATA>

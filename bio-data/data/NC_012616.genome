@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16099
+                     /organism="Apostichopus japonicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:307972"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-ND6
++CYTB
++tRNA-Phe
++s-rRNA
++tRNA-Glu
++tRNA-Thr
++tRNA-Pro
+-tRNA-Gln
++tRNA-Asn
++tRNA-Leu
+-tRNA-Ala
++tRNA-Trp
++tRNA-Cys
+-tRNA-Val
++tRNA-Met
+-tRNA-Asp
++tRNA-Tyr
++tRNA-Gly
++tRNA-Leu
++ND1
++tRNA-Ile
++ND2
++l-rRNA
+</DATA>

@@ -1,0 +1,94 @@
+<METADATA>
+     source          1..16616
+                     /organism="Squaliobarbus curriculus x Ctenopharyngodon
+                     idella"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1286311"
+                     /PCR_primers="fwd_name: f1, fwd_seq:
+                     gcataacactgaagatgttaagatgg, rev_name: r1, rev_seq:
+                     caggcaaccagctatcaccag"
+                     /PCR_primers="fwd_name: f2, fwd_seq: tttagccagcaccctcaag,
+                     rev_name: r2, rev_seq: cttttccgatcctttcgtact"
+                     /PCR_primers="fwd_name: f3, fwd_seq: tcaacggaccaagttaccct,
+                     rev_name: r3, rev_seq: gtagggcggtgtgtcatagc"
+                     /PCR_primers="fwd_name: f4, fwd_seq:
+                     gcaaacattctactaataaatacccta, rev_name: r4, rev_seq:
+                     agcggtaattggaaggttttg"
+                     /PCR_primers="fwd_name: f5, fwd_seq:
+                     caaacccaactacgaaaaatcc, rev_name: r5, rev_seq:
+                     cacctgctaagtggagggaga"
+                     /PCR_primers="fwd_name: f6, fwd_seq:
+                     ttctttatagtgataccaatccttat, rev_name: r6, rev_seq:
+                     atgctggttcctcaaatgtg"
+                     /PCR_primers="fwd_name: f7, fwd_seq: caaaaatccacttcggggta,
+                     rev_name: r7, rev_seq: cgattcatgagaatactagaattgc"
+                     /PCR_primers="fwd_name: f8, fwd_seq:
+                     taccaggacgattaaaccaaac, rev_name: r8, rev_seq:
+                     gaagaatcccaggaagaagaatac"
+                     /PCR_primers="fwd_name: f9, fwd_seq: atccaagcccatgaccacta,
+                     rev_name: r9, rev_seq: ggtggaatgctagtcctataagtc"
+                     /PCR_primers="fwd_name: f10, fwd_seq:
+                     ctggtagcaatcctattcctcct, rev_name: r10, rev_seq:
+                     acctcatagtgccaggataataaat"
+                     /PCR_primers="fwd_name: f11, fwd_seq:
+                     tatgttagtaatccagtactcccag, rev_name: r11, rev_seq:
+                     tatatgtgtgttcattcagtgtcag"
+                     /PCR_primers="fwd_name: f12, fwd_seq:
+                     ataacagttcatccattggtcttag, rev_name: r12, rev_seq:
+                     cgttgaggtaggaggtgtttag"
+                     /PCR_primers="fwd_name: f13, fwd_seq:
+                     accaaccacaactagcattcct, rev_name: r13, rev_seq:
+                     ggtagtagcagcgggagttg"
+                     /PCR_primers="fwd_name: f14, fwd_seq:
+                     acatcgccacgtagtatagaaaac, rev_name: r14, rev_seq:
+                     ttgaggtatgtaaaattggcacta"
+                     /PCR_primers="fwd_name: f15, fwd_seq:
+                     acttctcatacaaggatcttctagg, rev_name: r15, rev_seq:
+                     gttttggggtttgacaaggat"
+                     /PCR_primers="fwd_name: f16, fwd_seq:
+                     tggcatatggttaaatgatgtgag, rev_name: r16, rev_seq:
+                     tatggcttaatgtttatcactgctg"
+                     /note="hybrid of Squaliobarbus curriculus (female) x
+                     Ctenopharyngodon idella (male)"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

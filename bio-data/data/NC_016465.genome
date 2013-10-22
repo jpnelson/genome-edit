@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..16898
+                     /organism="Clava multicornis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:498518"
+
+</METADATA>
+<DATA>
+-COX1
+-rnl
++COX2
++trnW(uca)
++ATP8
++ATP6
++COX3
++trnM(cau)
++ND2
++ND5
++rns
++ND6
++ND3
++ND4L
++ND1
++ND4
++CYTB
++COX1
+</DATA>

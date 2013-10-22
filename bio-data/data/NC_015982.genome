@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14491
+                     /organism="Sinentomon erythranum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:289455"
+                     /common="conehead"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++trnK-cuu
++trnD-uau
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnA-tgc
++trnR-ucg
++trnN-gtt
+-trnF-gaa
++trnS-TCN
++trnE-ttc
+-ND5
+-trnH-gug
+-ND4
+-ND4L
++trnT-ugu
++ND6
++CYTB
++trnS-AGN
++s-rRNA
++trnV-uac
++l-rRNA
++trnL-UUR
++trnL-CTN
++ND1
++trnP-ugg
++trnI-gau
++ND2
+-trnY-gua
+-trnQ-uug
++trnM-cau
++trnW-uca
+-trnC-gca
+</DATA>

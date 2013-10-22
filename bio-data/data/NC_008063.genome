@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14436
+                     /organism="Nephila clavata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:70342"
+                     /common="golden orb-web spider"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Gly
++ND3
+-tRNA-Leu
++tRNA-Asn
++tRNA-Ala
++tRNA-Ser
++tRNA-Arg
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++ND6
++tRNA-Ile
++CYTB
++tRNA-Ser
++tRNA-Thr
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Tyr
+-tRNA-Cys
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
+</DATA>

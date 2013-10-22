@@ -1,0 +1,22 @@
+<METADATA>
+     source          1..16569
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="caucasian"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /country="United Kingdom: Great Britain"
+                     /note="this is the rCRS"
+
+</METADATA>
+<DATA>
++TRNF
++RNR1
++TRNV
++RNR2
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

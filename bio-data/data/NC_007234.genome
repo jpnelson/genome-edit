@@ -1,0 +1,56 @@
+<METADATA>
+     source          1..32115
+                     /organism="Placopecten magellanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6577"
+
+</METADATA>
+<DATA>
++tRNA-Gly
++tRNA-Met
++tRNA-Met
++tRNA-Asn
++tRNA-Glu
++tRNA-Asp
++tRNA-Lys
++tRNA-Ser
++l-rRNA
++s-rRNA
++tRNA-Ser
++ND4L
++ND2
++ND4
++tRNA-His
++tRNA-Trp
++tRNA-Tyr
++tRNA-Thr
++tRNA-Ile
++tRNA-Met
++tRNA-Cys
++tRNA-Leu
++ND1
++COX1
++ND5
++ND3
++tRNA-Met
++ND6
++tRNA-Met
++tRNA-Phe
++tRNA-Met
++tRNA-Phe
++tRNA-Met
++ATP6
++tRNA-Leu
++CYTB
++COX2
++tRNA-Gln
++tRNA-Lys
++tRNA-Ala
++COX3
++tRNA-Phe
++tRNA-Met
++tRNA-Met
++tRNA-Met
++tRNA-Asn
+</DATA>

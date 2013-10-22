@@ -1,0 +1,34 @@
+<METADATA>
+     source          1..12631
+                     /organism="Sagitta enflata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="mimi50"
+                     /db_xref="taxon:52900"
+                     /country="Pacific Ocean: western North Pacific, Sagami
+                     Bay, Tokyo Cruise SEII070705, T/S Seiyo"
+                     /collection_date="05-Jul-2007"
+                     /collected_by="Hiroomi Miyamoto"
+                     /identified_by="Hiroomi Miyamoto"
+                     /common="arrow worm"
+                     /note="mesh_size; 0.33mm; mouth_opening; 0.16m2;
+                     net_max_depth; <300m; net_type; NORPAC ID;
+                     50enflatacomplete; station; S3; tow; vertical"
+
+</METADATA>
+<DATA>
++COX2
++ND1
++ND3
++ND2
++COX3
++tRNA-Met
++s-rRNA
+-ND4
+-ND5
+-ND4L
+-CYTB
+-ND6
++l-rRNA
++COX1
+</DATA>

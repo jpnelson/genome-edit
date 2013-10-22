@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..16612
+                     /organism="Sogatella furcifera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WBPHHN"
+                     /db_xref="taxon:113103"
+                     /sex="female"
+                     /country="China: Sanya, Hainan province"
+                     /collected_by="Kai-Jun Zhang"
+                     /identified_by="Kai-Jun Zhang"
+
+</METADATA>
+<DATA>
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Cys
++tRNA-Trp
+-tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++ND6
+-tRNA-Pro
++tRNA-Thr
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

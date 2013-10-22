@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15003
+                     /organism="Schistosoma haematobium"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6185"
+                     /lab_host="Mesocricetus auratus"
+                     /common="human blood fluke"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Glu
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Lys
++ND3
++tRNA-Asp
++ND1
++tRNA-Val
++tRNA-Pro
++tRNA-Met
++tRNA-Trp
++tRNA-Ser
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Asn
++tRNA-Ile
++tRNA-Phe
++ATP6
++ND2
++tRNA-Ala
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
+</DATA>

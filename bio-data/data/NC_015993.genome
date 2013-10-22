@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16730
+                     /organism="Mytilus californianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TP14F"
+                     /db_xref="taxon:6549"
+                     /haplotype="F"
+                     /country="USA: California, Terrace Point, Santa Cruz"
+
+</METADATA>
+<DATA>
++tRNA-Tyr
++CYTB
++COX2
++tRNA-Lys
++tRNA-Met
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Val
++ND4
++COX3
++tRNA-Ser
++tRNA-Met
++ND2
++tRNA-Arg
++tRNA-Trp
++tRNA-Ala
++tRNA-Ser
++tRNA-His
++tRNA-Pro
++ND3
++COX1
++ATP6
++tRNA-Thr
++ND4L
++ND5
++ND6
++tRNA-Phe
++s-rRNA
++tRNA-Gly
++tRNA-Asn
++tRNA-Glu
++tRNA-Cys
++tRNA-Ile
++tRNA-Gln
++tRNA-Asp
++l-rRNA
+</DATA>

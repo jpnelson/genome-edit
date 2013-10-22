@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..13932
+                     /organism="Siphonodentalium lobatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:203167"
+                     /common="tusk shell"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++tRNA-Gly
+-tRNA-Thr
++tRNA-Arg
++ND2
++ND4
++tRNA-Ile
++ND1
++ND5
+-tRNA-Tyr
+-ND4L
+-ATP8
+-tRNA-His
+-tRNA-Ala
+-tRNA-Trp
+-tRNA-Met
+-tRNA-Val
+-ND6
+-tRNA-Gln
+-tRNA-Lys
++s-rRNA
+-tRNA-Pro
+-tRNA-Asn
+-tRNA-Ser
+-CYTB
+-COX2
+-COX3
+-tRNA-Cys
+-ATP6
+-tRNA-Ser
+-ND3
+-tRNA-Glu
+-tRNA-Asp
+-tRNA-Phe
+-l-rRNA
+-tRNA-Leu
+</DATA>

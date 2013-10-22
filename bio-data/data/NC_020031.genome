@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..15374
+                     /organism="Callitettix versicolor"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="IZCAS:917655"
+                     /db_xref="taxon:533009"
+                     /country="China: Henan, Wugang"
+                     /collection_date="06-Sep-2007"
+                     /collected_by="Cuiping Bu"
+                     /identified_by="Aiping Liang"
+
+</METADATA>
+<DATA>
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++nad2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++cox1
++tRNA-Leu
++cox2
++tRNA-Lys
++tRNA-Asp
++atp8
++atp6
++cox3
++tRNA-Gly
++nad3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-nad5
+-tRNA-His
+-nad4
+-nad4L
++tRNA-Thr
+-tRNA-Pro
++nad6
++cytb
++tRNA-Ser
+-nad1
+-tRNA-Leu
+-large subunit ribosomal RNA
+-tRNA-Val
+-small subunit ribosomal RNA
+</DATA>

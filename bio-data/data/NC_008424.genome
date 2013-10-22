@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16603
+                     /organism="Leptonychotes weddellii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9713"
+                     /country="Antarctica"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S rRNA
++tRNA-Val
++16S rRNA
++tRNA-Leu(UUR)
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser(UCN)
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser(AGY)
++tRNA-Leu(CUN)
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

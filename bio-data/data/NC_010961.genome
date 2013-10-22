@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15347
+                     /organism="Metaperipatus inae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:444703"
+                     /common="velvet worm"
+
+</METADATA>
+<DATA>
++COX2
++ATP8
++ATP6
++tRNA-Val
+-ND4
+-tRNA-Pro
+-ND1
+-tRNA-Leu
++tRNA-Ile
++tRNA-Asn
+-tRNA-Arg
++tRNA-Cys
++tRNA-Asp
++tRNA-Gln
++tRNA-Met
++ND2
++COX1
++tRNA-Thr
+-tRNA-Ser
++COX3
++ND3
++tRNA-Ala
+-ND4L
+-tRNA-Leu
+-l-rRNA
++tRNA-Tyr
++tRNA-Gly
++tRNA-His
++tRNA-Phe
++tRNA-Glu
+-ND5
++tRNA-Lys
++ND6
++CYTB
++tRNA-Ser
+-s-rRNA
++tRNA-Trp
+</DATA>

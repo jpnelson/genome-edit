@@ -1,0 +1,34 @@
+<METADATA>
+     source          1..16539
+                     /organism="Rastrelliger brachysoma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:334878"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
+-tRNA-Glu
++tRNA-Thr
+-tRNA-Pro
+</DATA>

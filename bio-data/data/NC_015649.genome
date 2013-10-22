@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15814
+                     /organism="Rhabdopleura compacta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:638968"
+                     /country="United Kingdom:Plymouth"
+                     /common="hemichordate"
+
+</METADATA>
+<DATA>
++COX1
++COX3
++trnK
++COX2
++trnS(UCN)
++ATP8
++ATP6
++ND6
+-trnE
++trnT
+-trnG
++ND1
+-trnQ
++trnI
++ND2
++trnD
+-trnY
++trnL(UUR)
++ND3
+-trnP
++ND4L
++ND4
++trnA
++trnS(AGY)
++trnH
++trnF
++ND5
++trnN
++trnL(CUN)
++16S rRNA
++trnC
++12S rRNA
++CYTB
++trnM
++trnW
++trnV
++trnR
+</DATA>

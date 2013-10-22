@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13026
+                     /organism="Flustrellidra hispida"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:97271"
+                     /common="bristly bryozoan"
+
+</METADATA>
+<DATA>
++COX3
++ND5
++tRNA-Lys
++tRNA-Glu
++tRNA-Pro
++tRNA-Tyr
++tRNA-Leu
++ND1
++ND6
+-tRNA-Val
+-l-rRNA
+-tRNA-Leu
+-tRNA-Cys
+-tRNA-Gly
+-COX2
++tRNA-Asp
++tRNA-Trp
++ND4
++tRNA-His
++tRNA-Met
++tRNA-Arg
++s-rRNA
++ND4L
++tRNA-Ala
++tRNA-Gln
++ATP6
++tRNA-Ile
++COX1
++ATP8
++tRNA-Phe
++ND3
++tRNA-Thr
++ND2
++tRNA-Ser
++CYTB
++tRNA-Asn
+</DATA>

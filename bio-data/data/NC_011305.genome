@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15675
+                     /organism="Calliptamus italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU_IGC_OR073"
+                     /db_xref="taxon:334752"
+
+</METADATA>
+<DATA>
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnC
+-trnY
++COX1
++trnL
++COX2
++trnD
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-ND1
+-trnL
+-l-rRNA
+-trnV
+-s-rRNA
+</DATA>

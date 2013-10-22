@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14407
+                     /organism="Microcotyle sebastis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:116890"
+                     /common="rockfish gill parasite"
+
+</METADATA>
+<DATA>
++ND5
++tRNA-Glu
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Gly
++tRNA-Thr
++l-rRNA
++s-rRNA
++COX2
++tRNA-Met
++tRNA-His
++COX3
++tRNA-Cys
++tRNA-Lys
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
+</DATA>

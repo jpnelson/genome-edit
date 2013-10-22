@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13738
+                     /organism="Echinococcus multilocularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6211"
+                     /common="echinococcosis tapeworm"
+
+</METADATA>
+<DATA>
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++tRNA-Glu
++ND6
+</DATA>

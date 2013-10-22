@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..16813
+                     /organism="Myrmecobius fasciatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="DEC Donnelly District specimen number
+                     M108"
+                     /db_xref="taxon:55782"
+                     /country="Australia: Western Australia, 30 km northeast of
+                     Manjimup, 700 meters north of Eclipse Road on Corbalup
+                     Road, within the Corbal forest block in the Greater
+                     Kingston National Park"
+                     /lat_lon="34.1375 S 116.4583 E"
+                     /collection_date="28-Nov-2004"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Ile
++tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Ala
+-tRNA-Cys
++tRNA-Trp
+-tRNA-Asn
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

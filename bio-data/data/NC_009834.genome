@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..15535
+                     /organism="Phallusia fumigata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:395376"
+                     /tissue_type="siphon muscle"
+                     /country="Italy: Liguria"
+                     /common="black sea squirt"
+
+</METADATA>
+<DATA>
++COX2
++CYTB
++tRNA-Phe
++ATP6
++tRNA-Trp
++tRNA-Glu
++ND6
++tRNA-Asn
++tRNA-Ser
++ND3
++tRNA-Ile
++ND2
++tRNA-Lys
++tRNA-Cys
++ND4L
++tRNA-Met
++COX3
++tRNA-Gly
++tRNA-His
++ATP8
++tRNA-Met
++COX1
++tRNA-Gly
++ND1
++tRNA-Pro
++tRNA-Leu
++tRNA-Leu
++tRNA-Thr
++tRNA-Ile
++rrnS
++tRNA-Val
++rrnL
++tRNA-Ala
++ND4
++tRNA-Arg
++tRNA-Gln
++tRNA-Thr
++tRNA-Tyr
++tRNA-Tyr
++ND5
++tRNA-Ser
+</DATA>

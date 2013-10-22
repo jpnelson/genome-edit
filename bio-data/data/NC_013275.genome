@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..18940
+                     /organism="Lucinella divaricata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:406540"
+                     /common="bivalve mollusc"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Phe
++tRNA-Lys
++tRNA-His
++COX3
++tRNA-Met
++ND4L
++tRNA-Ser
++ND2
++COX2
++tRNA-Ser
++ND6
++CYTB
++tRNA-Gly
++ATP6
++tRNA-Cys
++tRNA-Leu
++tRNA-Glu
++s-rRNA
++tRNA-Trp
++tRNA-Asn
++ND4
++tRNA-Pro
++tRNA-Thr
++tRNA-Val
++tRNA-Arg
++tRNA-Leu
++ND3
++tRNA-Ile
++l-rRNA
++tRNA-Tyr
++ND1
++tRNA-Gln
++ATP8
++tRNA-Ala
++ND5
++tRNA-Asp
+</DATA>

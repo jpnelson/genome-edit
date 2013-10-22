@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..17415
+                     /organism="Chamaeleo africanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="elevation 295 m"
+                     /isolation_source="Guidan Iddar, 28km N. (via Tahoua Rd.)
+                     Birnin Konni"
+                     /specimen_voucher="MVZ238899; Museum of Vertebrate
+                     Zoology, University of California at Berkeley"
+                     /db_xref="taxon:91906"
+                     /country="Niger"
+                     /lat_lon="14.011167 N 5.321667 E"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
++tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

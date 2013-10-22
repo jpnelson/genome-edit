@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..23038
+                     /organism="Leptodeira septentrionalis polysticta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="polysticta"
+                     /specimen_voucher="MVZ 164943"
+                     /db_xref="taxon:427731"
+                     /country="Mexico: 62 km NE Atoyac on road to Puerto del
+                     Callo, Sierra Madre Sur, Guerrero"
+                     /lat_lon="17.3742 N 100.2094 W"
+                     /common="northern cat-eyed snake"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
++trnE
++CYTB
++trnT
+-trnP
+</DATA>

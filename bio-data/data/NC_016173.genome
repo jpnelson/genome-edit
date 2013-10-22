@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16143
+                     /organism="Paracladura trichoptera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1111055"
+                     /common="winter crane fly"
+
+</METADATA>
+<DATA>
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++tRNA-Asp
++COX3
++tRNA-Gly
++tRNA-Ala
++tRNA-Ser
++ND6
++tRNA-Ser
+-l-rRNA
+-s-rRNA
++tRNA-Met
++ND2
++tRNA-Trp
++tRNA-Ile
++COX2
++tRNA-Lys
++ATP8
++ATP6
++ND3
++tRNA-Arg
++tRNA-Asn
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++CYTB
+-ND1
+-tRNA-Leu
+-tRNA-Val
+-tRNA-Gln
+</DATA>

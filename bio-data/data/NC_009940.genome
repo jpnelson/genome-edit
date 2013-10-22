@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15717
+                     /organism="Strongylocentrotus droebachiensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7671"
+
+</METADATA>
+<DATA>
++CYTB
++tRNA-Phe
++12S rRNA
++tRNA-Glu
++tRNA-Thr
++tRNA-Pro
+-tRNA-Gln
++tRNA-Asn
++tRNA-Leu (CUN)
+-tRNA-Ala
++tRNA-Trp
++tRNA-Cys
+-tRNA-Val
++tRNA-Met
+-tRNA-Asp
++tRNA-Tyr
++tRNA-Gly
++tRNA-Leu (UUR)
++ND1
++tRNA-Ile
++ND2
++16S rRNA
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser (UCN)
++ND3
++ND4
++tRNA-His
++tRNA-Ser (AGN)
++ND5
+-ND6
+</DATA>

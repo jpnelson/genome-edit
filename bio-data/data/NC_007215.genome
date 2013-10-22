@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..15445
+                     /organism="Lepeophtheirus salmonis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:72036"
+
+</METADATA>
+<DATA>
+-ND4
++ND2
++COX3
++tRNA-Pro
++tRNA-Asp
+-tRNA-Ser
++tRNA-Trp
+-tRNA-Glu
++tRNA-Phe
++ND3
++ND5
++tRNA-Met
++tRNA-Ser
++tRNA-His
++COX2
++ND1
++COX1
+-l-rRNA
++tRNA-Ile
+-tRNA-Leu
++s-rRNA
++ND6
++tRNA-Ala
++tRNA-Lys
++tRNA-Gln
+-tRNA-Thr
+-ND4L
++tRNA-Lys
++tRNA-Asn
++tRNA-Gly
++tRNA-Val
++tRNA-Tyr
++ATP6
++tRNA-Arg
+-CYTB
++tRNA-Leu
+</DATA>

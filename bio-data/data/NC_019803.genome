@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..13764
+                     /organism="Bunostomum trigonocephalum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:66065"
+
+</METADATA>
+<DATA>
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++l-rRNA
++ND3
++ND5
++trnA
++trnP
++trnV
++ND6
++ND4L
++trnW
++trnE
++s-rRNA
++trnS1(UCN)
++trnN
++trnY
++ND1
++ATP6
++trnK
++trnL1(UUR)
++trnS2(AGN)
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL2(CUN)
++COX3
++trnT
++ND4
+</DATA>

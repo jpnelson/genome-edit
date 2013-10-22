@@ -1,0 +1,30 @@
+###########################################
+####       Inversion only README       ####
+###########################################
+#                                         #
+#           Joshua Nelson, 2013           #
+#                                         #
+###########################################
+
+Contents of this directory:
+	-baobab-lunar.jar:          The java file to calculate inversion only distances
+	-mass-io-preprocess.sh:     A script to pre-process an entire directory's .dzn files with a costCap parameter
+	
+baobab-lunar.jar downloaded from:
+http://pbil.univ-lyon1.fr/software/luna/
+
+######################################
+####   mass-io-preprocess.sh      ####
+######################################
+
+Purpose:
+	To pre-process an entire directory's dzn files.
+
+Examples:	
+    ./mass-io-preprocess.sh ../biol-data/generated-dzn-files/biol/
+    
+Where:
+	-Argument 1:    A directory of .dzn files to pre-process (in this example, a dataset generated from the information in ../biol-data/data, with ../biol-data/make-dzn-from-genome.py)
+
+Output:
+	-A pre-processed directory of dzn files. Adds the line "costCap=N;" to every .dzn file it finds, where "N" is the inversion-only distance for that .dzn file

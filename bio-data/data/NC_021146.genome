@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16208
+                     /organism="Sepia pharaonis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:158019"
+                     /country="China: Zhoushan, Zhejiang"
+                     /collected_by="Wang Wanchao, Li Jiji, Yao Mengxuan"
+                     /identified_by="Wang Wanchao, Guo Baoying, Li Jiji"
+
+</METADATA>
+<DATA>
++COX3
++trnK
++trnA
++trnR
++trnS
++ND2
++COX1
++COX2
++ATP8
++ATP6
++trnF
+-ND1
++trnL
++tRNA-Leu
++rrnL
++trnV
++rrnS
++trnC
++trnY
++trnQ
++trnG
++trnN
++trnI
++ND3
++trnD
+-ND5
++trnH
+-ND4
+-ND4L
++trnT
++tRNA-Ser
+-CYTB
+-ND6
++trnP
++trnM
++trnW
++trnE
+</DATA>

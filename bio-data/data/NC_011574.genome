@@ -1,0 +1,32 @@
+<METADATA>
+     source          1..13818
+                     /organism="Steganacarus magnus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:52000"
+                     /common="soil mite"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Leu
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++ND6
++CYTB
+-tRNA-Trp
++ND2
+-tRNA-Gln
+-tRNA-Ser
+-l-rRNA
+-ND1
+-s-rRNA
+</DATA>

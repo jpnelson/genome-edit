@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..20764
+                     /organism="Savalia savaglia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:328566"
+                     /common="Mediterranean zoanthid"
+
+</METADATA>
+<DATA>
++CYTB
++COX3
++COX1
++HEG
++ND4L
++ATP8
++ATP6
++s-rRNA
++ND2
++tRNA-Met
++l-rRNA
++ND5
++ND1
++ND3
++COX2
++ND4
++ND6
+</DATA>

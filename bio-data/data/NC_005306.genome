@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15923
+                     /organism="Vargula hilgendorfii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6674"
+                     /sex="female"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Asp
++ATP8
++ATP6
++COX3
+-tRNA-Ser
+-tRNA-Arg
+-tRNA-Ala
+-tRNA-Val
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
++ND6
++CYTB
+-tRNA-Lys
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
++tRNA-Pro
+-tRNA-Leu
+-l-rRNA
+-s-rRNA
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Tyr
+-ND3
+-tRNA-Gly
++tRNA-Leu
+-ND1
++tRNA-Cys
+</DATA>

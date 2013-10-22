@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..17177
+                     /organism="Stylophora pistillata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:50429"
+                     /country="Taiwan"
+                     /common="Red Sea coral"
+
+</METADATA>
+<DATA>
++tRNA-Met
++l-rRNA
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++s-rRNA
++COX3
++COX2
++ND4L
++ND3
++tRNA-Trp
++ATP8
++tRNA-Trp
++COX1
+</DATA>

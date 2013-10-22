@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16163
+                     /organism="Sepia officinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6610"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Ser
++ND2
++COX1
++COX2
++ATP8
++ATP6
+-tRNA-Phe
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Gln
+-tRNA-Gly
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Asp
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Pro
+-tRNA-Met
+-tRNA-Trp
+-tRNA-Glu
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15528
+                     /organism="Stenopus hispidus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6815"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++tRNA-Ala
++tRNA-Glu
++tRNA-Asn
++tRNA-Ser
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Gln
+-tRNA-Gln
++tRNA-Met
++tRNA-Ile
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..20908
+                     /organism="Discosoma sp. CASIZ 168915"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CASIZ 168915"
+                     /db_xref="taxon:386609"
+                     /common="disc anemone"
+                     /note="Green morph"
+
+</METADATA>
+<DATA>
++ND5
++tRNA-Met
++l-rRNA
++ND1
++CYTB
++ND4L
++ND3
++ATP8
++COX1
++COX3
++COX2
++ND2
++s-rRNA
++ND4
++ND6
++ATP6
++tRNA-Trp
+</DATA>

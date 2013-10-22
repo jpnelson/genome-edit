@@ -1,0 +1,58 @@
+<METADATA>
+     source          1..20088
+                     /organism="Negombata magnifica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="seawater, depth:10m"
+                     /specimen_voucher="SP25198"
+                     /db_xref="taxon:344322"
+                     /country="Israel:Red Sea, Eilat"
+                     /collection_date="23-Feb-2004"
+                     /collected_by="Chagai Rot"
+                     /identified_by="Micha Ilan"
+                     /common="Red Sea sponge"
+
+</METADATA>
+<DATA>
++rnl
++trnI(CAU)
++trnT(GUA)
++trnL(UUU)
++ATP8
++ATP6
++trnR(UCU)
++trnR(UCG)
++COX3
++trnQ(UUG)
++trnW(UCA)
++trnL(UAG)
++trnN(GUU)
++CYTB
++trnT(UGU)
++ATP9
++trnS(GCU)
++trnP(UGG)
++ND4
++trnH(GUG)
++trnE(UUC)
++ND6
++trnD(GUC)
++ND3
++ND4L
++trnY(AUA)
++COX1
++trnS(UGA)
++trnC(GCA)
++ND1
++trnL(UAA)
++trnI(GAU)
++trnM(CAU)
++ND2
++ND5
++trnA(UGC)
++COX2
++trnF(GAA)
++rns
++trnG(UCC)
++trnV(UAC)
+</DATA>

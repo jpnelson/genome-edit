@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15841
+                     /organism="Holothuria forskali"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:72674"
+                     /country="Spain:Ferrol"
+                     /common="cotton-spinner"
+
+</METADATA>
+<DATA>
++ND5
+-ND6
++CYTB
++trnF
++12S rRNA
++trnE
++trnT
++trnP
+-trnQ
++trnN
++trnL(CUN)
+-trnA
++trnW
++trnC
+-trnV
++trnM
+-trnD
++trnY
++trnG
++trnL(UUR)
++ND1
++trnI
++ND2
++16S rRNA
++COX1
++trnR
++ND4L
++COX2
++trnK
++ATP8
++ATP6
++COX3
+-trnS(UCN)
++ND3
++ND4
++trnH
++trnS(AGY)
+</DATA>

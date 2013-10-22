@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..21695
+                     /organism="Azumapecten farreri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Zhikong"
+                     /db_xref="taxon:106299"
+                     /common="sea scallop"
+
+</METADATA>
+<DATA>
++tRNA-Asn
++ND1
++tRNA-Arg
++l-rRNA
++COX1
++ND4L
++ND6
++tRNA-Leu
++CYTB
++tRNA-Cys
++tRNA-Ala
++s-rRNA
++ND5
++tRNA-Asp
++COX3
++tRNA-Lys
++tRNA-Phe
++tRNA-Gln
++tRNA-Glu
++ATP6
++COX2
++ND2
++tRNA-Thr
++tRNA-Pro
++tRNA-Ile
++tRNA-Leu
++tRNA-Met
++ND3
++tRNA-Ser
++ND4
++tRNA-His
++tRNA-Trp
++tRNA-Tyr
++tRNA-Gly
++tRNA-Val
+</DATA>

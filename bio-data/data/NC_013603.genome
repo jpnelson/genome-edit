@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16560
+                     /organism="Pseudotrapelus sinaitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:118229"
+                     /tissue_type="muscle"
+                     /country="Egypt"
+                     /collection_date="04-Oct-2005"
+                     /collected_by="Sayed Amer"
+                     /note="Zoology Department, Cairo University-Kumazawa lab
+                     collection"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++trnL(CUN)
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

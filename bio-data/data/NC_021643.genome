@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13931
+                     /organism="Ascaridia columbae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="pigeon"
+                     /db_xref="taxon:65462"
+                     /dev_stage="adult"
+                     /country="China"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Cys
++tRNA-Asn
++tRNA-Tyr
++ND1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Arg
++tRNA-Gln
++tRNA-Asp
++tRNA-Glu
++s-rRNA
++tRNA-Ser
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Thr
++ND4
++tRNA-Met
++tRNA-Gly
++COX2
++tRNA-His
++l-rRNA
++ND3
++ND5
++tRNA-Ala
++tRNA-Pro
++tRNA-Val
++ND6
++ND4L
++tRNA-Trp
+</DATA>

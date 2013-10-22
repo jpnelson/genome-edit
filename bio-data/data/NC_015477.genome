@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..16803
+                     /organism="Utterbackia peninsularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="14GCP2-88"
+                     /db_xref="taxon:872316"
+                     /haplotype="M"
+                     /sex="male"
+
+</METADATA>
+<DATA>
+-COX1
+-COX2
+-ND3
++trnA
++trnS1
++trnS2
++trnE
++ND2
++trnM
++trnW
++trnR
++s-rRNA
++trnK
++trnT
++trnY
++l-rRNA
++trnL
++trnN
++trnP
++tRNA-Pro
++CYTB
++trnF
+-ND5
+-trnH
++trnQ
++trnC
++trnI
++trnV
++trnL2
++ND1
++trnG
++ND6
+-ND4
+-ND4L
+-MORF
+-trnD
+-ATP8
+-ATP6
+-COX3
+</DATA>

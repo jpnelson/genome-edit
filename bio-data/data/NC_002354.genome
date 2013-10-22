@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14965
+                     /organism="Paragonimus westermani"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34504"
+                     /common="lung fluke"
+
+</METADATA>
+<DATA>
++tRNA-Gly
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++16S ribosomal RNA
++tRNA-Cys
++COX2
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
++tRNA-Glu
+</DATA>

@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..22887
+                     /organism="Sibon nebulatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ 233298"
+                     /db_xref="taxon:211651"
+                     /country="Costa Rica: Hotel 0.75 mi S mouth Rio
+                     Tortuguero, Limon"
+                     /lat_lon="10.5724 N 83.5167 W"
+                     /note="voucher located at Museum of Vertebrate Zoology, UC
+                     Berkeley"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

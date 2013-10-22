@@ -1,0 +1,64 @@
+<METADATA>
+     source          1..24961
+                     /organism="Metaseiulus occidentalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="COS"
+                     /db_xref="taxon:34638"
+
+</METADATA>
+<DATA>
++CYTB
+-tRNA-Phe
++tRNA-Lys
++ATP8
++ATP6
+-ND5
+-tRNA-Tyr
+-ND1
+-tRNA-Glu
++COX3
++COX1
++COX2
++tRNA-Cys
+-tRNA-Ser
++tRNA-Trp
+-ND4
+-ND4L
+-tRNA-His
++tRNA-Leu
+-tRNA-Gln
++tRNA-Val
++tRNA-Ala
+-tRNA-Leu
+-tRNA-Asp
++tRNA-Ile
++s-rRNA
++tRNA-Arg
++l-rRNA
+-ND2
++tRNA-Ser
++tRNA-Met
++tRNA-Asn
++tRNA-Thr
++tRNA-Pro
++tRNA-Gly
++CYTB
+-tRNA-Phe
++tRNA-Lys
++ATP8
++ATP6
+-ND5
+-tRNA-Tyr
+-ND1
+-tRNA-Glu
++COX3
++COX1
++COX2
++tRNA-Cys
+-tRNA-Ser
++tRNA-Trp
+-ND4
+-ND4L
+-tRNA-His
+</DATA>

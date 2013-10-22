@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14578
+                     /organism="Tigriopus californicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="San Diego"
+                     /db_xref="taxon:6832"
+                     /common="tidepool copepod"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Met
++tRNA-Pro
++tRNA-Asp
++tRNA-Glu
++tRNA-Ser
++tRNA-Cys
++tRNA-Ala
++tRNA-Leu
++ND2
++tRNA-Gln
++tRNA-Phe
++ND1
++COX2
++tRNA-Leu
++tRNA-Tyr
++CYTB
++tRNA-His
++tRNA-Arg
++ND4
++tRNA-Asn
++COX3
++tRNA-Trp
++l-rRNA
++tRNA-Gly
++tRNA-Thr
++s-rRNA
++tRNA-Lys
++tRNA-Ile
++ND5
++ND3
++tRNA-Val
++ND6
++ND4L
++ATP8
++ATP6
++tRNA-Ser
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16994
+                     /organism="Pinctada maxima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:104660"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Ala
++tRNA-Arg
++tRNA-Thr
++tRNA-Leu
++ND6
++tRNA-Gly
++tRNA-Trp
++ATP6
++COX3
++ND3
++tRNA-Ser
++tRNA-Gln
++ND2
++tRNA-Asn
++tRNA-His
++tRNA-Tyr
++tRNA-Pro
++tRNA-Asp
++ND1
++tRNA-Leu
++tRNA-Cys
++CYTB
++tRNA-Phe
++ND4L
++ND4
++tRNA-Lys
++tRNA-Val
++tRNA-Ser
++rrnL
++tRNA-Gln
++rrnS
++tRNA-Glu
++tRNA-Met
++ND5
++tRNA-Ile
+</DATA>

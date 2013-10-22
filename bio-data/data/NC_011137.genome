@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..16565
+                     /organism="Homo sapiens neanderthalensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="neanderthalensis"
+                     /db_xref="taxon:63221"
+                     /tissue_type="bone fossil"
+                     /country="Croatia"
+                     /common="Neandertal"
+
+</METADATA>
+<DATA>
++trnF
++12S rRNA
++trnV
++16S rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
++trnC
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

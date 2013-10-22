@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..18398
+                     /organism="Chrysopathes formosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AD2330AB6"
+                     /db_xref="taxon:359504"
+                     /common="black coral"
+                     /authority="Chrysopathes formosa Opresko 2003"
+
+</METADATA>
+<DATA>
++l-rRNA
++COX3
++COX1
++ND4L
++COX2
++ND4
++ND6
++ATP8
++ATP6
++ND5
++ND1
++ND3
++tRNA-Trp
++ND2
++s-rRNA
++CYTB
++tRNA-Met
+</DATA>

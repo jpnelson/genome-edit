@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14484
+                     /organism="Clavelina lepadiformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:159417"
+
+</METADATA>
+<DATA>
++COX1
++ND5
++tRNA-Thr
++tRNA-Tyr
++tRNA-Leu
++s-rRNA
++tRNA-Ser
++tRNA-Asp
++tRNA-Trp
++tRNA-Lys
++tRNA-Met
++ND2
++tRNA-Asn
++CYTB
++tRNA-Glu
++tRNA-Pro
++tRNA-Ile
++l-rRNA
++ND4
++tRNA-Ala
++ATP6
++ND4L
++ND6
++tRNA-Met
++ND1
++tRNA-Gly
++COX2
++tRNA-Phe
++ND3
++tRNA-Val
++tRNA-Leu
++tRNA-Ser
++COX3
++tRNA-Gln
++tRNA-Arg
++tRNA-Gly
++tRNA-His
++tRNA-Cys
+</DATA>

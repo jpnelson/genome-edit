@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16300
+                     /organism="Mus musculus domesticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="AKR/J"
+                     /sub_species="domesticus"
+                     /db_xref="taxon:10092"
+                     /tissue_type="liver"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++Trnl1
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-Trns1
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++Trns2
++Trnl2
++ND5
+-ND6
++tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

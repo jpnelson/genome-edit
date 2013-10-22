@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..17078
+                     /organism="Merluccius merluccius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Mm1"
+                     /db_xref="taxon:8063"
+                     /tissue_type="liver"
+                     /country="Norway"
+
+</METADATA>
+<DATA>
++trnF
++12S rRNA
++trnV
++16S rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

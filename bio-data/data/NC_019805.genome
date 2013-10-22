@@ -1,0 +1,38 @@
+<METADATA>
+     source          1..13659
+                     /organism="Echinorhynchus truttae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:185727"
+                     /common="thorny-headed worm"
+
+</METADATA>
+<DATA>
+-trnW
+-ND3
+-ATP6
+-trnD
+-ND6
+-trnL
+-lsu
+-trnY
+-trnG
+-COX1
+-ND2
+-trnS
+-trnN
+-trnA
+-COX3
+-trnC
+-COX2
+-trnF
+-ssu
+-trnM
+-trnI
+-ND1
+-CYTB
+-trnP
+-trnL
+-ND5
+-trnH
+</DATA>

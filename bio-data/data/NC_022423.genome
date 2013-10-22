@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16659
+                     /organism="Desmodus rotundus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T-3418"
+                     /specimen_voucher="EBRG:L-1874"
+                     /db_xref="taxon:9430"
+                     /sex="male"
+                     /country="Venezuela"
+                     /collection_date="12-Sep-2001"
+                     /collected_by="O. Linares"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S rRNA
++tRNA-Val
++16S rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

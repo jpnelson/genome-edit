@@ -1,0 +1,18 @@
+<METADATA>
+     source          1..16775
+                     /organism="Gallus gallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="white Leghorn"
+                     /db_xref="taxon:9031"
+                     /haplotype="diploid"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+
+</METADATA>
+<DATA>
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

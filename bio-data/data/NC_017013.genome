@@ -1,0 +1,15 @@
+<METADATA>
+     source          1..2943
+                     /organism="Alatina moseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /db_xref="taxon:675638"
+                     /chromosome="7"
+                     /country="USA: Waikiki, Honolulu, Oahu, Hawaii"
+
+</METADATA>
+<DATA>
++orf314
++polB
+</DATA>

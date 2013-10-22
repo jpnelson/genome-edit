@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..27133
+                     /organism="Schmidtea mediterranea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79327"
+                     /biotype="S2F2"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Glu
++ND6
++ND5
++tRNA-Ser
++tRNA-Asp
++tRNA-Arg
++COX3
++tRNA-Ile
++tRNA-Gln
++tRNA-Lys
++ATP6
++tRNA-Val
++ND1
++tRNA-Trp
++COX2
++tRNA-Pro
++tRNA-Ser
++ND3
++tRNA-Ala
++ND2
++tRNA-Met
++tRNA-His
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Leu
++tRNA-Tyr
++tRNA-Gly
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Thr
++tRNA-Cys
++tRNA-Asn
++CytB
++ND4L
++ND4
+</DATA>

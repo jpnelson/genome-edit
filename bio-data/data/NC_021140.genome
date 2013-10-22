@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13483
+                     /organism="Taenia laticollis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1035110"
+                     /dev_stage="adult tapeworm"
+                     /country="Finland"
+                     /note="sample code: TlatFin1"
+
+</METADATA>
+<DATA>
++trnY
++trnL(CUN)
++trnS(UCN)
++trnL(UUR)
++trnR
++ND5
++trnG
++COX3
++trnH
++CYTB
++ND4L
++ND4
++trnQ
++trnF
++trnM
++ATP6
++ND2
++trnV
++trnA
++trnD
++ND1
++trnN
++trnP
++trnI
++trnK
++ND3
++trnS(AGN)
++trnW
++COX1
++trnT
++rrnL
++trnC
++rrnS
++COX2
++trnE
++ND6
+</DATA>

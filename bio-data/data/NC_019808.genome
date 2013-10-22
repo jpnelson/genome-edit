@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..14282
+                     /organism="Macracanthorhynchus hirudinaceus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1032456"
+
+</METADATA>
+<DATA>
++COX1
++trnG
++trnQ
++trnY
++lsu
++trnL
++ND6
++trnD
++ATP6
++ND3
++trnW
++trnV
++trnK
++trnE
++trnT
++trnS
++ND4L
++ND4
++trnH
++ND5
++trnL
++trnP
++CYTB
++ND1
++trnI
++trnM
++ssu
++trnF
++COX2
++trnC
++COX3
++trnA
++trnR
++trnN
++trnS
++ND2
+</DATA>

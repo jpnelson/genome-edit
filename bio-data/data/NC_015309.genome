@@ -1,0 +1,26 @@
+<METADATA>
+     source          1..36676
+                     /organism="Placozoan sp. 'Shirahama'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:702324"
+                     /country="Japan: Wakayama, Shirahama"
+                     /collection_date="2006"
+
+</METADATA>
+<DATA>
+-cytb
+-nad4L
++nad1
+-nad2
+-nad5
+-cox3
+-cox1
++polB
+-nad6
+-atp6
+-rnLa
+-nad3
++cox2
++nad4
+</DATA>

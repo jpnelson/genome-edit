@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16067
+                     /organism="Ascoschoengastia sp. TATW-1"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="TATW-1"
+                     /db_xref="taxon:436354"
+                     /common="mite"
+
+</METADATA>
+<DATA>
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
++COX1
++tRNA-Thr
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Val
++tRNA-Arg
++ND4
++tRNA-Pro
++tRNA-Tyr
++ND4L
+-tRNA-Ile
+-s-rRNA
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Gln
+-tRNA-Phe
++ND5
+-tRNA-Ser
+-tRNA-Asn
+-tRNA-Gly
+-tRNA-Glu
+-COX3
+-ATP6
+-ATP8
+-tRNA-Asp
+-tRNA-Lys
+-COX2
++tRNA-Leu
+-tRNA-His
++tRNA-Ala
++ND3
+</DATA>

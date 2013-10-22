@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..16937
+                     /organism="Aurelia aurita"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6145"
+
+</METADATA>
+<DATA>
+-CYTB
+-ND4
+-ND1
+-ND4L
+-ND3
+-ND6
+-rns
+-ND5
+-ND2
+-trnM(cau)
+-COX3
+-ATP6
+-ATP8
+-trnW(uca)
+-COX2
++COX1
++rnl
++orf324
++dnaB
+</DATA>

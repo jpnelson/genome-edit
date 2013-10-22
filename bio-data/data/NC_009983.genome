@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..15564
+                     /organism="Bothriometopus macrocnemis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:475769"
+                     /common="screamer louse"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Lys
++ND4
++tRNA-His
++ND5
++ND1
++tRNA-Gln
++tRNA-Glu
++tRNA-Val
++s-rRNA
++tRNA-Met
++tRNA-Cys
++ND2
++tRNA-Asn
++tRNA-Thr
++tRNA-Ser
++tRNA-Trp
++tRNA-Val
++l-rRNA
++tRNA-Gly
++ND3
++tRNA-Trp
++ATP8
++ATP6
++tRNA-Ile
++tRNA-Leu
++CYTB
++tRNA-Phe
++tRNA-Asp
++ND6
++tRNA-Arg
++ND4L
++tRNA-Leu
++tRNA-Trp
++tRNA-Tyr
++COX2
++tRNA-Pro
++COX3
++tRNA-Trp
++tRNA-Ser
+</DATA>

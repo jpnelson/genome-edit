@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..19620
+                     /organism="Aplysina fulva"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:289401"
+
+</METADATA>
+<DATA>
++rnl
++trnD(guc)
++trnN(guu)
+-ND4L
+-trnR(ucg)
+-ND3
+-ND6
+-trnE(uuc)
+-trnH(gug)
+-ND4
+-trnP(ugg)
+-trnS(gcu)
+-ATP9
+-trnT(ugu)
+-CYTB
+-trnL(uag)
+-trnI(cau)
+-trnY(gua)
+-trnI(gau)
+-trnL(uaa)
+-ND1
+-trnC(gca)
+-trnS(uga)
++COX1
++COX2
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnQ(uug)
++trnW(uca)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++trnM(cau)e
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

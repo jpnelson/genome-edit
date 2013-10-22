@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..14017
+                     /organism="Laqueus rubellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:93892"
+                     /sex="female"
+                     /dev_stage="adult"
+                     /common="brachiopod lampshell"
+
+</METADATA>
+<DATA>
++tRNA-Asn
++COX1
++tRNA-Val
++CYTB
++tRNA-His
++ATP6
++tRNA-Gln
++tRNA-Trp
++ND5
++tRNA-Ala
++ND6
++tRNA-Ile
++ND3
++tRNA-Thr
++tRNA-Arg
++tRNA-Phe
++tRNA-Glu
++tRNA-Lys
++tRNA-Ser
++ND4L
++tRNA-Gly
++COX3
++tRNA-Asp
++ATP8
++tRNA-Ser
++ND2
++COX2
++tRNA-Leu
++l-rRNA
++s-rRNA
++tRNA-Met
++tRNA-Leu
++tRNA-Pro
++ND1
++tRNA-Tyr
++ND4
++tRNA-Cys
+</DATA>

@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..16561
+                     /organism="Agamermis sp. BH-2006"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Riverside"
+                     /db_xref="taxon:390897"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
++ND2
++ATP6
++tRNA-Met
+-tRNA-Leu
++ND5
++tRNA-Trp
+-tRNA-Phe
+-tRNA-Tyr
+-tRNA-Leu
+-tRNA-Pro
++tRNA-Gly
+-tRNA-His
++tRNA-Thr
++COX1
++tRNA-Ile
+-tRNA-Arg
+-tRNA-Gln
+-ND4L
++tRNA-Asn
++COX3
++l-rRNA
++COX2
++CYTB
++tRNA-Lys
++ND1
+-tRNA-Ser
+-ND6
++ND4
+-tRNA-Ala
++tRNA-Ser
++s-rRNA
++tRNA-Cys
+-tRNA-Ala
++tRNA-Ser
+-ND3
+-tRNA-Val
++tRNA-Glu
+-tRNA-Ala
++tRNA-Ser
++tRNA-Asp
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16881
+                     /organism="Phyllodactylus unctus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HMY-01"
+                     /db_xref="taxon:611294"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++NADH1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++NADH2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++CO1
+-tRNA-Ser
++tRNA-Asp
++CO2
++tRNA-Lys
++ATP8
++ATP6
++CO3
++tRNA-Gly
++NADH3
++tRNA-Arg
++NADH4L
++NADH4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++NADH5
+-NADH6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

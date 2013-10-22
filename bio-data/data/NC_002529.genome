@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14072
+                     /organism="Schistosoma mekongi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Khong Island"
+                     /db_xref="taxon:38744"
+                     /common="blood fluke"
+
+</METADATA>
+<DATA>
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
++COX3
++tRNA-Glu
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++ATP6
++ND2
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Trp
++tRNA-Val
++tRNA-Ser
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++ND6
++tRNA-Leu
++tRNA-Tyr
++tRNA-Ser
+</DATA>

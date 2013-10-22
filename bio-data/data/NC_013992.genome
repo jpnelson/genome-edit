@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..17203
+                     /organism="Hypsiglena torquata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MZFC 16926"
+                     /db_xref="taxon:46305"
+                     /country="Mexico: rd to Cosala, 23.3 rd mi N jct Hwy 15
+                     (Libre), Sinaloa"
+                     /lat_lon="24.3666 N 106.7618 W"
+                     /note="voucher located at Museo de Zoologia, Facultad de
+                     Ciencias, Universidad Nacional Autonoma de Mexico (UNAM)."
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

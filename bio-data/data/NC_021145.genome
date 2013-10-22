@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14296
+                     /organism="Dipylidium caninum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:66787"
+                     /dev_stage="adult tapeworm"
+                     /note="sample code: Dcan"
+
+</METADATA>
+<DATA>
++trnY
++trnS(UCN)
++trnL(CUN)
++trnL(UUR)
++trnR
++ND5
++trnG
++COX3
++trnH
++CYTB
++ND4L
++ND4
++trnQ
++trnF
++trnM
++ATP6
++ND2
++trnV
++trnA
++trnD
++ND1
++trnN
++trnP
++trnI
++trnK
++ND3
++trnS(AGN)
++trnW
++COX1
++trnT
++rrnL
++trnC
++rrnS
++COX2
++trnE
++ND6
+</DATA>

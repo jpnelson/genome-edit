@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16351
+                     /organism="Doliolum nationalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:76841"
+                     /common="tunicate"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Thr
++tRNA-Ser
++ATP8
++tRNA-Arg
++tRNA-Leu
++ND1
++tRNA-Met
++tRNA-Pro
++ND2
++tRNA-Asn
++tRNA-Val
++ND4
++tRNA-Trp
++tRNA-Asp
++tRNA-Cys
++l-rRNA
++tRNA-Ser
++tRNA-Glu
++tRNA-Phe
++tRNA-Tyr
++ND6
++tRNA-Gln
++tRNA-Ile
++s-rRNA
++tRNA-Lys
++COX3
++COX2
++CYTB
++tRNA-Gly
++ND4L
++ND3
++tRNA-His
++tRNA-Gly
++ND5
++tRNA-Ala
++ATP6
++tRNA-Leu
++tRNA-Met
+</DATA>

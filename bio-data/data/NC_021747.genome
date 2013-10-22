@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..14050
+                     /organism="Helix aspersa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6535"
+                     /tissue_type="hepatopancreas"
+                     /dev_stage="adult"
+                     /country="Chile: La Serena"
+                     /collected_by="Juan Diego Gaitan-Espitia"
+                     /synonym="Cornu aspersum"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++ND6
++tRNA-Pro
++ND5
++ND1
++ND4L
++CYTB
++tRNA-Asp
++tRNA-Cys
++tRNA-Phe
++COX2
++tRNA-Tyr
++tRNA-Trp
++tRNA-Gly
++tRNA-His
+-tRNA-Gln
+-tRNA-Leu
+-ATP8
+-tRNA-Asn
+-ATP6
+-tRNA-Arg
+-tRNA-Glu
+-s-rRNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
+-tRNA-Thr
+-COX3
++tRNA-Ser
++ND4
++tRNA-Ile
++ND2
++tRNA-Lys
+</DATA>

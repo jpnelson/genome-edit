@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16073
+                     /organism="Herpele squalostoma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BMNH 2002.97"
+                     /db_xref="taxon:118254"
+                     /note="specimen held at the The Natural History Museum,
+                     London (UK)"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++NAD1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++NAD2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++NAD3
++tRNA-Arg
++NAD4L
++NAD4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++NAD5
+-NAD6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14029
+                     /organism="Toxocara cati"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6266"
+                     /dev_stage="adult"
+                     /country="China:Hunan"
+
+</METADATA>
+<DATA>
++ND1
++ATP6
++trnK
++trnL2
++trnS1
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL1
++COX3
++trnT
++ND4
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++rnl
++ND3
++ND5
++trnA
++trnP
++trnV
++ND6
++ND4L
++trnW
++trnE
++rns
++trnS2
++trnN
++trnY
+</DATA>

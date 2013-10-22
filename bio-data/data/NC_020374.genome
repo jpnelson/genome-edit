@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..13605
+                     /organism="Echinococcus equinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Equus caballus"
+                     /db_xref="taxon:519353"
+                     /dev_stage="hydatid"
+                     /country="United Kingdom"
+                     /common="horse tapeworm"
+                     /note="sample code: EEQU/JEN"
+
+</METADATA>
+<DATA>
++trnY
++trnL (CUN)
++trnS (UCN)
++trnL (UUR)
++trnR
++ND5
++trnG
++COX3
++trnH
++CYTB
++ND4L
++ND4
++trnQ
++trnF
++trnM
++ATP6
++ND2
++trnV
++trnA
++trnD
++ND1
++trnN
++trnP
++trnI
++trnK
++ND3
++trnS (AGN)
++trnW
++COX1
++trnT
++rrnL
++trnC
++rrnS
++COX2
++trnE
++ND6
+</DATA>

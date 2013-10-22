@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16104
+                     /organism="Acanthocardia tuberculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385555"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Pro
++ND4L
++tRNA-Leu
++ND6
++COX2
++tRNA-Asp
++tRNA-Met
++tRNA-His
++ND3
++tRNA-Met
++tRNA-Trp
++tRNA-Lys
++tRNA-Leu
++ND1
++tRNA-Phe
++s-rRNA
++tRNA-Gln
++tRNA-Arg
++tRNA-Ile
++COX3
++tRNA-Ser
++tRNA-Thr
++ND5
++tRNA-Cys
++tRNA-Ser
++CYTB
++l-rRNA
++tRNA-Asn
++ND4
++tRNA-Tyr
++ATP6
++tRNA-Glu
++tRNA-Gly
++tRNA-Val
++ND2
++tRNA-Ala
+</DATA>

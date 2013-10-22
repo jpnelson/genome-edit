@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..19154
+                     /organism="Johnius belangerii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:240165"
+
+</METADATA>
+<DATA>
++tRNA-Val
++12S ribosomal RNA
++16S ribosomal RNA
++tRNA-Phe
++tRNA-Leu
++NADH1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++NADH2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++NADH3
++tRNA-Arg
++NADH4L
++NADH4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++NADH5
+-NADH6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

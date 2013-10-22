@@ -1,0 +1,78 @@
+<METADATA>
+     source          1..16627
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8128"
+                     /PCR_primers="fwd_name: 1F, fwd_seq:
+                     tgtagtaagagcccaccatca, rev_name: 1R, rev_seq:
+                     gggtatctaatcccagtttgt"
+                     /PCR_primers="fwd_name: 11F, fwd_seq: ccatagaaggtcctacac,
+                     rev_name: 11R, rev_seq: tgggaggaatgttggtagtgtt"
+                     /PCR_primers="fwd_name: 12F, fwd_seq: atcagcagacacccaagc,
+                     rev_name: 12R, rev_seq: aagcgagttagggtggcatt"
+                     /PCR_primers="fwd_name: 13F, fwd_seq: ccgtagacaatgccacc,
+                     rev_name: 13R, rev_seq: caccctggaaagaacg"
+                     /PCR_primers="fwd_name: 2F, fwd_seq: aaagccgaataccctcag,
+                     rev_name: 2R, rev_seq: tgtttgccgagttcct"
+                     /PCR_primers="fwd_name: 3F, fwd_seq:
+                     acaaagagggaactagacaaa, rev_name: 3R, rev_seq:
+                     gccgaggatagaatagactgc"
+                     /PCR_primers="fwd_name: 4F, fwd_seq:
+                     ccttccctttccaatagcaga, rev_name: 4R, rev_seq:
+                     caggatgtggcaagagtgtta"
+                     /PCR_primers="fwd_name: 5F, fwd_seq:
+                     acatcctcaacattcctcgta, rev_name: 5R, rev_seq:
+                     ttaagtcaacagaaggtccag"
+                     /PCR_primers="fwd_name: 6F, fwd_seq:
+                     atggactgtttatcccccgctc, rev_name: 6R, rev_seq:
+                     agggtgctgattaggaagacg"
+                     /PCR_primers="fwd_name: 7F, fwd_seq:
+                     agccagccacataaccactct, rev_name: 7R, rev_seq:
+                     gtcaggattgccactgtaggt"
+                     /PCR_primers="fwd_name: 8F, fwd_seq:
+                     actaaccgcaaatcttacagc, rev_name: 8R, rev_seq:
+                     aggtgggttcggtgaaatgct"
+                     /PCR_primers="fwd_name: 9F, fwd_seq: accgtctaatgactcccaca,
+                     rev_name: 9R, rev_seq: agttccagcccccgtaagtg"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

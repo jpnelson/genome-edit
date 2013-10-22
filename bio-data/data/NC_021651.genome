@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..16651
+                     /organism="Parahucho perryi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="47G"
+                     /db_xref="taxon:8042"
+                     /country="Japan: Huchen Farm in Ajigasawa, Aomori
+                     Prefecture"
+                     /collection_date="1997"
+                     /collected_by="A. Ivanov"
+
+</METADATA>
+<DATA>
++trnF-gaa
++s-rRNA
++trnV-uac
++l-rRNA
++trnL-uaa
++ND1
++trnI-gau
+-trnQ-uug
++trnM-cau
++ND2
++trnW-uca
+-trnA-ugc
+-trnN-guu
+-trnC-gca
+-trnY-gua
++COX1
+-trnS-uga
++trnD-guc
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnR-ucg
++ND4L
++ND4
++trnH-gug
++trnS-gcu
++trnL-uag
++ND5
+-ND6
+-trnE-uuc
++CYTB
++trnT-ugu
+-trnP-ugg
+</DATA>

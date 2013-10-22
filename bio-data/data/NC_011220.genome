@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..8194
+                     /organism="Hydra magnipapillata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6085"
+                     /chromosome="1"
+                     /common="hydra"
+
+</METADATA>
+<DATA>
+-COX1
++trnM
++lsu-rRNA
++trnW
++COX2
++ATP8
++ATP6
++COX3
++ND2
++ND5
++COX1
+</DATA>

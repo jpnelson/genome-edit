@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..18923
+                     /organism="Keratoisidinae sp. BAL208-1"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BAL208-1"
+                     /db_xref="taxon:444732"
+                     /common="bamboo coral"
+
+</METADATA>
+<DATA>
++COX1
++s-rRNA
++ND1
++CYTB
++ND6
++ND3
++ND4L
+-ND4
+-ND5
+-ND2
+-l-rRNA
+-msh1
+-tRNA-Met
+-COX3
+-ATP6
+-ATP8
+-COX2
+</DATA>

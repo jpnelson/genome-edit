@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..17146
+                     /organism="Ascidiella aspersa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:201961"
+                     /tissue_type="muscle"
+                     /country="Italy:Adriatic Sea, Venice Lagoon, Chioggia"
+                     /collection_date="11-Jul-2005"
+                     /identified_by="Francesco Mastrototaro, Loriano Ballarin"
+
+</METADATA>
+<DATA>
++COX2
++trnL(CUN)
++trnY
++ND5
++trnA
++ATP6
++trnM
++COX1
++CYTB
++trnG(GGN)
++trnC
++trnM(UAU)
++trnH
++trnN
++trnR
++rrnL
++trnP
++trnI
++trnQ
++rrnS
++trnD
++trnV
++trnL(UUR)
++COX3
++trnQ
++trnK
++trnT
++ND3
++trnP
++ATP8
++trnS(UCN)
++trnE
++trnS(AGY)
++trnW
++ND4L
++ND6
++ND4
++ND2
++trnG(AGR)
++ND1
++trnF
+</DATA>

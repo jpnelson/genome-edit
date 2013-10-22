@@ -1,0 +1,35 @@
+<METADATA>
+     source          1..11459
+                     /organism="Zonosagitta nagae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="23nagaecomplete"
+                     /specimen_voucher="mimi23"
+                     /db_xref="taxon:648573"
+                     /country="Pacific Ocean: western North Pacific, Sagami
+                     Bay"
+                     /collection_date="14-Jun-2007"
+                     /collected_by="Hiroomi Miyamoto"
+                     /identified_by="Hiroomi Miyamoto"
+                     /common="arrow worm"
+                     /note="EII070614;mesh_size; 0.33mm;mouth_opening;
+                     1m2;net_max_depth; 1400m;net_type; IONESS;;ship; T/S
+                     Seiyo;station; S3;tow; oblique"
+
+</METADATA>
+<DATA>
++COX2
++ND1
++ND3
++ND2
++COX3
++tRNA-Met
++s-rRNA
+-ND4
+-ND6
+-ND5
+-ND4L
+-CYTb
++l-rRNA
++COX1
+</DATA>

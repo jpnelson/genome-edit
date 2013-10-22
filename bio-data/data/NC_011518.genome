@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..18622
+                     /organism="Crassostrea hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Hainan big#1"
+                     /db_xref="taxon:298176"
+                     /country="China: Hainan"
+
+</METADATA>
+<DATA>
++COX1
++16S ribosomal RNA
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++tRNA-Asp
++COX2
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Met
++tRNA-Ser
++tRNA-Pro
++12S ribosomal RNA
++tRNA-Lys
++tRNA-Cys
++tRNA-Gln
++16S ribosomal RNA
++tRNA-Asn
++12S ribosomal RNA
++tRNA-Tyr
++ATP6
++tRNA-Gly
++tRNA-Val
++ND2
++tRNA-Arg
++tRNA-His
++ND4
++tRNA-Lys
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
+</DATA>

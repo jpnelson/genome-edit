@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15282
+                     /organism="Appalachioria falcifera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:382869"
+
+</METADATA>
+<DATA>
++12S ribosomal RNA
++tRNA-Val
++16S risbosomal RNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Pro
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Tyr
++tRNA-Gln
++tRNA-Cys
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
++COI
++COII
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COIII
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
++ND6
++CytB
++tRNA-Ser
++tRNA-Thr
+</DATA>

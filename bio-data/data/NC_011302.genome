@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15525
+                     /organism="Gryllotalpa pluvialis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU_IGC_OR028"
+                     /db_xref="taxon:552513"
+                     /common="common mole cricket"
+
+</METADATA>
+<DATA>
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnC
+-trnY
++COX1
++trnL
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-ND1
+-trnL
+-l-rRNA
+-trnV
+-s-rRNA
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14100
+                     /organism="Cepaea nemoralis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:28835"
+                     /tissue_type="hepatopancreas"
+                     /dev_stage="adult"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Ala
++ND6
++tRNA-Pro
++ND5
++ND1
++ND4L
++CYTB
++tRNA-Asp
++tRNA-Cys
++tRNA-Phe
++COX2
++tRNA-Tyr
++tRNA-Trp
++tRNA-Gly
++tRNA-His
+-tRNA-Gln
+-tRNA-Leu
+-ATP8
+-tRNA-Asn
+-ATP6
+-tRNA-Arg
+-tRNA-Glu
+-12S ribosomal RNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
+-tRNA-Thr
+-COX3
++tRNA-Ser
++ND4
++tRNA-Ile
++ND2
++tRNA-Lys
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15928
+                     /organism="Procambarus clarkii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6728"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Glu
+-tRNA-Gln
+-tRNA-Ser
+-tRNA-Asn
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Pro
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Thr
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

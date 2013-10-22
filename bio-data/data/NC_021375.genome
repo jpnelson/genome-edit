@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17199
+                     /organism="Coelomactra antiquata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ZZ"
+                     /db_xref="taxon:340419"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Val
++tRNA-Trp
++ND6
++tRNA-Gln
++tRNA-Thr
++ND1
++tRNA-Gly
++ND2
++tRNA-Asp
++tRNA-Pro
++s-rRNA
++tRNA-Tyr
++tRNA-Ser
++COX3
++CYTB
++l-rRNA
++ND4
++tRNA-His
++tRNA-Arg
++tRNA-Leu
++tRNA-Glu
++ATP6
++ND3
++tRNA-Lys
++tRNA-Ile
++ND5
++COX2
++ND4L
++tRNA-Asn
++tRNA-Leu
++tRNA-Cys
++tRNA-Met
++tRNA-Phe
++tRNA-Ala
++tRNA-Met
+</DATA>

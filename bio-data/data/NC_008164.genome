@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..16389
+                     /organism="Nematostella sp. JVK-2006"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:388630"
+                     /collected_by="Joint Genome Institute"
+                     /common="sea anemone"
+
+</METADATA>
+<DATA>
++ND5
++ND1
++ND3
++tRNA-Trp
++ND2
++s-rRNA
++COX2
++ND4
++ND6
++CYTB
++tRNA-Met
++l-rRNA
++COX3
++COX1
++ND4L
++ATP8
++ATP6
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15617
+                     /organism="Vampyroteuthis infernalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:55288"
+                     /common="vampire squid"
+
+</METADATA>
+<DATA>
++COX3
++trnK
++trnA
++trnR
++trnN
++trnI
++ND3
++trnS
++ND2
++COX1
++COX2
++trnD
++ATP8
++ATP6
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnS
+-CYTB
+-ND6
+-trnP
+-ND1
+-trnL
+-trnL
+-rrnL
+-trnV
+-rrnS
+-trnM
+-trnC
+-trnY
+-trnW
+-trnQ
+-trnG
+-trnE
+</DATA>

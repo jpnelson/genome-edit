@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..20030
+                     /organism="Crassostrea nippona"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:121615"
+
+</METADATA>
+<DATA>
++COX1
++l-rRNA
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++tRNA-Asp
++COX2
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Met
++tRNA-Ser
++tRNA-Pro
++s-rRNA
++tRNA-Lys
++tRNA-Cys
++l-rRNA
++tRNA-Gly
++tRNA-Asn
++s-rRNA
++tRNA-Tyr
++ATP6
++tRNA-Val
++ND2
++tRNA-Arg
++tRNA-His
++ND4
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
+</DATA>

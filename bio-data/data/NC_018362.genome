@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16014
+                     /organism="Perna viridis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:73031"
+
+</METADATA>
+<DATA>
++ATP6
++trnS1
++CYTB
++trnA
++COX2
++trnR
++trnM1
++trnD
++ND1
++ND4L
++trnY
++ND3
++trnT
++ND2
++trnE
++trnQ
++trnS2
++trnP
++trnL1
++trnN
++ND6
++trnC
++trnW
++trnK
++ND5
++trnL2
++rrnS
++trnI
++trnG
++trnV
++rrnL
++trnM2
++trnF
++trnH
++COX3
++ATP8
++COX1
++ND4
+</DATA>

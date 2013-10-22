@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..16414
+                     /organism="Ircinia strobilina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:467775"
+
+</METADATA>
+<DATA>
++rnl
++ATP9
++COX1
++ND1
++CYTB
++ND4
++ND6
++ND3
++ND4L
++COX2
++ATP8
++ATP6
++COX3
++trnW(uca)
++trnM(cau)
++ND2
++ND5
++rns
+</DATA>

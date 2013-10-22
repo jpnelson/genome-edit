@@ -1,0 +1,35 @@
+<METADATA>
+     source          1..11121
+                     /organism="Decipisagitta decipiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="55"
+                     /specimen_voucher="mimi55"
+                     /db_xref="taxon:366427"
+                     /country="Pacific Ocean: western North Pacific, Sagami
+                     Bay, Tokyo cruise T/S Seiyo SEII070705"
+                     /collection_date="05-Jul-2007"
+                     /collected_by="Hiroomi Miyamoto"
+                     /identified_by="Hiroomi Miyamoto"
+                     /common="arrow worm"
+                     /note="mesh_size; 0.33mm;mouth_opening; 0.16m2;
+                     net_max_depth; <300m; net_type; NORPAC decipienscomplete;
+                     station; S3tow; vertical"
+
+</METADATA>
+<DATA>
++ND1
++ND3
++ND2
++COX3
++tRNA-Met
++s-rRNA
+-ND4
+-ND6
+-ND5
+-ND4L
+-CYTb
++l-rRNA
++COX1
++COX2
+</DATA>

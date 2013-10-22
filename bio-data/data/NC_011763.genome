@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15954
+                     /organism="Hyriopsis cumingii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:165450"
+                     /sex="female"
+                     /common="triangleshell pearl mussel"
+
+</METADATA>
+<DATA>
++ND2
++tRNA-Met
+-ND3
++tRNA-Ala
++tRNA-Ser
++tRNA-Glu
++tRNA-Trp
++tRNA-Arg
++s-rRNA
++tRNA-Lys
++tRNA-Thr
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++tRNA-Asn
++tRNA-Pro
++CYTB
++tRNA-Phe
+-ND5
++tRNA-Gln
++tRNA-Cys
++tRNA-Ile
++tRNA-Val
++tRNA-Leu
++ND1
++tRNA-Gly
++ND6
+-ND4
+-ND4L
+-ATP8
+-tRNA-Asp
+-ATP6
+-COX3
+-COX1
+-COX2
+-tRNA-His
++tRNA-Ser
+</DATA>

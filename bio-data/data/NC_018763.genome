@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..22040
+                     /organism="Crassostrea sp. DB1"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="DB1"
+                     /db_xref="taxon:545777"
+                     /common="oyster"
+
+</METADATA>
+<DATA>
++COX1
++rrnL
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++tRNA-Asp
++COX2
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Met
++tRNA-Ser
++ATP8
++tRNA-Pro
++rrnS
++tRNA-Lys
++tRNA-Cys
++rrnL
++tRNA-Asn
++rrnS
++tRNA-Tyr
++ATP6
++tRNA-Gly
++tRNA-Val
++ND2
++tRNA-Arg
++tRNA-His
++ND4
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
+</DATA>

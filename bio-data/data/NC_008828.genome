@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..24606
+                     /organism="Hexamermis agrotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:387665"
+                     /common="cutworm parasitic nematode"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asn
++ND1
++tRNA-Asp
++tRNA-Ile
+-tRNA-Arg
+-ND6
+-COX3
+-tRNA-Gly
++tRNA-Tyr
+-ATP6
+-tRNA-Ser
++tRNA-Ser
++ATP6
+-ATP6
+-tRNA-Ser
++tRNA-Glu
++tRNA-Ser
+-s-rRNA
+-tRNA-Gln
+-ND5
+-tRNA-Leu
+-ND4
+-ND4L
++tRNA-Val
+-tRNA-Thr
++ND2
+-CYTB
+-tRNA-Lys
++l-rRNA
+-tRNA-Trp
++tRNA-Phe
+-tRNA-His
+-tRNA-Met
++COX2
+-tRNA-Leu
++tRNA-Ala
+-tRNA-Cys
+-ND3
++tRNA-Pro
+</DATA>

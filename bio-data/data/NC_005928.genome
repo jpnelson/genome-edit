@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..12626
+                     /organism="Xiphinema americanum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:208518"
+                     /common="American dagger nematode"
+
+</METADATA>
+<DATA>
+-ATP6
+-ND4
++tRNA-His
++tRNA-Lys
++tRNA-Ser
++tRNA-Val
+-tRNA-Thr
+-tRNA-Leu
+-ND2
+-COX2
+-tRNA-Ile
+-ND3
+-ND4L
++tRNA-Tyr
+-tRNA-Ala
+-tRNA-Gly
++tRNA-Glu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Met
++ND5
++ND6
+-COX3
+-ND1
++COX1
++tRNA-Arg
+-CYTB
+-tRNA-Trp
++tRNA-Asp
+-s-rRNA
+-tRNA-Pro
+-tRNA-Gln
+-tRNA-Phe
+</DATA>

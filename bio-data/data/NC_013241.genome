@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16648
+                     /organism="Cancellaria cancellata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:543397"
+                     /common="cancellate nutmeg shell"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Asp
++ATP8
++ATP6
+-tRNA-Met
+-tRNA-Tyr
+-tRNA-Cys
+-tRNA-Trp
+-tRNA-Gln
+-tRNA-Gly
+-tRNA-Glu
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-tRNA-Thr
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
++COX3
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Ser
++ND2
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17580
+                     /organism="Morone saxatilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34816"
+
+</METADATA>
+<DATA>
++trnF-gaa
++rrnS
++trnV-uac
++rrnL
++trnL-uaa
++ND1
++trnI-gau
+-trnQ-uug
++trnM-cau
++ND2
++trnW-uca
+-trnA-ugc
+-trnN-guu
+-trnC-gca
+-trnY-gua
++COX1
+-trnS-uga
++trnD-guc
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnR-ucg
++ND4L
++ND4
++trnH-gug
++trnS-gcu
++trnL-uag
++ND5
+-trnS-aga
+-trnE-uuc
++CYTB
++trnT-ugu
+-trnP-ugg
+-ND6
+</DATA>

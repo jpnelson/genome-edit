@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14046
+                     /organism="Trichuris trichiura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:36087"
+                     /country="China"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Leu
++tRNA-Glu
++ND1
++tRNA-Lys
+-ND2
+-tRNA-Met
+-tRNA-Phe
+-ND5
+-tRNA-His
+-tRNA-Arg
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
++s-rRNA
++tRNA-Val
++l-rRNA
++ATP6
++COX3
+-tRNA-Trp
++tRNA-Gln
+-tRNA-Ile
+-tRNA-Gly
++tRNA-Asp
++ATP8
++ND3
++tRNA-Ser
++tRNA-Asn
++tRNA-Leu
++tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

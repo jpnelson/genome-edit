@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..15513
+                     /organism="Zygeupolia rubens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0404_032509_003"
+                     /db_xref="taxon:166045"
+                     /country="USA"
+                     /collection_date="25-Mar-2009"
+                     /collected_by="Jon Norenburg"
+                     /common="ribbon worm"
+
+</METADATA>
+<DATA>
++trnY
+-trnP
++ND6
++CYTB
++trnS(uga)
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnE
++trnG
++COX3
++trnK
++trnA
++trnF
++trnQ
++trnR
++trnN
++trnI
++ND3
++trnS(gcu)
++ND2
++COX1
++trnW
++COX2
++trnD
++ATP8
++ATP6
++trnC
++trnM
++rrnS
++trnV
++rrnL
++trnL(uag)
++trnL(uaa)
++ND1
+</DATA>

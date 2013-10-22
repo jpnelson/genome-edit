@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..15130
+                     /organism="Haplorchis taichui"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:235153"
+
+</METADATA>
+<DATA>
++cox3
++tRNA-His
++cytb
++nad4L
++nad4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++atp6
++nad2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++nad1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++nad3
++tRNA-Ser
++tRNA-Trp
++cox1
++tRNA-Thr
++large subunit ribosomal RNA
++tRNA-Cys
++small subunit ribosomal RNA
++cox2
++nad6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++nad5
++tRNA-Glu
++tRNA-Gly
+</DATA>

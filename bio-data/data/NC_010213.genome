@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..20360
+                     /organism="Agelas schmidti"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:333317"
+
+</METADATA>
+<DATA>
++rnl
++COX2
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnQ(uug)
++trnW(uca)
++CYTB
++trnT(ugu)
++ATP9
++trnS(gcu)
++trnK(uuu)
++trnN(guu)
++trnM(cau)f
++trnH(gug)
++trnP(ugg)
++ND4
++trnE(uuc)
++ND6
++ND3
++trnR(ucg)
++ND4L
++COX1
++trnS(uga)
++trnA(ugc)
++trnC(gca)
++ND1
++trnL(uaa)
++trnL(uag)
++trnY(gua)
++trnI(cau)
++trnM(cau)e
++ND2
++ND5
++trnI(gau)
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

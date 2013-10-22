@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..10326
+                     /organism="Mnemiopsis leidyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27923"
+
+</METADATA>
+<DATA>
++COX1
++COX3
++ND3
++COX2
++rns
++rnl
++ND4
++ND2
++ND4L
++ND5
++ND1
++CYTB
++ND6
+</DATA>

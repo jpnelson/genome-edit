@@ -1,0 +1,45 @@
+<METADATA>
+     source          1..15680
+                     /organism="Pinctada margaritifera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:102329"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Ala
++tRNA-Arg
++tRNA-Thr
++tRNA-Leu
++ND6
++tRNA-Gly
++tRNA-Trp
++ATP6
++COX3
++ND3
++tRNA-Asn
++tRNA-Asp
++ND1
++tRNA-Leu
++tRNA-Pro
++tRNA-Lys
++tRNA-Cys
++CYTB
++tRNA-Phe
++ND4L
++ND4
++ND2
++tRNA-Tyr
++tRNA-Val
++tRNA-Ser
++rrnL
++tRNA-Gln
++rrnS
++tRNA-His
++tRNA-Glu
++tRNA-Met
++ND5
++tRNA-Ile
+</DATA>

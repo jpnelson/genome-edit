@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..16258
+                     /organism="Nautilus macromphalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34576"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Asp
++ATP8
+-tRNA-Phe
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Met
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Trp
+-tRNA-Gln
++tRNA-Thr
+-tRNA-Gly
++ATP6
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Glu
++COX3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Ser
++ND2
+</DATA>

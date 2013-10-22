@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15824
+                     /organism="Perinereis nuntia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:460893"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asn
++COX2
++tRNA-Gly
++tRNA-Tyr
++ATP8
++tRNA-Met
++tRNA-Asp
++COX3
++tRNA-Gln
++ND6
++CYTB
++tRNA-Trp
++ATP6
++tRNA-Arg
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Glu
++tRNA-Pro
++tRNA-Thr
++ND4L
++ND4
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ser
++tRNA-Ala
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++ND2
++tRNA-Cys
+</DATA>

@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..14975
+                     /organism="Epigonichthys maldivensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:231028"
+                     /country="Japan: Okinawa, Yaeyama, Taketomi, Kuroshima
+                     Island"
+                     /common="lancelet"
+
+</METADATA>
+<DATA>
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
++tRNA-Gly
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
++s-rRNA
++tRNA-Phe
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Met
+-tRNA-Gln
++ND2
+-tRNA-Asn
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

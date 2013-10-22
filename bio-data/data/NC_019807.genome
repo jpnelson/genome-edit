@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..13574
+                     /organism="Paratenuisentis ambiguus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:185730"
+                     /common="thorny-headed worm"
+
+</METADATA>
+<DATA>
++COX1
++trnG
++trnQ
++trnY
++lsu
++trnL
++ND6
++trnD
++ATP6
++ND3
++trnW
++trnV
++trnE
++trnT
++ND4L
++ND4
++trnH
++ND5
++trnL
++trnP
++CYTB
++ND1
++trnS
++trnI
++trnS
++trnM
++ssu
++trnF
++COX2
++trnC
++COX3
++trnA
++trnR
++trnN
++ND2
+</DATA>

@@ -1,0 +1,58 @@
+<METADATA>
+     source          1..14427
+                     /organism="Botrylloides aff. Leachii CG-2012"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="sea,depth 2m"
+                     /specimen_voucher="TAU<ISR>:AS25496"
+                     /db_xref="taxon:1256663"
+                     /tissue_type="colony"
+                     /country="Israel:Mediterranean coast of Israel, Achziv"
+                     /collection_date="20-Jun-2006"
+                     /collected_by="Noa Shenkar"
+                     /identified_by="Noa Shenkar"
+                     /note="Botrylloides affinis leachii: morphologically
+                     similar to Botrylloides leachii"
+
+</METADATA>
+<DATA>
++COX2
++CYTB
++trnY
++trnV
++COX3
++trnC
++trnW
++rrnS
++trnS(AGY)
++trnA
++trnG(AGR)
++ND3
++trnM(UAU)
++trnT
++trnN
++trnH
++trnG(GGN)
++ND4L
++trnM
++trnD
++rrnL
++trnI
++ATP6
++trnP
++ND4
++trnE
++COX1
++trnS(UCN)
++ND6
++trnQ
++trnR
++ATP8
++trnF
++trnL(UUR)
++ND5
++trnK
++ND1
++ND2
++trnL(CUN)
+</DATA>

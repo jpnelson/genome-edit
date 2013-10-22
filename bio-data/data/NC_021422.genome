@@ -1,0 +1,31 @@
+<METADATA>
+     source          1..16422
+                     /organism="Hyattella sinuosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LCJ04"
+                     /db_xref="taxon:1313225"
+                     /country="China"
+                     /collection_date="20-Jul-2009"
+
+</METADATA>
+<DATA>
++rnl
++ATP9
++COX1
++ND1
++CYTB
++ND4
++ND6
++ND3
++ND4L
++COX2
++ATP8
++ATP6
++COX3
++trnW(uca)
++trnM(cau)
++ND2
++ND5
++rns
+</DATA>

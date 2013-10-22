@@ -1,0 +1,43 @@
+<METADATA>
+     source          1..14003
+                     /organism="Philodina citrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:468664"
+                     /common="rotifer"
+
+</METADATA>
+<DATA>
++COX1
++trnG
++trnC
++trnI
++lsu
++trnL
++ND6
++trnA
++trnQ
++trnD
++ATP6
++trnT
++trnE
++trnP
++ND1
++CYTB
++ND4L
++ND4
++trnH
++ND5
++trnF
++trnW
++trnM
++ssu
++COX2
++trnK
++COX3
++ND3
++trnS
++trnS
++trnN(N)
++ND2
+</DATA>

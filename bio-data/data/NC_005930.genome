@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17329
+                     /organism="Ophiura lutkeni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:224378"
+                     /common="grey brittle star"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-ND6
+-tRNA-Gly
+-l-rRNA
+-tRNA-Met
+-tRNA-Pro
+-s-rRNA
+-tRNA-Phe
+-tRNA-Glu
++tRNA-Cys
+-tRNA-Val
+-tRNA-Tyr
+-tRNA-Leu
+-tRNA-Ala
+-tRNA-Gln
++tRNA-Asn
++tRNA-Leu
++ND1
++tRNA-Ile
++ND2
++tRNA-Asp
++CYTB
++tRNA-Thr
++tRNA-Trp
+</DATA>

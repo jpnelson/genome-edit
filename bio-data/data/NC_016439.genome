@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..17799
+                     /organism="Dugesia japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6161"
+                     /country="Japan:Niigata, Gosen"
+
+</METADATA>
+<DATA>
++cytb
++nd4
++coI
++nd6
++nd5
++tRNA-Ser
++tRNA-Asp
++tRNA-Arg
++coIII
++tRNA-Ile
++tRNA-Gln
++tRNA-Lys
++atp6
++tRNA-Val
++nd1
++tRNA-Trp
++coII
++tRNA-Pro
++nd3
++tRNA-Leu
++nd2
++tRNA-Glu
++tRNA-Asn
++tRNA-Met
++tRNA-His
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Tyr
++tRNA-Gly
++tRNA-Ser
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Thr
++tRNA-Ala
+-tRNA-Cys
+</DATA>

@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..19620
+                     /organism="Aplysina cauliformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:289398"
+
+</METADATA>
+<DATA>
++rnL
++trnD
++trnN
+-nad4L
+-trnR2
+-nad3
+-nad6
+-trnE
+-trnH
+-nad4
+-trnP
+-trnS2
+-atp9
+-trnT
+-cob
+-trnL2
+-trnI2
+-trnY
+-trnI1
+-trnL1
+-nad1
+-trnC
+-trnS1
++cox1
++cox2
++trnK
++atp8
++atp6
++trnR1
++cox3
++trnQ
++trnW
++trnMi
++nad2
++nad5
++trnA
++trnMe
++trnF
++rnS
++trnG
++trnV
+</DATA>

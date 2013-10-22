@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..14803
+                     /organism="Symsagittifera roscoffensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:84072"
+                     /common="flatworm"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Phe
++COX2
+-tRNA-Asp
+-tRNA-Ile
++COX3
++tRNA-Tyr
++ATP6
++tRNA-Val
+-tRNA-Gln
++tRNA-Asn
++tRNA-His
++tRNA-Glu
++tRNA-Lys
++tRNA-Ala
++s-rRNA
++tRNA-Arg
+-ND5
+-tRNA-Trp
++tRNA-Ser
++l-rRNA
++tRNA-Leu
+-tRNA-Cys
++tRNA-Ser
++tRNA-Met
++ND6
++tRNA-Gly
++ND4
+-ND2
+-CYTB
+-ND1
+-ND4L
+-tRNA-Pro
+-ND3
++tRNA-Thr
+</DATA>

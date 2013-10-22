@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..17423
+                     /organism="Amphisbaena schmidti"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="18 deg. 28.17' N., 66 deg. 28.34' W.,
+                     about 4 km (airline) NNE Manat mitochondrion, 1.6 km ESE
+                     Punta Mar Chiquita, Limestone woods near coast, Puerto
+                     Rico"
+                     /specimen_voucher="MVZ 232754 (Museum of Vertebrate
+                     Zoology, UCB)"
+                     /db_xref="taxon:273519"
+                     /country="Puerto Rico"
+                     /common="Schmidt's worm lizard"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

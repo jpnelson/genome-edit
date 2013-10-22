@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..13648
+                     /organism="Diplosoma listerianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:168635"
+                     /tissue_type="single colony"
+                     /country="Italy:Adriatic Sea, Venice Lagoon"
+                     /common="colonial sea squirt"
+
+</METADATA>
+<DATA>
++COX1
++ND6
++trnS (UCN)
++COX3
++ATP8
++trnQ
++trnY
++trnP
++ND4
++trnL (UUR)
++trnD
++trnM
++ATP6
++trnA
++rrnL
++trnS (AGY)
++trnK
++rrnS
++trnM (TAT)
++trnL (CUN)
++COX2
++trnV
++ND3
++ND5
++trnG (GGN)
++trnR
++trnC
++trnE
++ND4L
++trnH
++trnG (AGR)
++trnT
++ND1
++trnW
++CYTB
++trnF
++trnN
++ND2
++trnI
+</DATA>

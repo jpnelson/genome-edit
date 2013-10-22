@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17217
+                     /organism="Nephtys sp. 'San Juan Island' YV-2008"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:505245"
+                     /country="USA: Washington, Munlo Cove, Griffin Bay, San
+                     Juan Island"
+
+</METADATA>
+<DATA>
++CYTB
++trnW-uca
++ATP6
++trnA-ucg
++trnH-gug
++ND5
++trnF-gaa
++trnE-uuc
++trnP-ugg
++trnT-ugu
++ND4L
++ND4
++trnC-gca
++trnG-ucc
++trnM-cau
++s-rRNA
++trnV-uac
++l-rRNA
++trnL-uag
++trnA-ugc
++trnS-uga
++trnL-uaa
++ND1
++trnK-uuu
++ND3
++trnS-ucu
++ND2
++COX1
++trnN-guu
++COX2
++trnD-guc
++ATP8
++trnY-gua
++COX3
++trnQ-uug
++ND6
+</DATA>

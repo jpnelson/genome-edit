@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..13422
+                     /organism="Angiostrongylus vasorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:321387"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Cys
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++COX2
++tRNA-His
++large subunit ribosomal RNA
++NAD3
++NAD5
++tRNA-Ala
++tRNA-Pro
++tRNA-Val
++NAD6
++NAD4L
++tRNA-Trp
++tRNA-Glu
++small subunit ribosomal RNA
++tRNA-Ser
++tRNA-Asn
++tRNA-Tyr
++NAD1
++ATP6
++tRNA-Lys
++tRNA-Leu
++tRNA-Ser
++NAD2
++tRNA-Ile
++tRNA-Arg
++tRNA-Gln
++tRNA-Phe
++CYTB
++tRNA-Leu
++COX3
++tRNA-Thr
++NAD4
+</DATA>

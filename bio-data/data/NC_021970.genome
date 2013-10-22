@@ -1,0 +1,38 @@
+<METADATA>
+     source          1..16307
+                     /organism="Strix leptogrammica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:126835"
+                     /tissue_type="feather"
+                     /country="China: Anhui, South Anhui National Wild Animal
+                     Rescue Centre"
+                     /collection_date="Jun-2012"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++tRNA-Thr
+-tRNA-Pro
+-tRNA-Glu
+</DATA>

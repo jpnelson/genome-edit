@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16791
+                     /organism="Radopholus similis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:46012"
+                     /country="Uganda"
+                     /common="banana-root nematode"
+
+</METADATA>
+<DATA>
++trnN
++trnE
++trnG
++rrnS
++trnS (UCN)
++trnY
++trnW
++ND1
++ATP6
++ND5
++trnQ
++trnA
++COX2
++trnH
++rrnL
++ND3
++trnL (CUN)
++COX1
++trnP
++trnR
++ND6
++ND4L
++trnV
++trnK
++trnS (AGN)
++trnC
++trnL (UUR)
++trnM
++trnT
++ND4
++trnF
++cytB
++trnD
++ND2
++trnI
++COX3
+</DATA>

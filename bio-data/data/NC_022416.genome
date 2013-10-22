@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..17383
+                     /organism="Mimachlamys senatoria"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:388643"
+
+</METADATA>
+<DATA>
++trnN
++trnG
++trnV
++nad1
++trnR
++rrnL
++cox1
++trnC
++trnA
++rrnS
++nad5
++nad4L
++atp8
++trnM1
++nad6
++trnL1
++cob
++trnD
++cox3
++trnK
++trnF
++trnS1
++trnQ
++trnE
++atp6
++cox2
++nad2
++nad3
++trnS2
++nad4
++trnH
++trnW
++trnY
++trnT
++trnP
++tRNA-Ile
++trnI
++trnL2
++trnM2
+</DATA>

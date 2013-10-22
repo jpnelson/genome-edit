@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..18495
+                     /organism="Saccopharynx lavenbergi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="T2287"
+                     /specimen_voucher="UW 045633 (University of Washington)"
+                     /db_xref="taxon:136490"
+                     /common="Lavenberg's gulper-eel"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Trp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Leu
++ND5
+-ND6
++tRNA-Thr
+-tRNA-Pro
++tRNA-Ile
++tRNA-Met
++ND2
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
+-tRNA-Glu
++CYTB
+</DATA>

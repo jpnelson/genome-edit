@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16546
+                     /organism="Pseudogarypus banksi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1131925"
+                     /common="pseudoscorpion"
+
+</METADATA>
+<DATA>
++tRNA-Ser
+-tRNA-Phe
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
+-tRNA-Arg
++tRNA-Ser
+-tRNA-Glu
++CYTB
+-ND4L
++tRNA-Thr
+-tRNA-Val
++ND6
+-s-rRNA
+-tRNA-Leu
+-tRNA-Leu
+-ND4
+-tRNA-Asn
+-ND5
+-tRNA-His
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-l-rRNA
+</DATA>

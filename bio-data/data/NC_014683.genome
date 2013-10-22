@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14734
+                     /organism="Unionicola parkeri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:350891"
+                     /common="mantle mite"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Glu
++tRNA-Gly
+-ND5
+-ND4L
++tRNA-Ala
++ND3
+-tRNA-Phe
++tRNA-Thr
+-tRNA-Tyr
++tRNA-Asn
+-tRNA-Leu
+-tRNA-His
++tRNA-Ser
+-ND4
+-tRNA-Arg
++tRNA-Val
++ND6
++CYTB
++tRNA-Ser
+-s-rRNA
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+</DATA>

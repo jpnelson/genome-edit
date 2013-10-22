@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14909
+                     /organism="Neaxius glyptocercus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:576631"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++tRNA-Leu
++COX2
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Gly
++tRNA-Val
++ND3
++COX3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-l-rRNA
+-s-rRNA
+-tRNA-Ile
+-tRNA-Gln
++tRNA-Asp
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

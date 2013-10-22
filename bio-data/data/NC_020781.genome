@@ -1,0 +1,35 @@
+<METADATA>
+     source          1..16590
+                     /organism="Schizothorax oconnori"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ECSFRI-SO01"
+                     /db_xref="taxon:263550"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
+-tRNA-Glu
++tRNA-Thr
+-tRNA-Pro
+</DATA>

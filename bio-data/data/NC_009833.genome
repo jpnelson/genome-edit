@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..14579
+                     /organism="Phallusia mammillata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:59560"
+                     /tissue_type="muscle"
+                     /country="Italy:Liguria"
+                     /common="watery sea squirt"
+
+</METADATA>
+<DATA>
++COX2
++CYTB
++tRNA-Val
++l-rRNA
++tRNA-Trp
++tRNA-Leu
++tRNA-Thr
++tRNA-Gly
++ND1
++ND2
++tRNA-Gln
++tRNA-Lys
++tRNA-Cys
++ND4L
++COX3
++tRNA-Ser
++ND3
++tRNA-His
++tRNA-Gly
++tRNA-Glu
++tRNA-Tyr
++ND6
++tRNA-Asn
++ND5
++tRNA-Ser
++ATP8
++tRNA-Ala
++ND4
++tRNA-Arg
++tRNA-Ile
++rrnS
++tRNA-Met
++COX1
++tRNA-Pro
++ATP6
++tRNA-Leu
++tRNA-Phe
++tRNA-Met
+</DATA>

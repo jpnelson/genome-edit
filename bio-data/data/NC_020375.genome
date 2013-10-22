@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..18957
+                     /organism="Heliopora coerulea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86515"
+                     /common="blue coral"
+
+</METADATA>
+<DATA>
++CYTB
++ND6
++ND3
++ND4L
++msh1
++l-rRNA
++ND2
++ND5
++ND4
+-tRNA-Met
+-COX3
+-ATP6
+-ATP8
+-COX2
++COX1
++s-rRNA
++ND1
+</DATA>

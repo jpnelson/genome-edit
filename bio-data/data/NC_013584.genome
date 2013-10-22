@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..15183
+                     /organism="Aplidium conicum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:286149"
+                     /tissue_type="single colony"
+                     /country="Italy:Southern Italy, Ionian Sea, Taranto Sea"
+                     /common="sea squirt"
+
+</METADATA>
+<DATA>
++COX2
++trnL (CUN)
++ND5
++trnD
++trnK
++ND6
++ND4L
++trnT
++trnY
++trnM (TAT)
++trnS (UCN)
++COX3
++trnQ
++trnG (AGR)
++trnL (UUR)
++ND1
++trnW
++CYTB
++trnM
++ND3
++rrnS
++trnS (AGY)
++trnF
++trnH
++trnC
++trnE
++COX1
++trnN
++ND2
++trnR
++trnI
++ATP8
++rrnL
++trnG (GGN)
++trnA
++ATP6
++trnP
++ND4
++trnV
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15169
+                     /organism="Hypsibius dujardini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:232323"
+                     /common="water bear"
+
+</METADATA>
+<DATA>
++trnM
++COX1
++COX2
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
+-trnR
++trnS(GCU)
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
+-trnP
++trnW
+-trnC
+-trnY
+-ND1
+-trnL(UAA)
+-trnI
+-trnL(UAG)
++ND2
++trnK
++trnD
++trnN
++trnE
++trnT
++ND6
++CYTB
++trnS(UGA)
++trnL(UAA)
+-rnl
+-trnV
+-rns
+-trnQ
+</DATA>

@@ -1,0 +1,15 @@
+<METADATA>
+     source          1..3084
+                     /organism="Alatina moseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /db_xref="taxon:675638"
+                     /chromosome="5"
+                     /country="USA: Waikiki, Honolulu, Oahu, Hawaii"
+
+</METADATA>
+<DATA>
++rnl
++large subunit ribosomal RNA
+</DATA>

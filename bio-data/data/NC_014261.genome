@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16526
+                     /organism="Silurus glanis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:94993"
+                     /tissue_type="muscle; liver"
+                     /country="Greece:Kastoria lake"
+                     /collection_date="12-Nov-2005"
+
+</METADATA>
+<DATA>
++trnF
++rrns
++trnV
++rrnl
++trnL (UUR)
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS (UCN)
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS (AGY)
++trnL (CUN)
++ND5
+-ND6
+-trnE
++CYTB
++trnT
++trnP
+</DATA>

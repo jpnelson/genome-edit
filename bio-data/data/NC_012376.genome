@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..14150
+                     /organism="Onchidella celtica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36933"
+
+</METADATA>
+<DATA>
++tRNA-Lys
++COX1
++tRNA-Val
++tRNA-Val
++large subunit ribosomal RNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++nad6
++tRNA-Gln
+-tRNA-Phe
++ND5
++nad1
++nad4L
++CYTB
++tRNA-Asp
++tRNA-Cys
++tRNA-Phe
++COX2
++tRNA-Tyr
++tRNA-Trp
++tRNA-Gly
++tRNA-His
+-tRNA-Gln
+-tRNA-Leu
+-atp8
+-tRNA-Asn
+-atp6
+-tRNA-Arg
+-tRNA-Glu
+-small subunit ribosomal RNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
++tRNA-Ser
++ND4
+-tRNA-Thr
+-COX3
++tRNA-Ile
++nad2
+</DATA>

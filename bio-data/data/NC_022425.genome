@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16616
+                     /organism="Pteronotus rubiginosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T-5215"
+                     /specimen_voucher="ISEM:V-2322"
+                     /db_xref="taxon:280976"
+                     /sex="male"
+                     /country="French Guiana"
+                     /collection_date="25-Oct-2007"
+                     /collected_by="F. Catzeflis & G. Peroz"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S rRNA
++tRNA-Val
++16S rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

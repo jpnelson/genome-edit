@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..15182
+                     /organism="Shinkaia crosnieri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:480484"
+                     /common="hydrothermal vent crab"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Gly
++tRNA-Met
++ND2
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Arg
++tRNA-Asn
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Gln
++ND3
++tRNA-Ile
++tRNA-Ala
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
++ND6
++CYTB
+</DATA>

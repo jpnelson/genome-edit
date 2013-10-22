@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15761
+                     /organism="Urechis unicinctus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6432"
+                     /common="spoon worm"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Pro
++tRNA-Asp
++ATP8
++tRNA-Thr
++ND4L
++ND4
++tRNA-Met
++tRNA-Asn
++tRNA-Gly
++ND2
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ala
++tRNA-Ser
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Lys
++ND3
++s-rRNA
++l-rRNA
++tRNA-Val
++tRNA-Ser
++COX3
++tRNA-Gln
++ND6
++CYTB
++tRNA-Trp
++ATP6
++tRNA-Arg
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Cys
++tRNA-Glu
+</DATA>

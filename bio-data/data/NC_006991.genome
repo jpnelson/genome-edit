@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..19565
+                     /organism="Tethya actinia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:233783"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++trnE(uuc)
++ND6
++trnY(gua)
++trnI(cau)
++COX2
++trnL(uaa)
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnN(guu)
++CYTB
++trnS(gcu)
++trnI(gau)
++trnQ(uug)
++trnW(uca)
++ATP9
++ND4
++trnH(gug)
++trnD(guc)
++ND3
++trnR(ucg)
++ND4L
++COX1
++trnS(uga)
++ND1
++trnP(ugg)
++trnL(uag)
++trnC(gca)
++trnT(ugu)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++trnM(cau)e
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

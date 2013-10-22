@@ -1,0 +1,13 @@
+<METADATA>
+     source          1..19886
+                     /organism="Paraminabea aldersladei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:361172"
+
+</METADATA>
+<DATA>
++s-rRNA
++l-rRNA
+-trnM
+</DATA>

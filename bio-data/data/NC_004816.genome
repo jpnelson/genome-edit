@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..16924
+                     /organism="Lepidopsocidae sp. RS-2001"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Queensland Museum Register Number
+                     QMT93416"
+                     /db_xref="taxon:159971"
+                     /common="scaly-winged barklouse"
+
+</METADATA>
+<DATA>
+-tRNA-Gln
++ND2
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Arg
++tRNA-Ser
++tRNA-Glu
++tRNA-Ser
++tRNA-Ile
++tRNA-Met
++tRNA-Trp
++COX2
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Asn
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

@@ -1,0 +1,19 @@
+<METADATA>
+     source          1..16299
+                     /organism="Mus musculus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+
+</METADATA>
+<DATA>
++TrnF
++Rnr1
++TrnV
++Rnr2
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

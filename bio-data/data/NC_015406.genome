@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..18969
+                     /organism="Corallium konojoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:909848"
+                     /common="Japanese precious coral"
+
+</METADATA>
+<DATA>
++COX1
++s-rRNA
++ND1
++CYTB
++msh1
++l-rRNA
++ND2
++ND5
++ND4
+-trmM
+-COX3
+-ATP6
+-ATP8
+-COX2
+-ND4L
+-ND3
+-ND6
+</DATA>

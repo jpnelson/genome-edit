@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..15816
+                     /organism="Herdmania momus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7733"
+                     /tissue_lib="#6005"
+                     /country="Israel:Eilat,Red Sea, depth 12m"
+                     /lat_lon="29.31 N 34.92 E"
+                     /collection_date="06-Jun-2006"
+
+</METADATA>
+<DATA>
++COX1
++trnV (UAC)
++trnG (UCU)
++trnQ (UUG)
++trnM (UAU)
++trnT (UGU)
++ND4L
++trnL (UAA)
++trnL (UAG)
++ATP8
++trnD (GUC)
++trnF (GAA)
++trnS (GCU)
++trnR (UCG)
++ND1
++trnP (UGG)
++trnS (UGA)
++ND6
++trnY (GUA)
++rrnL
++CYTB
++ND2
++trnW (UCA)
++trnI (GAU)
++ND5
++trnA (UGC)
++rrnS
++trnE (UUC)
++trnC (GCA)
++ND4
++trnH (GUG)
++trnG (UCC)
++ATP6
++COX2
++COX3
++trnN (GUU)
++trnK (UUU)
++ND3
++trnM (CAU)
+</DATA>

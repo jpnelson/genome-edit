@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..16730
+                     /organism="Diplometopon zarudnyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="elev. 75 meters, 31deg. 27.32' N.; 49
+                     deg. 23.65' E., Sand Dunes 53 km E Ahvaz (by Ahvaz-Haftgel
+                     Rd), Khuzestan Prov., Iran"
+                     /specimen_voucher="MVZ 234273 (Museum of Vertebrate
+                     Zoology, UCB)"
+                     /db_xref="taxon:94420"
+                     /country="Iran"
+                     /common="Zarudnyi's worm lizard"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

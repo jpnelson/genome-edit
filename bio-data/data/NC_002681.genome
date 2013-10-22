@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16706
+                     /organism="Trichinella spiralis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6334"
+                     /common="trichinosis nematode"
+
+</METADATA>
+<DATA>
+-ND2
+-tRNA-Met
+-tRNA-Phe
+-ND5
+-tRNA-His
+-tRNA-Arg
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
++s-rRNA
++tRNA-Val
++l-rRNA
++ATP6
++COX3
+-tRNA-Trp
++tRNA-Gln
+-tRNA-Ile
+-tRNA-Gly
++tRNA-Asp
++ATP8
++ND3
++tRNA-Ser
++tRNA-Asn
++tRNA-Leu
++tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++COX2
++tRNA-Leu
++tRNA-Glu
++ND1
++tRNA-Lys
+</DATA>

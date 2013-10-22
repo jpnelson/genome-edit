@@ -1,0 +1,15 @@
+<METADATA>
+     source          1..4596
+                     /organism="Alatina moseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /db_xref="taxon:675638"
+                     /chromosome="1"
+                     /country="USA: Waikiki, Honolulu, Oahu, Hawaii"
+
+</METADATA>
+<DATA>
++nad2
++nad5
+</DATA>

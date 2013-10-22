@@ -1,0 +1,40 @@
+<METADATA>
+     source          1..17486
+                     /organism="Pygoscelis adeliae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9238"
+                     /tissue_type="blood"
+                     /tissue_lib="Pa1"
+                     /country="Antarctica"
+                     /collected_by="P. Ritchie"
+                     /note="sample held by the Allan Wilson Centre, Massey
+                     University, New Zealand"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++tRNA-Thr
+-tRNA-Pro
+-tRNA-Glu
+</DATA>

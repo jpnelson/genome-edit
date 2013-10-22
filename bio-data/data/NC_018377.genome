@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..20448
+                     /organism="Stichopathes lutkeni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86606"
+
+</METADATA>
+<DATA>
++CYTB
++tRNA-Met
++16S ribosomal RNA
++COX3
++COX1
++HEG
++ND4L
++COX2
++ND4
++ND6
++ATP8
++ATP6
++ND5
++ND1
++ND3
++tRNA-Trp
++ND2
++12S ribosomal RNA
+</DATA>

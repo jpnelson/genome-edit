@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15527
+                     /organism="Polylabris halichoeres"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1004784"
+                     /common="parasitic flatworm"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Cys
++tRNA-Leu
++tRNA-Lys
++tRNA-Tyr
++tRNA-Ser
++ND6
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Glu
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Gly
++tRNA-Thr
++l-rRNA
++s-rRNA
++COX2
++tRNA-His
++tRNA-Met
+</DATA>

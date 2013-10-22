@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14291
+                     /organism="Terebratalia transversa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34513"
+                     /common="lampshell"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Cys
++CYTB
++tRNA-Gly
++ATP8
++COX3
++tRNA-His
++ATP6
++tRNA-Gln
++tRNA-Trp
++ND5
++tRNA-Leu
++tRNA-Pro
++tRNA-Asp
++s-rRNA
++tRNA-Met
++tRNA-Ala
++ND6
++tRNA-Leu
++l-rRNA
++tRNA-Glu
++tRNA-Asn
++ND1
++tRNA-Val
++tRNA-Tyr
++ND4
++tRNA-Phe
++tRNA-Ser
++ND4L
++COX2
++tRNA-Ile
++ND3
++tRNA-Thr
++tRNA-Arg
++tRNA-Lys
++tRNA-Ser
++ND2
+</DATA>

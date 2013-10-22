@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16746
+                     /organism="Alligator sinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:38654"
+
+</METADATA>
+<DATA>
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Gly
++COX3
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-Ser
++tRNA-His
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
++tRNA-Phe
+</DATA>

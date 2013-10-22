@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13608
+                     /organism="Diphyllobothrium latum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:60516"
+                     /common="broad fish tapeworm"
+
+</METADATA>
+<DATA>
++tRNA-Gly
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++tRNA-Glu
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
+</DATA>

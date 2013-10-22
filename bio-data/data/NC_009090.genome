@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..20327
+                     /organism="Oscarella carmela"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:386100"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++l-rRNA
++mttB
++tRNA-Gln
++tRNA-Asn
++tRNA-Trp
++tRNA-Ile
++tRNA-Ile
++tRNA-Tyr
++tRNA-Leu
++tRNA-Gly
++tRNA-Met
++ND2
++ND5
++tRNA-Leu
++CYTB
+-tRNA-Met
+-tRNA-Ala
+-ND4L
+-tRNA-Arg
+-ND3
+-ND6
+-tRNA-Glu
+-tRNA-His
+-ND4
+-tRNA-Pro
+-tRNA-Ser
+-ATP9
+-tRNA-Thr
+-s-rRNA
+-tRNA-Phe
+-COX3
+-tRNA-Arg
+-ATP6
+-ATP8
+-tRNA-Val
+-tRNA-Thr
+-ND1
+-tRNA-Lys
+-tRNA-Cys
+-tRNA-Asp
+-tRNA-Ser
+-COX1
++COX2
++tRNA-Val
+</DATA>

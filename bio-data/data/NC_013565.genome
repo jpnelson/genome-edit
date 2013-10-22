@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..14414
+                     /organism="Styela plicata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7726"
+                     /tissue_type="gonads"
+                     /country="Italy:Northern Italy, Adriatic Sea, Venice
+                     lagoon"
+                     /common="solitary sea squirt"
+
+</METADATA>
+<DATA>
++COX2
++trnT
++trnD
++ND1
++ND4L
++trnG (GGN)
++CYTB
++trnC
++trnA
++trnS (UCN)
++trnM
++trnL (CUN)
++COX1
++ND6
++trnR
++ND2
++trnL (UUR)
++ND5
++ND3
++trnN
++trnW
++trnV
++trnY
++COX3
++trnI
++trnS (AGY)
++trnF
++trnM (AUA)
++trnH
++trnK
++ATP6
++ATP8
++trnP
++ND4
++rrnS
++rrnL
++trnQ
++trnG (AGR)
++trnE
+</DATA>

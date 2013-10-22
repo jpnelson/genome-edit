@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..17239
+                     /organism="Trimeresurus stejnegeri stejnegeri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="stejnegeri"
+                     /db_xref="taxon:604432"
+                     /dev_stage="adult"
+                     /country="Taiwan:Chiayi Chungpu"
+                     /collected_by="Z. H. Lin"
+                     /common="Taiwan green tree viper"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++ND1
++tRNA-Ile
+-tRNA-Pro
++tRNA-Leu
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+</DATA>

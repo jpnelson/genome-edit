@@ -1,0 +1,22 @@
+<METADATA>
+     source          1..7920
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="3"
+
+</METADATA>
+<DATA>
+-trnC(gca)
+-nad6
+-trnM(cau)f
+-trnI(gau)
++cox2
++trnG(ucc)
++trnT(ugu)
+-trnH(gug)
+-trnF(gaa)
+-trnE(uuc)
++nad4L
+</DATA>

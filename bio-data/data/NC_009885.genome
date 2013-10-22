@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14420
+                     /organism="Caenorhabditis briggsae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="AF16"
+                     /db_xref="taxon:6238"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
+-tRNA-Ala
+-ND5
+-ND3
+-l-rRNA
+-tRNA-His
+-COX2
+-tRNA-Gly
+-tRNA-Asp
+-tRNA-Met
+-tRNA-Cys
+-COX1
+-ND4
+-tRNA-Thr
+-COX3
+-tRNA-Leu
+-CYTB
+-tRNA-Phe
+-tRNA-Gln
+-tRNA-Arg
+-tRNA-Ile
+-ND2
+-tRNA-Ser
+-tRNA-Leu
+-tRNA-Lys
+-ATP6
+-ND1
+-tRNA-Tyr
+-tRNA-Asn
+-tRNA-Ser
+-s-rRNA
+-tRNA-Glu
+-tRNA-Trp
+-ND4L
+-ND6
+-tRNA-Val
+-tRNA-Pro
+</DATA>

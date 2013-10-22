@@ -1,0 +1,68 @@
+<METADATA>
+     source          1..46985
+                     /organism="Scapharca broughtonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Sendai_2009_C2"
+                     /db_xref="taxon:148819"
+                     /country="Japan:Sendai Bay"
+
+</METADATA>
+<DATA>
++COX1
++ND5
++tRNA-Met
++ND1
++ND4
++CYTB
++tRNA-His
++tRNA-Phe
++COX2
++tRNA-Cys
++tRNA-Ile
++tRNA-Asn
++tRNA-Asp
+-tRNA-Glu
+-tRNA-Leu
++tRNA-Tyr
++ND6
++tRNA-Lys
++tRNA-Lys
++tRNA-Lys
++tRNA-Lys
++tRNA-Lys
++ATP6
++tRNA-Pro
++tRNA-Ile
++tRNA-Gly
++tRNA-Glu
++tRNA-Val
++l-rRNA
++tRNA-Ala
++tRNA-Thr
++tRNA-Gln
++ND3
++ND4L
++tRNA-Trp
++tRNA-Ser
++COX3
++tRNA-Ser
++tRNA-Met
++tRNA-Met
++tRNA-Leu
++tRNA-Asn
++s-rRNA
++ND2
++tRNA-Ser
++tRNA-Glu
++tRNA-Met
++tRNA-Tyr
++tRNA-Met
++tRNA-Phe
++tRNA-Phe
++tRNA-Leu
++tRNA-Arg
++tRNA-Leu
++tRNA-Phe
++tRNA-Cys
+</DATA>

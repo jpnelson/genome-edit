@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..16574
+                     /organism="Vanhornia eucnemidarum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:32432"
+                     /common="parasitic wasp"
+
+</METADATA>
+<DATA>
+-tRNA-Leu
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++COX2
++tRNA-Leu
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Ala
++tRNA-Asn
+-tRNA-Ser
+-tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Met
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

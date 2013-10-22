@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16580
+                     /organism="natural gynogenetic Carassius auratus red var."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:657187"
+                     /note="derived from Carssius auratus by biological
+                     engineering technology without sexual reproduction"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++CoxI
+-tRNA-Ser
++tRNA-Asp
++CoxII
++tRNA-Lys
++ATP8
++ATP6
++CoxIII
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

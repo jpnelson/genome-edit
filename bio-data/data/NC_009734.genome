@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..20324
+                     /organism="Dosidicus gigas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="4-20-03"
+                     /db_xref="taxon:346249"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Ala
++tRNA-Asn
++tRNA-Ile
++ND3
++COX1
++COX2
++tRNA-Asp
++ATP8
++ATP6
+-tRNA-Phe
+-tRNA-Val
+-s-rRNA
+-tRNA-Cys
+-tRNA-Gln
++COX3
++tRNA-Lys
++tRNA-Arg
++tRNA-Ser
++ND2
++COX1
++COX2
++tRNA-Asp
++ATP8
++ATP6
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Met
+-tRNA-Tyr
+-tRNA-Trp
+-tRNA-Gly
+-tRNA-Glu
+</DATA>

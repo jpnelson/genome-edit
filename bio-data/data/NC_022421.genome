@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16785
+                     /organism="Brachyphylla cavernarum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T-5240"
+                     /specimen_voucher="ISEM:V-2350"
+                     /db_xref="taxon:9421"
+                     /sex="female"
+                     /country="Martinique"
+                     /collection_date="04-Feb-2008"
+                     /collected_by="F. Catzeflis"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S rRNA
++tRNA-Val
++16S rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

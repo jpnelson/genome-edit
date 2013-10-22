@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14857
+                     /organism="Walchia hayashii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="TWHW-1"
+                     /db_xref="taxon:436352"
+                     /common="mite"
+
+</METADATA>
+<DATA>
++ND6
++CYTB
++tRNA-Ser
+-ND5
+-tRNA-Phe
+-tRNA-His
++tRNA-Ala
++ND3
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
++COX1
+-tRNA-Gln
+-s-rRNA
+-ND1
+-tRNA-Leu
+-l-rRNA
++tRNA-Ile
+-tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Glu
++tRNA-Gly
++tRNA-Asn
++tRNA-Ser
++tRNA-Thr
+-ND4L
+-tRNA-Tyr
+-tRNA-Pro
+-ND4
+-tRNA-Arg
++tRNA-Val
+</DATA>

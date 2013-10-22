@@ -1,0 +1,57 @@
+<METADATA>
+     source          1..14424
+                     /organism="Polycarpa mytiligera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="oil company pier, depth 12m"
+                     /specimen_voucher="TAU<ISR>:AS25499"
+                     /db_xref="taxon:569436"
+                     /tissue_type="gonad"
+                     /country="Israel:Red sea coast of Israel, Eilat"
+                     /collection_date="06-Jun-2006"
+                     /collected_by="Noa Shenkar"
+                     /identified_by="Noa Shenkar"
+                     /note="Steinhardt National Collection"
+
+</METADATA>
+<DATA>
++COX2
++CYTB
++trnV
++trnY
++COX3
++trnC
++trnW
++rrnS
++trnD
++rrnL
++trnI
++ATP6
++trnS(AGY)
++trnP
++ND4
++trnA
++trnG(AGR)
++ND3
++trnM(UAU)
++trnT
++trnE
++COX1
++trnN
++trnG(GGN)
++trnS(UCN)
++ND6
++trnR
++ATP8
++trnF
++trnL(UUR)
++ND5
++trnK
++ND2
++trnM
++ND1
++trnQ
++ND4L
++trnL(CUN)
++trnH
+</DATA>

@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..17422
+                     /organism="Pocillopora eydouxi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="J.F. Flot 04NC304 (MNHN)"
+                     /db_xref="taxon:367768"
+                     /common="antler lace"
+
+</METADATA>
+<DATA>
++tRNA-Met
++l-rRNA
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++s-rRNA
++COX3
++COX2
++ND4L
++ND3
++tRNA-Trp
++ATP8
++COX1
+</DATA>

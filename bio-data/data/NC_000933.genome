@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..17443
+                     /organism="Metridium senile"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6116"
+                     /note="white color morphe"
+
+</METADATA>
+<DATA>
++tRNA-Met
++l-rRNA
++COX3
++COX1
++ORF
++ND4L
++ATP8
++ATP6
++ND5
++ND1
++ND3
++tRNA-Trp
++ND2
++s-rRNA
++COX2
++ND4
++ND6
++CYTB
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16532
+                     /organism="Saccostrea mordax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:157729"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Thr
++s-rRNA
++tRNA-Gly
++COX3
++tRNA-Ile
++tRNA-Glu
++CYTB
++COX2
++tRNA-Met
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Pro
++l-rRNA
++tRNA-Val
++tRNA-Arg
++tRNA-Gln
++ND3
++tRNA-Lys
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Asp
++l-rRNA
++ND5
++ND6
++tRNA-His
++ND4
++tRNA-Tyr
++ATP6
++tRNA-Asn
++tRNA-Cys
++tRNA-Trp
++ND2
+</DATA>

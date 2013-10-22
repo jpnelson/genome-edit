@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..15080
+                     /organism="Tetraleurodes acaciae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:267835"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++ATP8
++ATP6
+-tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-s-rRNA
+-tRNA-Gln
+-tRNA-Val
+-ND3
+-tRNA-Gly
+-COX3
+-tRNA-Arg
+-tRNA-Asp
++tRNA-Ala
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Tyr
+-tRNA-Cys
+</DATA>

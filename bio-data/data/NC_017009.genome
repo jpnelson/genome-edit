@@ -1,0 +1,18 @@
+<METADATA>
+     source          1..4000
+                     /organism="Alatina moseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A"
+                     /db_xref="taxon:675638"
+                     /chromosome="3"
+                     /country="USA: Waikiki, Honolulu, Oahu, Hawaii"
+
+</METADATA>
+<DATA>
++cox2
++atp8
++atp6
++cox3
++trnM
+</DATA>

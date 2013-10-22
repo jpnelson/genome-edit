@@ -1,0 +1,14 @@
+<METADATA>
+     source          1..8870
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="4"
+
+</METADATA>
+<DATA>
+-nad4
++nad1
++cob
+</DATA>

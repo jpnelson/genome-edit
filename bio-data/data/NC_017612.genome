@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15660
+                     /organism="Solemya velum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13268"
+                     /country="USA"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Ser
+-tRNA-Thr
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
+-ATP6
+-tRNA-Asp
+-ATP8
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Met
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Trp
+-tRNA-Gln
+-tRNA-Glu
++tRNA-Gly
++COX3
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Ser
++ND2
+</DATA>

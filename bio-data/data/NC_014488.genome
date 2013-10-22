@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15451
+                     /organism="Ellipes minuta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BYU-IGC-OR153"
+                     /db_xref="taxon:241046"
+
+</METADATA>
+<DATA>
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnC
+-trnY
++COX1
++trnL
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-ND1
+-trnL
+-large subunit ribosomal RNA
+-trnV
+-small subunit ribosomal RNA
+</DATA>

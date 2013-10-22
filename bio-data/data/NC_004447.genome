@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..14790
+                     /organism="Ciona intestinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7719"
+                     /country="Italy:Napoli"
+
+</METADATA>
+<DATA>
++rrnS
++trnW
++NADH6
++trnG(ggn)
++trnM(aua)
++trnD
++trnS(agy)
++trnM(aug)
++trnN
++ATPase 6
++NADH2
++trnA
++COII
++cytb
++trnP
++NADH4L
++trnH
++trnR
++trnQ
++COIII
++trnK
++NADH1
++rrnL
++trnI
++NADH3
++trnE
++trnV
++NADH4
++trnF
++ATPase 8
++trnC
++trnG(agr)
++trnY
++trnL(cun)
++trnS(ucn)
++COI
++trnT
++NADH5
++trnL(uur)
+</DATA>

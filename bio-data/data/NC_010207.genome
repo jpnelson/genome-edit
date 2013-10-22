@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..19112
+                     /organism="Iotrochota birotulata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:283497"
+
+</METADATA>
+<DATA>
++rnl
++trnI(cau)
++trnR(ucg)
++trnY(gua)
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnQ(uug)
++trnW(uca)
++trnL(uag)
++trnN(guu)
++CYTB
++trnT(ugu)
++ATP9
++trnS(gcu)
++trnP(ugg)
++ND4
++trnH(gug)
++trnE(uuc)
++ND6
++trnD(guc)
++ND3
++ND4L
++COX1
++trnS(uga)
++trnC(gca)
++ND1
++trnL(uaa)
++trnI(gau)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++COX2
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

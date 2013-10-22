@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15722
+                     /organism="Lamprotula tortuosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:332607"
+
+</METADATA>
+<DATA>
+-COX1
+-COX2
+-ND3
+-tRNA-His
++tRNA-Ala
++tRNA-Ser
++tRNA-Ser
++tRNA-Glu
++ND2
++tRNA-Met
++tRNA-Trp
++tRNA-Arg
++s-rRNA
++tRNA-Lys
++tRNA-Thr
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++tRNA-Asn
++tRNA-Pro
++CYTB
++tRNA-Phe
+-ND5
++tRNA-Gln
++tRNA-Cys
++tRNA-Ile
++tRNA-Val
++ND1
++tRNA-Leu
++tRNA-Gly
++ND6
+-ND4
+-ND4L
+-ATP8
+-tRNA-Asp
+-ATP6
+-COX3
+</DATA>

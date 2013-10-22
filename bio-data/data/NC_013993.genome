@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16570
+                     /organism="Homo sapiens ssp. Denisova"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="Denisova"
+                     /db_xref="taxon:741158"
+                     /tissue_type="bone"
+                     /country="Russia:Altai"
+                     /lat_lon="51.4 N 84.68 E"
+                     /collected_by="Shunkov M."
+
+</METADATA>
+<DATA>
++trnF
++12S rRNA
++trnV
++16S rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-tRNA-Asn
+-trnC
+-tRNA-Cys
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

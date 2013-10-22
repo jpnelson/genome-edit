@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16296
+                     /organism="Cephalothrix simula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:187810"
+                     /country="China"
+                     /common="ribbon worm"
+
+</METADATA>
+<DATA>
++trnY
++trnC
++ATP6
++trnF
++trnD
++ATP8
++trnM
++rrnS
++trnV
++rrnL
++trnL(uag)
++trnL(uaa)
++ND1
+-trnP
++CYTB
++trnS(uga)
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnQ
++ND6
++COX3
++trnK
++trnA
++trnR
++trnN
++trnI
++ND3
++trnG
++trnS(gcu)
++ND2
++trnE
++COX1
++COX2
++trnW
+</DATA>

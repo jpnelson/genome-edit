@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15433
+                     /organism="Bugula neritina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10212"
+                     /common="bryozoan"
+
+</METADATA>
+<DATA>
++tRNA-Cys
++COX3
++tRNA-Trp
+-tRNA-Leu
+-tRNA-Ala
++tRNA-Lys
++s-rRNA
++tRNA-Asn
++l-rRNA
++tRNA-Gly
+-tRNA-Glu
++tRNA-Pro
++tRNA-Leu
++tRNA-Met
++tRNA-Ile
++tRNA-Asp
++tRNA-Ser
++ND6
+-tRNA-Tyr
++COX1
++ATP8
++tRNA-Thr
++tRNA-Arg
+-tRNA-Val
++tRNA-Gln
++ATP6
++tRNA-Phe
++ND3
++ND2
++COX2
++tRNA-Cys
++tRNA-Ser
++CYTB
++ND4L
++ND4
++tRNA-His
++ND5
++ND1
+</DATA>

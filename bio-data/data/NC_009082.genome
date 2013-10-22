@@ -1,0 +1,39 @@
+<METADATA>
+     source          1..14411
+                     /organism="Epiperipatus biolleyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:172520"
+                     /common="velvet worm"
+
+</METADATA>
+<DATA>
+-tRNA-Ile
+-tRNA-Phe
+-tRNA-Tyr
++tRNA-Asn
+-ND6
+-s-rRNA
++l-rRNA
++ND4L
++ND4
+-tRNA-Trp
+-tRNA-Gln
++ND2
++COX1
++COX2
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Met
+-CYTB
+-ND1
+-tRNA-Leu
++tRNA-Cys
++tRNA-His
++ND5
+-tRNA-Glu
++tRNA-Asp
++tRNA-Lys
+</DATA>

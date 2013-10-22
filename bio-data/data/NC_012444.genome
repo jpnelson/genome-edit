@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..18923
+                     /organism="Chamaeleo zeylanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="elevation 70 m"
+                     /specimen_voucher="MVZ248409; Museum of Vertebrate
+                     Zoology, University of California at Berkeley"
+                     /db_xref="taxon:420384"
+                     /country="Pakistan: NagarParkar, Thar Parkar District"
+                     /lat_lon="24.3517 N 70.7573 E"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
+-tRNA-Gln
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
++tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

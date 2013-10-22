@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..18643
+                     /organism="Paphia euglypta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:345428"
+                     /tissue_type="adductor muscle"
+                     /common="venus clam"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++ND1
++ND2
++ND4L
++tRNA-Ile
++COX2
++tRNA-Pro
++CYTB
++l-rRNA
++ATP6
++ND3
++ND5
++ND4
++tRNA-His
++tRNA-Glu
++tRNA-Ser
++tRNA-Tyr
++tRNA-Met
++tRNA-Asp
++tRNA-Met
++ND6
++tRNA-Lys
++tRNA-Val
++tRNA-Phe
++tRNA-Trp
++tRNA-Arg
++tRNA-Leu
++tRNA-Gly
++tRNA-Gln
++tRNA-Asn
++tRNA-Thr
++tRNA-Cys
++tRNA-Ala
++tRNA-Ser
++COX3
++s-rRNA
+</DATA>

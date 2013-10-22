@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..18648
+                     /organism="Porites porites"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:104760"
+                     /country="USA: Florida"
+                     /collected_by="Rob Carter"
+                     /common="lesser starlet coral"
+
+</METADATA>
+<DATA>
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++s-rRNA
++COX3
++COX2
++ND4L
++ND3
++tRNA-Trp
++ATP8
++COX1
++tRNA-Met
++l-rRNA
+</DATA>

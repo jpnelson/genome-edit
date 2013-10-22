@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15244
+                     /organism="Sasakia charonda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="V25"
+                     /db_xref="taxon:461137"
+
+</METADATA>
+<DATA>
++tRNA-Met
++tRNA-Ile
+-tRNA-Gln
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COI
++tRNA-Leu
++COII
++tRNA-Lys
++tRNA-Asp
++atp8
++atp6
++COIII
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++COB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-large subunit ribosomal RNA
+-tRNA-Val
+-small subunit ribosomal RNA
+</DATA>

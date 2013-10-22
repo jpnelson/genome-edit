@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..13590
+                     /organism="Loa loa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:7209"
+                     /dev_stage="adult worm"
+
+</METADATA>
+<DATA>
++tRNA-Glu
++tRNA-Ser
++ND2
++tRNA-Thr
++ND4
++COX1
++tRNA-Trp
++ND6
++tRNA-Arg
++tRNA-Gln
++CYTB
++tRNA-Leu
++COX3
++tRNA-Ala
++tRNA-Leu
++tRNA-Asn
++tRNA-Met
++tRNA-Lys
++ND4L
++s-rRNA
++tRNA-Tyr
++ND1
++tRNA-Phe
++ATP6
++tRNA-Ile
++tRNA-Gly
++COX2
++tRNA-His
++l-rRNA
++ND3
++tRNA-Cys
++tRNA-Ser
++tRNA-Pro
++tRNA-Asp
++tRNA-Val
++ND5
+</DATA>

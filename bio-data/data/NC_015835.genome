@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15413
+                     /organism="Sesamia inferens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:492764"
+                     /country="China"
+                     /collection_date="20-Jun-2010"
+
+</METADATA>
+<DATA>
++trnM
++trnI
+-trnQ
++ND2
++trnW
+-trnC
+-trnY
++COX1
++trnL2(UUR)
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS1(AGN)
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS2(UCN)
+-ND1
+-trnL1(CUN)
+-rrnL
+-trnV
+-rrnS
+</DATA>

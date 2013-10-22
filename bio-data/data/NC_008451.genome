@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..18244
+                     /organism="Hiatella arctica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:120431"
+                     /common="arctic hiatella"
+
+</METADATA>
+<DATA>
++COX1
++ATP6
++tRNA-Phe
++tRNA-Lys
++tRNA-Met
++COX2
++s-rRNA
++tRNA-His
++ND5
++ND1
++tRNA-Gly
++tRNA-Asp
++tRNA-Tyr
++ND4
++tRNA-Pro
++tRNA-Thr
++tRNA-Ala
++ATP8
++tRNA-Ile
++tRNA-Leu
++tRNA-Leu
++tRNA-Val
++tRNA-Arg
++tRNA-Cys
++tRNA-Asn
++ND4L
++ND3
++tRNA-Ser
++tRNA-Glu
++l-rRNA
++tRNA-Gln
++COX3
++ND6
++tRNA-Met
++tRNA-Trp
++tRNA-Ser
++CYTB
++ND2
+</DATA>

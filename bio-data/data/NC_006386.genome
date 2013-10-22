@@ -1,0 +1,24 @@
+<METADATA>
+     source          1..11905
+                     /organism="Spadella cephaloptera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:52888"
+                     /common="arrow worm"
+
+</METADATA>
+<DATA>
+-COX1
++ND4L
+-ND4
+-ND5
+-CYTB
+-ND6
+-l-rRNA
++COX2
++ND1
++ND3
++ND2
++COX3
++s-rRNA
+</DATA>

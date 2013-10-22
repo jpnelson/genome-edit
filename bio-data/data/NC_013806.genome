@@ -1,0 +1,36 @@
+<METADATA>
+     source          1..17020
+                     /organism="Apteryx owenii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8824"
+                     /tissue_type="blood"
+                     /country="New Zealand: Otorohanga Kiwi House"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Arg
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++tRNA-Thr
+-tRNA-Pro
+-tRNA-Glu
+</DATA>

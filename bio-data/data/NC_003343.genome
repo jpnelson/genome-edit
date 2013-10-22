@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14868
+                     /organism="Narceus annularus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:174156"
+                     /common="millipede"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
++ND6
++CYTB
++tRNA-Ser
++tRNA-Thr
+-tRNA-Gln
+-tRNA-Tyr
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-large subunit ribosomal RNA
+-tRNA-Val
+-small subunit ribosomal RNA
++tRNA-Ile
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+</DATA>

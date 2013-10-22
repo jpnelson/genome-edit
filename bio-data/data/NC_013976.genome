@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14994
+                     /organism="Eophreatoicus sp. 14 FK-2009"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="14"
+                     /db_xref="taxon:622658"
+                     /common="freshwater isopod"
+
+</METADATA>
+<DATA>
+-tRNA-Val
+-tRNA-Gln
+-tRNA-Leu
+-tRNA-Leu
+-COX1
++tRNA-Tyr
++tRNA-Cys
+-ND2
+-tRNA-Met
++COX2
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
+-ND1
++tRNA-Asn
++s-rRNA
++tRNA-Lys
++tRNA-Glu
+-tRNA-Ile
+-tRNA-Trp
++tRNA-Ser
+-CYTB
+-tRNA-Thr
++ND5
++tRNA-Phe
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++ND6
++tRNA-Ser
+-l-rRNA
+</DATA>

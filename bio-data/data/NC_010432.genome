@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15323
+                     /organism="Loxosomella aloxiata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:393182"
+                     /common="goblet worm"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++trnD
++ATP8
++ATP6
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnS(uga)
+-CYTB
+-ND6
++trnP
+-ND1
+-trnL(uaa)
+-ND2
+-trnS(gcu)
+-trnC
+-trnY
+-trnW
+-trnQ
+-ND3
+-trnI
+-trnN
+-trnR
+-trnA
+-trnK
+-COX3
+-trnG
+-trnV
+-trnE
++trnV
++rrnL
++trnM
++trnL(uag)
++rrnS
+</DATA>

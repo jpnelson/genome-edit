@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17086
+                     /organism="Semirossia patagonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1052875"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-Ala
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Ser
++ND2
++COX1
++COX2
++tRNA-Asp
++ATP8
++tRNA-Thr
+-CYTB
+-ND6
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Cys
+-tRNA-Gln
+-tRNA-Ser
+-tRNA-Phe
+-ND4
+-ND4L
+-tRNA-Trp
+-tRNA-Leu
+-tRNA-Val
+-tRNA-Gly
+-tRNA-Glu
+-l-rRNA
+-s-rRNA
++tRNA-Arg
+-ND5
+-tRNA-His
+-tRNA-Met
+-tRNA-Tyr
++tRNA-Lys
++ATP6
+</DATA>

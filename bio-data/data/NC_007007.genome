@@ -1,0 +1,57 @@
+<METADATA>
+     source          1..17573
+                     /organism="Gavia stellata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="sample was supplied by Einar Arnason
+                     (University of Iceland, Reykjavik, Iceland) and Thorvaldur
+                     Th. Bjornsson (Museum of Natural History, Reykjavik,
+                     Iceland)"
+                     /db_xref="taxon:37040"
+                     /country="Iceland"
+                     /common="red-throated loon"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
++CYTB
++tRNA-Thr
+-tRNA-Pro
+-ND6
+-tRNA-Glu
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..18089
+                     /organism="Cinachyrella kuekenthali"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:458489"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++COX2
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnQ(uug)
++trnW(uca)
++trnN(guu)
++trnL(uag)
++CYTB
++trnT(ugu)
++ATP9
++trnS(gcu)
++trnP(ugg)
++ND4
++trnH(gug)
++trnE(uuc)
++ND6
++ND3
++trnR(ucg)
++ND4L
++COX1
++trnS(uga)
++trnI(cau)
++trnD(guc)
++trnC(gca)
++ND1
++trnL(uaa)
++trnI(gau)
++trnY(gua)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

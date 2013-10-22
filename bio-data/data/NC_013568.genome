@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..15319
+                     /organism="Rotaria rotatoria"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:231624"
+                     /common="rotifer"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Gly
++tRNA-Leu
++tRNA-Trp
++tRNA-Ile
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++ND6
++tRNA-Ala
++tRNA-Gln
++tRNA-Asp
++ATP6
++tRNA-Glu
++ND1
++CYTB
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Phe
++tRNA-Met
++s-rRNA
++COX2
++tRNA-Lys
++COX3
++ND3
++tRNA-Thr
++tRNA-Pro
++tRNA-Arg
++tRNA-Ser
++tRNA-Val
++tRNA-Ser
++tRNA-Asn
++ND2
+</DATA>

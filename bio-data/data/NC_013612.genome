@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..22217
+                     /organism="Monognathus jesperseni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:556250"
+                     /tissue_type="muscle"
+                     /common="onejaw"
+
+</METADATA>
+<DATA>
+-tRNA-Ser
++tRNA-Trp
++tRNA-His
++tRNA-Leu
++tRNA-Met
++COX1
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++tRNA-Ser
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Ile
+-tRNA-Asn
+-tRNA-Glu
++tRNA-Thr
++tRNA-Ala
+-tRNA-Gln
++tRNA-Met
+-tRNA-Tyr
++tRNA-Cys
++CYTB
+-tRNA-Pro
++tRNA-Phe
++tRNA-Arg
++tRNA-Leu
++ND1
++ND2
++tRNA-Asp
++ND3
++ND4L
++ND4
++ND5
+-ND6
+</DATA>

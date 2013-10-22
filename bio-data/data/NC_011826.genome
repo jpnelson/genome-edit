@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15502
+                     /organism="Sipunculus nudus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6446"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asn
++COX2
++tRNA-Asp
++ATP8
++tRNA-Tyr
++tRNA-Glu
++tRNA-Gly
++COX3
++tRNA-Gln
++ND6
++CYTB
++tRNA-Pro
++tRNA-Ser
++tRNA-Cys
++tRNA-Met
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Phe
++tRNA-Thr
++ND4L
++ND4
++tRNA-Leu
++ND1
++tRNA-Trp
++ATP6
++tRNA-Arg
++tRNA-His
++ND5
++tRNA-Ser
++ND2
+</DATA>

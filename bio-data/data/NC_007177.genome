@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16779
+                     /organism="Leptotrombidium pallidum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:279272"
+                     /common="chigger"
+
+</METADATA>
+<DATA>
++tRNA-Met
++ND2
+-tRNA-Cys
++COX1
++COX2
++tRNA-Lys
+-tRNA-His
+-ND4L
+-tRNA-Leu
++tRNA-Thr
++tRNA-Leu
++ND1
++tRNA-Tyr
++l-rRNA
++s-rRNA
++tRNA-Gln
+-tRNA-Ser
+-tRNA-Pro
+-ND4
+-tRNA-Arg
++tRNA-Val
++ND6
++CYTB
++tRNA-Ser
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Glu
++tRNA-Gly
++tRNA-Asn
+-l-rRNA
+-tRNA-Trp
+-ND5
+-tRNA-Phe
++tRNA-Ala
++ND3
++tRNA-Ile
+</DATA>

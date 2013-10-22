@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15975
+                     /organism="Hydroscapha granulum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:426698"
+                     /common="water beetle"
+
+</METADATA>
+<DATA>
++COX1
++trnL
++COX2
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++trnS
++trnE
+-trnF
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
++CYTB
++trnS
+-ND1
+-tRNA-Leu
+-16S rRNA
+-tRNA-Val
+-12S rRNA
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
+</DATA>

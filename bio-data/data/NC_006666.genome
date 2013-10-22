@@ -1,0 +1,43 @@
+<METADATA>
+     source          1..16304
+                     /organism="Astropecten polyacanthus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:60560"
+                     /common="seastar"
+
+</METADATA>
+<DATA>
+-ND2
+-tRNA-Ile
+-ND1
+-tRNA-Leu
+-tRNA-Gly
+-tRNA-Tyr
++tRNA-Asp
+-tRNA-Met
++tRNA-Val
++tRNA-Cys
++tRNA-Ala
++tRNA-Leu
+-tRNA-Asn
++tRNA-Gln
+-tRNA-Pro
++COX1
++tRNA-Arg
++ND4L
++COX2
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++ND5
+-ND6
++CYTB
++tRNA-Phe
++tRNA-Glu
++tRNA-Thr
+</DATA>

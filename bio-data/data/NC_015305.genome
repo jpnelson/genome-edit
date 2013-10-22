@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..21020
+                     /organism="Odorrana ishikawae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="IABHU-5275"
+                     /db_xref="taxon:310659"
+                     /country="Japan: Kagoshima, Amami Island"
+
+</METADATA>
+<DATA>
++trnH
++trnL(CUN)
++trnT
+-trnP
++trnF
++12S rrn
++trnV
++16S rrn
++trnL(UUR)
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS(UCN)
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnS(AGY)
++ND5
+-ND6
+-trnE
++CYTB
+</DATA>

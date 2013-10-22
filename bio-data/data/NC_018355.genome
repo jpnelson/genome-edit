@@ -1,0 +1,45 @@
+<METADATA>
+     source          1..15861
+                     /organism="Membranipora grandicella"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:192923"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Pro
++tRNA-Trp
++ATP8
++tRNA-Thr
++ND3
++tRNA-Gly
++ATP6
++ND2
++tRNA-Leu
++ND4L
++tRNA-His
++ND1
++COX2
++tRNA-Leu
++ND4
++tRNA-Gln
++ND5
++tRNA-Asp
++ND6
++tRNA-Glu
++tRNA-Arg
+-tRNA-Val
++tRNA-Ser
++l-rRNA
++tRNA-Met
++s-rRNA
++tRNA-Phe
++tRNA-Ile
++COX3
++tRNA-Ala
++tRNA-Lys
++CYTB
++tRNA-Ser
++tRNA-Cys
+</DATA>

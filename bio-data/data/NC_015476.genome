@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..16121
+                     /organism="Margaritifera falcata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H2912"
+                     /db_xref="taxon:52361"
+                     /haplotype="hermaphroditic F-like"
+                     /sex="hermaphrodite"
+
+</METADATA>
+<DATA>
+-COX1
+-COX2
+-ND3
+-trnH
++trnA
++trnS1
++trnS2
++HORF
++ND2
++trnM
++trnW
++trnR
++s-rRNA
++trnK
++trnT
++trnY
++l-rRNA
++trnL
++trnN
++trnE
++trnP
++CYTB
++trnF
+-ND5
++trnQ
++trnC
++trnI
++trnV
++trnL2
++ND1
++trnG
++ND6
+-ND4
+-ND4L
+-ATP8
++trnD
+-ATP6
+-COX3
+</DATA>

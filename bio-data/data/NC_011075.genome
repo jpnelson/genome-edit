@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..17225
+                     /organism="Sinonovacula constricta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:98310"
+                     /common="jackknive clam"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++ND1
++tRNA-Leu
++tRNA-Val
++tRNA-Asn
++ND5
++CYTB
++ND6
++l-rRNA
++ATP6
++tRNA-Met
++s-rRNA
++COX3
++ND2
++tRNA-Lys
++COX2
++tRNA-Tyr
++ND4L
++tRNA-Gly
++tRNA-Pro
++ND4
++tRNA-His
++tRNA-Arg
++tRNA-Ser
++ND3
++tRNA-Thr
++tRNA-Ile
++tRNA-Asp
++tRNA-Gln
++tRNA-Cys
++tRNA-Ala
++tRNA-Phe
+</DATA>

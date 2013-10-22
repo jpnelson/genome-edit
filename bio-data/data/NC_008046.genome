@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..20013
+                     /organism="Thaumamermis cosgrovei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:382538"
+                     /haplotype="I"
+                     /common="pillbug nematode"
+
+</METADATA>
+<DATA>
++ND5
++tRNA-Ser
++tRNA-Gln
++tRNA-Asn
++tRNA-Lys
+-tRNA-Asp
+-ND4L
++ND6
++ND2
+-tRNA-Gly
+-ND3
++COX2
++COX1
++tRNA-Cys
+-tRNA-Ala
++COX3
++ND1
++CYTB
++ND4
++ATP6
+-tRNA-His
++tRNA-Phe
++tRNA-Trp
+-tRNA-His
++tRNA-Phe
+-tRNA-Val
++rrnS
+-tRNA-Val
++rrnS
++tRNA-Arg
++rrnL
++tRNA-Leu
++tRNA-Met
+-tRNA-Pro
+-tRNA-Thr
++tRNA-Glu
+-tRNA-Leu
++tRNA-Tyr
++tRNA-Ile
++tRNA-Ser
+</DATA>

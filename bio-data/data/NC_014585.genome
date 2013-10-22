@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15078
+                     /organism="Eualetes tulipa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:318223"
+                     /db_xref="taxon:765164"
+                     /tissue_type="buccal mass"
+                     /common="snail"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asp
++ATP8
++ATP6
++tRNA-Asn
++ND5
++tRNA-Lys
++COX3
++tRNA-Ser
++ND2
++tRNA-Arg
++tRNA-Thr
+-tRNA-Tyr
+-tRNA-Met
+-tRNA-Cys
+-tRNA-Trp
+-tRNA-Gln
+-tRNA-Gly
+-tRNA-Glu
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Pro
++ND1
++tRNA-Ala
++tRNA-Leu
++ND6
++CYTB
++tRNA-Ser
++ND4L
++ND4
++tRNA-His
++tRNA-Phe
++tRNA-Ile
++ND3
++COX2
+</DATA>

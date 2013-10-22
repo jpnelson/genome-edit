@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15536
+                     /organism="Ommexecha virens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="BYU-IGC-OR564"
+                     /db_xref="taxon:1260741"
+
+</METADATA>
+<DATA>
++trnI-gau
+-trnQ-uug
++trnM-cau
++ND2
++trnW-uca
+-trnC-gca
+-trnY-gua
++COX1
++trnL-uaa
++COX2
++trnD-guc
++trnK-cuu
++ATP8
++ATP6
++COX3
++trnG-ucc
++ND3
++trnA-ugc
++trnR-ucg
++trnN-guu
++trnS-gcu
++trnE-uuc
+-trnF-gaa
+-ND5
+-trnH-gug
+-ND4
+-ND4L
++trnT-ugu
+-trnP-ugg
++ND6
++CYTB
++trnS-uga
+-ND1
+-trnL-uag
+-l-rRNA
+-trnV-uac
+-s-rRNA
+</DATA>

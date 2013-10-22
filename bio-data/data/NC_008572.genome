@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14681
+                     /organism="Nymphon gracile"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:136195"
+                     /common="sea spider"
+
+</METADATA>
+<DATA>
+-tRNA-Tyr
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Asn
+-tRNA-Gln
+-s-rRNA
+-tRNA-Asp
+-tRNA-Lys
+-tRNA-Gly
+-tRNA-Pro
+-tRNA-Met
++tRNA-Val
+-tRNA-Ala
++tRNA-Ser
+-COX2
+-COX1
++tRNA-Cys
+-tRNA-Trp
+-ND2
+-tRNA-Ile
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Glu
++tRNA-Arg
+</DATA>

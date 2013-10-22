@@ -1,0 +1,27 @@
+<METADATA>
+     source          1..18733
+                     /organism="Stylatula elongata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1214922"
+
+</METADATA>
+<DATA>
++COX1
++s-rRNA
++ND1
++CYTB
++ND6
++ND3
++ND4L
++mutS
++l-rRNA
++ND2
++ND5
++ND4
+-tRNA-Met
+-COX3
+-ATP6
+-ATP8
+-COX2
+</DATA>

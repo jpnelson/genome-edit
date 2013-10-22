@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17037
+                     /organism="Saccoglossus kowalevskii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10224"
+                     /common="acorn worm"
+
+</METADATA>
+<DATA>
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++ND5
++CYTB
++tRNA-Glu
+-tRNA-Pro
+-ND6
+-tRNA-Ser
++tRNA-Thr
++tRNA-Trp
++tRNA-Asp
++tRNA-Phe
++s-rRNA
++l-rRNA
++tRNA-Leu
++tRNA-Met
++ND2
++tRNA-Leu
++tRNA-Lys
++tRNA-Val
++ND1
++tRNA-Ile
+-COX1
++tRNA-Cys
++tRNA-Gln
++tRNA-Ala
+-tRNA-Asn
+-tRNA-Tyr
++COX2
++ATP8
+</DATA>

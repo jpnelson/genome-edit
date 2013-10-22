@@ -1,0 +1,36 @@
+<METADATA>
+     source          1..9468
+                     /organism="Byctiscus populi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1069883"
+
+</METADATA>
+<DATA>
++rrnl
++trnL
++ND1
+-trnS
+-CYTB
+-ND6
++trnP
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnF
+-trnE
+-trnS
+-trnN
+-trnR
+-trnA
+-ND3
+-trnG
+-COX3
+-ATP6
+-ATP8
+-trnD
+-trnK
+-COX2
+</DATA>

@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..15949
+                     /organism="Cassiopea frondosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:237412"
+                     /common="upside-down jellyfish"
+
+</METADATA>
+<DATA>
+-dnaB
+-orf314
+-rnl
+-COX1
++COX2
++trnW(uca)
++ATP8
++ATP6
++COX3
++trnM(cau)
++ND2
++ND5
++rns
++ND6
++ND3
++ND4L
++ND1
++ND4
++CYTB
+</DATA>

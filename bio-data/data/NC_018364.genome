@@ -1,0 +1,27 @@
+<METADATA>
+     source          1..15841
+                     /organism="Madrepora oculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:213639"
+
+</METADATA>
+<DATA>
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++s-rRNA
++COX2
++COX3
++ND4L
++ND3
++tRNA-Trp
++ATP8
++COX1
++tRNA-Met
++l-rRNA
+</DATA>

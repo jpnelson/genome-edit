@@ -1,0 +1,36 @@
+<METADATA>
+     source          1..15652
+                     /organism="Lithidiopsis carinatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="BYU-IGC-OR316"
+                     /db_xref="taxon:1260739"
+
+</METADATA>
+<DATA>
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++tRNA-Asp
++tRNA-Lys
++tRNA-Gly
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-tRNA-His
++tRNA-Thr
+-tRNA-Pro
++tRNA-Ser
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

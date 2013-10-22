@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..17199
+                     /organism="Teratoscincus keyserlingii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="740 feet, 30 deg. 26.741' N 57 deg.
+                     49.967' E, east side of Shahdad, Kerman Province"
+                     /specimen_voucher="MVZ 243455 (Museum of Vertebrate
+                     Zoology, UCB)"
+                     /db_xref="taxon:293957"
+                     /country="Iran"
+                     /common="giant frog-eyed gecko"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

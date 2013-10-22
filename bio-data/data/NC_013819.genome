@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14734
+                     /organism="Onisimus nanseni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:583350"
+                     /common="amphipod"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Ala
++tRNA-Ser
++tRNA-Asn
++tRNA-Glu
++tRNA-Arg
++tRNA-Thr
++ND6
++CYTB
++tRNA-Ser
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Cys
+-s-rRNA
+-tRNA-Ile
+-tRNA-Val
++tRNA-Met
+-tRNA-Tyr
+-tRNA-Gln
++ND2
++tRNA-Trp
++tRNA-Gly
+</DATA>

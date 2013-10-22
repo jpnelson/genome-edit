@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16268
+                     /organism="Echinotriton andersoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SK-2009-Okinawa-Ea01"
+                     /db_xref="taxon:385653"
+                     /country="Japan:Okinawa, Okinawa Island"
+
+</METADATA>
+<DATA>
++trnF
++12S ribosomal RNA
++trnV
++16S ribosomal RNA
++trnL(UUR)
++nad1
++trnI
+-trnQ
++trnM
++nad2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++cox1
+-trnS(UCN)
++trnD
++cox2
++trnK
++atp8
++atp6
++cox3
++trnG
++nad3
++trnR
++nad4L
++nad4
++trnH
++trnS(AGY)
++trnL(CUN)
++nad5
+-nad6
+-trnE
++cob
++trnT
+-trnP
+</DATA>

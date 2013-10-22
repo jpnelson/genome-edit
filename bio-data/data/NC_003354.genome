@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..22676
+                     /organism="Ruditapes philippinarum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:129788"
+                     /sex="female"
+                     /common="Japanese littleneck clam"
+
+</METADATA>
+<DATA>
++COX2
++tRNA-Pro
++CYTB
++16S ribosomal RNA
++ND4
++tRNA-His
++tRNA-Glu
++tRNA-Ser
++ATP6
++ND3
++ND5
++tRNA-Tyr
++tRNA-Met
++tRNA-Met
++tRNA-Asp
++tRNA-Val
++ND6
++tRNA-Lys
++tRNA-Val
++tRNA-Phe
++tRNA-Trp
++tRNA-Arg
++tRNA-Leu
++tRNA-Gly
++tRNA-Gln
++tRNA-Asn
++tRNA-Thr
++tRNA-Cys
++tRNA-Ala
++COX3
++12S ribosomal RNA
++COX1
++tRNA-Leu
++ND1
++ND2
++ND4L
++tRNA-Ile
+</DATA>

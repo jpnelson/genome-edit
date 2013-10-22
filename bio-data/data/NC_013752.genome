@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..15028
+                     /organism="Microcosmus sulcatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:341086"
+                     /tissue_type="muscle"
+                     /country="Italy:Northern Italy, Liguria, Tirrenean Sea"
+                     /common="sea squirt"
+
+</METADATA>
+<DATA>
++COX2
++CYTB
++trnY
++trnC
++trnL (UUR)
++ND5
++trnF
++trnS (UCN)
++trnV
++trnR
++ND2
++trnL (CUN)
++ND4
++ND3
++trnT
++trnG (AGR)
++trnS (AGY)
++trnE
++trnG (GGN)
++ATP6
++trnM
++trnP
++trnH
++ND1
++trnQ
++rrnS
++trnD
++trnW
++trnH
++ATP8
++trnA
++trnM (AUA)
++trnN
++ND6
++rrnL
++trnK
++trnI
++COX3
++ND4L
++COX1
+</DATA>

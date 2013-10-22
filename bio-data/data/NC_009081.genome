@@ -1,0 +1,33 @@
+<METADATA>
+     source          1..20414
+                     /organism="Mizuhopecten yessoensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6573"
+                     /country="Japan:Hokkaido"
+
+</METADATA>
+<DATA>
++tRNA-Asn
++ND1
++l-rRNA
++tRNA-Met
++s-rRNA
++COX1
++tRNA-Cys
++ND5
++ND4L
++ND6
++tRNA-Leu
++CYTB
++COX3
++tRNA-Lys
++tRNA-Glu
++ATP6
++ND2
++tRNA-Thr
++tRNA-Ile
++tRNA-Leu
++ND3
++ND4
+</DATA>

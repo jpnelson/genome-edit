@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..19110
+                     /organism="Fulvia mutica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="yellow"
+                     /db_xref="taxon:80828"
+                     /tissue_type="adductor muscle"
+                     /country="Japan"
+
+</METADATA>
+<DATA>
++COX1
++ATP6
++ND2
++tRNA-Trp
++tRNA-Asp
++tRNA-Ile
++COX2
++ND5
++ND3
++tRNA-Val
++tRNA-Tyr
++tRNA-Cys
++tRNA-Cys
++tRNA-Cys
++tRNA-Cys
++tRNA-Cys
++tRNA-Met
++tRNA-Arg
++tRNA-Pro
++ND4L
++tRNA-Lys
++tRNA-Gln
++tRNA-Leu
++tRNA-Leu
++tRNA-Phe
++ATP8
++ND4
++small subunit ribosomal RNA
++ND6
++tRNA-Thr
++COX3
++tRNA-Met
++tRNA-Glu
++tRNA-Ser
++CYTB
++large subunit ribosomal RNA
++ND1
++tRNA-Ser
++tRNA-Asn
++tRNA-His
++tRNA-Gly
++tRNA-Ala
+</DATA>

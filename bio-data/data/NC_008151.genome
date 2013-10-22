@@ -1,0 +1,35 @@
+<METADATA>
+     source          1..43079
+                     /organism="Trichoplax adhaerens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Grell Red Sea"
+                     /db_xref="taxon:10228"
+                     /common="trichoplax"
+
+</METADATA>
+<DATA>
++orf101
++rnl
++trnR(ucg)
++atp6
++trnW(uca)
++trnL(uaa)
++trnD(guc)
++trnR(ucu)
++nad6
+-trnN(guu)
+-trnS(gcu)
+-trnK(uuu)
+-orf150
++trnT(ugu)
++trnS(uga)
+-orf139
+-trnM(cau)
+-trnG(ucc)
+-cox1
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

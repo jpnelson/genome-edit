@@ -1,0 +1,27 @@
+<METADATA>
+     source          1..16463
+                     /organism="Platygyra carnosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1136245"
+
+</METADATA>
+<DATA>
++tRNA-Met
++large subunit ribosomal RNA
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++small subunit ribosomal RNA
++COX3
++COX2
++ND4L
++ND3
+-tRNA-Trp
++ATP8
++COX1
+</DATA>

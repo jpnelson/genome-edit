@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14492
+                     /organism="Graptacme eborea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:55752"
+                     /common="ivory tusk shell"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Ser
++tRNA-Asn
++ND2
++CYTB
++tRNA-His
+-COX2
+-tRNA-Gln
++tRNA-Gly
+-COX3
+-tRNA-Tyr
++tRNA-Arg
++tRNA-Ser
+-ND6
+-tRNA-Pro
+-ND1
+-ATP8
+-tRNA-Ile
+-tRNA-Thr
++s-rRNA
+-tRNA-Met
+-l-rRNA
++tRNA-Val
++tRNA-Ala
++ND3
++tRNA-Leu
++tRNA-Leu
++tRNA-Glu
++tRNA-Trp
+-tRNA-Phe
+-tRNA-Lys
+-ND5
+-tRNA-Asp
+-ND4
+-ND4L
++ATP6
++tRNA-Cys
+</DATA>

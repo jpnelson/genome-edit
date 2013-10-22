@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..14591
+                     /organism="Ciona intestinalis B CG-2006"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:413601"
+                     /tissue_type="syphon muscle"
+                     /country="United Kingdom:Plymouth"
+                     /note="a cryptic species of the morphospecies Ciona
+                     intestinalis"
+
+</METADATA>
+<DATA>
++rrnS
++tRNA-Trp
++nad6
++tRNA-Gly (GGN)
++tRNA-Met (AUA)
++tRNA-Asp
++tRNA-Ser (AGY)
++tRNA-Met (AUG)
++tRNA-Asn
++atpase6
++nad2
++tRNA-Ala
++cox2
++cytb
++tRNA-Pro
++nad4L
++tRNA-His
++tRNA-Arg
++tRNA-Gln
++cox3
++tRNA-Lys
++nad1
++rrnL
++tRNA-Ile
++nad3
++tRNA-Glu
++tRNA-Val
++nad4
++tRNA-Cys
++tRNA-Phe
++atpase8
++tRNA-Gly (AGR)
++tRNA-Tyr
++tRNA-Leu (CUN)
++tRNA-Ser (UCN)
++cox1
++tRNA-Thr
++nad5
++tRNA-Leu (UUR)
+</DATA>

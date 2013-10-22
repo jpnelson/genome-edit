@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..16671
+                     /organism="Rhinophylla pumilio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T-4670"
+                     /specimen_voucher="ISEM:V-1992"
+                     /db_xref="taxon:138707"
+                     /sex="female"
+                     /country="French Guiana"
+                     /collection_date="14-May-2004"
+                     /collected_by="F. Catzeflis"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S rRNA
++tRNA-Val
++16S rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14732
+                     /organism="Halicryptus spinulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:160677"
+                     /country="Sweden"
+                     /common="priapulid worm"
+
+</METADATA>
+<DATA>
+-trnY
++COX1
++COX2
++trnK
++trnD
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnA
++trnR
++trnN
++s-rRNA
++trnV
++16S rRNA
++trnL (CUN)
++trnL (UUR)
++ND1
+-trnS (UCN)
+-CYTB
+-ND6
++trnP
+-trnT
++ND4L
++ND4
++trnH
++ND5
++trnF
+-trnE
+-trnS (AGN)
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnC
+</DATA>

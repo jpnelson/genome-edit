@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..14566
+                     /organism="Ixodes ricinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34613"
+
+</METADATA>
+<DATA>
++ND2
++COX1
++COX2
++ATP8
++ATP6
++COX3
++ND3
+-ND5
+-ND4
+-ND4L
++ND6
++CYTB
+-ND1
+</DATA>

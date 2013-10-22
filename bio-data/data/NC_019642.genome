@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14440
+                     /organism="Argas africolumbae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1210872"
+                     /common="soft tick"
+
+</METADATA>
+<DATA>
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
+-ND1
++tRNA-Ser
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
++tRNA-Ile
+-tRNA-Gln
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14135
+                     /organism="Auriculinella bidentata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CASIZ 184730"
+                     /db_xref="taxon:999262"
+                     /country="Portugal: Azores"
+
+</METADATA>
+<DATA>
++tRNA-Lys
++COX1
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++ND6
++ND5
++ND1
++ND4L
++CYTB
++tRNA-Asp
++tRNA-Cys
++tRNA-Phe
++COX2
++tRNA-Tyr
++tRNA-Trp
++tRNA-Gly
++tRNA-His
+-tRNA-Gln
+-tRNA-Leu
+-ATP8
+-tRNA-Asn
+-ATP6
+-tRNA-Arg
+-tRNA-Glu
+-s-rRNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
++tRNA-Ser
++ND4
+-tRNA-Thr
+-COX3
++tRNA-Ile
++ND2
+</DATA>

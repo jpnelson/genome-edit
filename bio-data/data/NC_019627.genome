@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17910
+                     /organism="Calanus hyperboreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:114069"
+
+</METADATA>
+<DATA>
++COX1
++ND4L
++tRNA-Ser
++tRNA-Thr
++16S ribosomal RNA
++tRNA-Val
++ATP8
++ATP6
++COX3
+-ND4
+-tRNA-Ile
+-CYTB
+-ND3
+-tRNA-Arg
+-tRNA-Cys
++tRNA-Asp
++tRNA-Leu
++ND2
++COX2
++tRNA-Asn
++tRNA-Ser
++tRNA-Trp
++tRNA-Lys
++tRNA-Met
++tRNA-Pro
++tRNA-Leu
++tRNA-Gln
++tRNA-Glu
+-tRNA-Tyr
+-tRNA-Ala
+-tRNA-His
+-ND5
++tRNA-Phe
++ND1
+-tRNA-Gly
++12S ribosomal RNA
++ND6
+</DATA>

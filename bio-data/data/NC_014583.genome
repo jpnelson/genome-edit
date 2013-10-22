@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15578
+                     /organism="Dendropoma maximum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:318221"
+                     /db_xref="taxon:169307"
+                     /tissue_type="foot; buccal mass"
+                     /common="worm snail"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asp
++ATP8
++ATP6
++tRNA-Asn
++ND5
++tRNA-Lys
++tRNA-Ala
++COX3
++tRNA-Ser
++ND2
++tRNA-Arg
+-tRNA-Tyr
+-tRNA-Met
+-tRNA-Cys
+-tRNA-Trp
+-tRNA-Gln
+-tRNA-Gly
+-tRNA-Glu
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-tRNA-Thr
++ND4L
++ND4
++tRNA-His
++tRNA-Phe
++tRNA-Ile
++ND3
++COX2
+</DATA>

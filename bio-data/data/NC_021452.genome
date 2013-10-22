@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..15314
+                     /organism="Danaus plexippus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="overwintering butterfly"
+                     /db_xref="taxon:13037"
+                     /sex="female"
+                     /tissue_type="gut"
+                     /country="Mexico: Michoacan state, Monarch Butterfly
+                     Biosphere Reserve, Sierra Chivati Huacal"
+                     /altitude="3100 m."
+                     /collection_date="Jan-2010"
+                     /collected_by="Luis Eduardo Servin Garciduenas"
+
+</METADATA>
+<DATA>
++tRNA-Met
++tRNA-Ile
+-tRNA-Gln
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

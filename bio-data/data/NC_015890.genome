@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14493
+                     /organism="Oroperipatus sp. DVL-2011"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1035536"
+                     /common="velvet worm"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++trnD(guc)
++ATP8
++ATP6
++COX3
++ND3
++trnR(ucg)
+-trnS(uga)
+-CYTB
+-ND1
+-trnL(uaa)
+-trnV(uac)
+-trnT(ugu)
++trnH(gug)
++ND5
++trnF(gaa)
+-trnS(ucu)
++trnY(gua)
++trnK(cuu)
++trnA(ugc)
++trnN(guu)
++trnI(gau)
++trnE(uuc)
+-ND6
+-trnL(uag)
+-rns
++rnl
++trnP(ugg)
++ND4L
++ND4
+-trnG(ucc)
+-trnW(uca)
+-trnM(cau)
+-trnQ(uug)
++ND2
+</DATA>

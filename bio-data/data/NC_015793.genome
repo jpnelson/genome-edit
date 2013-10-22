@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17706
+                     /organism="Nerodia sipedon"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8592"
+                     /common="Brown Water Snake"
+
+</METADATA>
+<DATA>
++trnF-GAA
++s-rRNA
++trnV-UAC
++l-rRNA
++ND1
++trnI-GAU
++trnL-UAA
+-trnQ-UUG
++trnM-CAU
++ND2
+-trnW-UCA
+-trnA-UGC
+-trnN-GUU
+-trnC-GCA
+-trnY-GUU
++COX1
+-trnS-UGA
++trnD-GUC
++COX2
++trnK-AAG
++ATP8
++ATP6
++COX3
++trnG-UCC
++ND3
++trnR-UCG
++ND4L
++ND4
++trnH-GUG
++trnS-GCT
++trnL-UAG
++ND5
+-ND6
+-trnE-UUC
++CYTB
++trnT-UGU
+-trnP-UGG
+</DATA>

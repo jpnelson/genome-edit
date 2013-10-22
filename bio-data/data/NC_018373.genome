@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..18182
+                     /organism="Nuttallia olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SAOL-0112"
+                     /db_xref="taxon:1125678"
+                     /common="clam"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++l-rRNA
++COX1
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Glu
++ND3
++tRNA-Lys
++ND4L
++tRNA-Tyr
++tRNA-Thr
++tRNA-Leu
++tRNA-Asp
++tRNA-Leu
++ND1
++tRNA-Asn
++ND5
++tRNA-Arg
++CYTB
++tRNA-Val
++tRNA-Trp
++tRNA-Gly
++tRNA-Ile
++COX2
++s-rRNA
++tRNA-Ser
++ND6
++l-rRNA
++tRNA-Met
++ATP6
++COX3
++ND2
++tRNA-Pro
++tRNA-Gln
++tRNA-Cys
++tRNA-Ala
+</DATA>

@@ -1,0 +1,57 @@
+<METADATA>
+     source          1..26300
+                     /organism="Suberites domuncula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:55567"
+                     /dev_stage="adult"
+                     /country="Croatia:Northern Adriatic Sea"
+                     /collection_date="2000"
+                     /collected_by="Renato Batel"
+                     /identified_by="G. Olivi"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++trnT(gua)
++trnI(cau)
++COX2
++trnK(uuu)
++ATP8
++ATP6
++trnR(ucu)
++COX3
++trnQ (uug)
++trnW(uca)
++trnL (uag)
++trnN(guu)
++CYTB
++trnT(ugu)
++ATP9
++trnS(gcu)
++trnP(ugg)
++ND4
++trnH(gug)
++trnE(uuc)
++ND6
++trnD(guc)
++ND3
++trnR(ucg)
++ND4L
++COX1
++trnS(uga)
++trnC(gca)
++ND1
++trnL(uaa)
++trnI(gau)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++trnM(cau)e
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

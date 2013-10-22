@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16199
+                     /organism="Sepia esculenta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:31210"
+
+</METADATA>
+<DATA>
++COX3
++trnK
++trnA
++trnR
++trnS
++ND2
++COX1
++COX2
++ATP8
++ATP6
+-trnF
+-ND1
+-trnL
+-trnL
+-rrnL
+-trnV
+-rrnS
+-trnC
+-trnY
+-trnQ
+-trnG
++trnN
++trnI
++ND3
++trnD
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnS
+-CYTB
+-ND6
+-trnP
+-trnM
+-trnW
+-trnE
+</DATA>

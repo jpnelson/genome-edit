@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..18424
+                     /organism="Gondogeneia antarctica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="KAA01"
+                     /db_xref="taxon:1109128"
+                     /common="amphipod"
+
+</METADATA>
+<DATA>
++CYTB
++trnS
+-ND1
+-trnC
+-trnF
+-trnY
+-trnQ
+-trnL
++rrnL
+-trnV
++rrnS
++trnI
++trnM
++ND2
++trnW
++trnG
++COX1
++trnL
++COX2
++trnD
++trnK
++ATP8
++ATP6
++COX3
++ND3
++trnA
++trnS
++trnN
++trnE
++trnR
+-ND5
+-trnH
+-ND4
+-ND4L
++trnT
+-trnP
++ND6
+</DATA>

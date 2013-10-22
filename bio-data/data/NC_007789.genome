@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16254
+                     /organism="Acanthaster brevispinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:339859"
+                     /common="starfish"
+
+</METADATA>
+<DATA>
+-l-rRNA
+-ND2
+-tRNA-Ile
+-ND1
+-tRNA-Leu
++tRNA-Gly
+-tRNA-Tyr
++tRNA-Asp
+-tRNA-Met
++tRNA-Val
+-tRNA-Cys
+-tRNA-Trp
++tRNA-Ala
+-tRNA-Leu
+-tRNA-Asn
++tRNA-Gln
+-tRNA-Pro
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-ND6
++CYTB
++tRNA-Phe
++s-rRNA
++tRNA-Glu
++tRNA-Thr
+</DATA>

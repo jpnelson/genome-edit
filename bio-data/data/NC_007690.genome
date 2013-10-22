@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15892
+                     /organism="Phanogenia gracilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:329963"
+                     /common="crinoid"
+
+</METADATA>
+<DATA>
++CYTB
++tRNA-Pro
+-tRNA-Gln
++tRNA-Asn
++tRNA-Leu
+-tRNA-Ala
++tRNA-Trp
++tRNA-Cys
+-tRNA-Val
++tRNA-Met
+-tRNA-Asp
+-tRNA-Thr
+-tRNA-Glu
+-s-rRNA
+-tRNA-Phe
+-tRNA-Leu
+-tRNA-Gly
+-l-rRNA
+-tRNA-Tyr
+-ND2
+-tRNA-Ile
+-ND1
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-ND6
+</DATA>

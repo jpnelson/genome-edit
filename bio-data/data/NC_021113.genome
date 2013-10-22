@@ -1,0 +1,17 @@
+<METADATA>
+     source          1..9270
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="5"
+
+</METADATA>
+<DATA>
+-trnN(guu)
+-trnR(ucu)
+-nad3
++nad2
++cox1
++atp6
+</DATA>

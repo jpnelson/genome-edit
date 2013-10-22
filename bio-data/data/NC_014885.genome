@@ -1,0 +1,33 @@
+<METADATA>
+     source          1..20069
+                     /organism="Plakina crypta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CB00D"
+                     /db_xref="taxon:908212"
+                     /common="sponge"
+
+</METADATA>
+<DATA>
++rnl
++trnP(ugg)
++ND4
++ND6
++ND3
++ND1
++ATP9
++ND4L
++trnI(cau)
++trnM(cau)
++ND2
++ND5
++COX1
++trnQ(uug)
++trnW(uca)
++CYTB
++COX2
++ATP8
++ATP6
++COX3
++rns
+</DATA>

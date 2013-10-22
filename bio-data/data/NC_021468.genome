@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..14677
+                     /organism="Rhodosoma turcicum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="natural substrate depth <1m"
+                     /specimen_voucher="TAU<ISR>:AS25347"
+                     /db_xref="taxon:1256665"
+                     /tissue_type="gonads"
+                     /country="Israel:Mediterranean coast of Israel, Achziv"
+                     /collection_date="09-Aug-2008"
+                     /collected_by="Noa Shenkar"
+                     /identified_by="Noa Shenkar"
+
+</METADATA>
+<DATA>
++COX2
++trnQ
++COX3
++ND2
++trnE
++ND1
++trnG(AGR)
++rrnS
++rrnL
++trnL(UUR)
++trnS(AGY)
++CYTB
++ND3
++COX1
++ND4L
++trnL(CUN)
++trnM(UAU)
++ND5
++ATP8
++trnC
++trnS(UCN)
++trnM
++ND6
++trnF
++trnD
++trnK
++trnW
++trnY
++trnH
++trnV
++ATP6
++trnP
++trnG(GGN)
++trnT
++trnN
++trnI
++trnA
++ND4
+</DATA>

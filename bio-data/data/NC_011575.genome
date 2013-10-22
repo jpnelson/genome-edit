@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..16635
+                     /organism="Anguilla luzonensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:573744"
+                     /country="Philippines:Luzon, Kagayan River System"
+                     /lat_lon="17.61 N 121.76 E"
+                     /collection_date="08-Feb-2008"
+                     /collected_by="Jun Aoyama"
+                     /identified_by="Shun Watanabe"
+                     /common="Philippine eel"
+                     /note="unpublished name: Anguilla philippinenesis"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

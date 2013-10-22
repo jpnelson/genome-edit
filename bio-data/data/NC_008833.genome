@@ -1,0 +1,33 @@
+<METADATA>
+     source          1..37194
+                     /organism="Placozoan sp. BZ49"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="BZ49"
+                     /db_xref="taxon:401704"
+                     /country="Belize"
+                     /common="placozoan"
+
+</METADATA>
+<DATA>
++rnl
++trnR(ucg)
++atp6
++trnW(uca)
++trnL(uaa)
++trnD(guc)
++trnR(ucu)
++nad6
+-trnN(guu)
+-trnS(gcu)
+-trnT(ugu)
++trnK(uuu)
++trnS(uga)
+-trnI(cau)
+-trnG(ucc)
+-cox1
+TypeError: 'null' is not an object (evaluating 'featureText.split('\n')[0].match(/[0-9]+\.\.>*[0-9]+/i)[0]')
+
+  phantomjs://webpage.evaluate():22
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

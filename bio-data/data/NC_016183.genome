@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14523
+                     /organism="Rhopalocaulis grandidieri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L7086; Natal Museum, South Africa"
+                     /db_xref="taxon:1094772"
+                     /common="leatherleaf slugs"
+
+</METADATA>
+<DATA>
++tRNA-Lys
++COX1
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++ND6
++ND5
++ND1
++ND4L
++CYTB
++tRNA-Asp
++COX2
++tRNA-Gly
++tRNA-Tyr
++tRNA-Cys
+-tRNA-Gln
+-ATP8
+-tRNA-Glu
+-tRNA-Asn
++tRNA-Phe
++tRNA-His
++tRNA-Trp
+-tRNA-Leu
+-ATP6
+-tRNA-Arg
+-s-rRNA
+-tRNA-Met
+-ND3
+-tRNA-Ser
++tRNA-Ser
++ND4
+-tRNA-Thr
+-COX3
++tRNA-Ile
++ND2
+</DATA>

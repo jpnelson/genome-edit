@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..15370
+                     /organism="Pedetes capensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10023"
+
+</METADATA>
+<DATA>
++ND1
++ND2
++COX1
++COX2
++ATP8
++ATP6
++COX3
++ND3
++ND4L
++ND4
++ND5
+-ND6
++CYTB
+</DATA>

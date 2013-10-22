@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16472
+                     /organism="Ophiopholis aculeata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:35052"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Arg
++ND4L
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
+-tRNA-Ser
++ND3
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-tRNA-Thr
+-ND6
+-tRNA-Met
+-tRNA-Ala
+-tRNA-Glu
+-tRNA-Gly
+-l-rRNA
+-tRNA-Leu
+-tRNA-Pro
+-s-rRNA
+-tRNA-Phe
+-CYTB
+-tRNA-Asp
+-ND2
+-tRNA-Ile
+-ND1
+-tRNA-Leu
+-tRNA-Asn
++tRNA-Gln
++tRNA-Cys
+-tRNA-Val
+-tRNA-Tyr
++tRNA-Trp
+</DATA>

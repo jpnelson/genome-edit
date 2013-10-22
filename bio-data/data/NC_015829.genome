@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15047
+                     /organism="Thulinius sp. DVL-2010"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:867920"
+                     /common="water bear"
+
+</METADATA>
+<DATA>
++COX2
++trnK(uuu)
++trnD(guc)
++ATP8
++ATP6
++COX3
++trnG(ucc)
++ND3
++trnA(ugc)
++trnR(ucg)
++trnN(guu)
++trnS(gcu)
++trnE(uuc)
+-trnF(gaa)
+-ND5
+-trnH(gug)
+-ND4
+-ND4L
++trnT(ugu)
+-trnP(ugg)
++ND6
++CYTB
++trnS(uga)
+-ND1
+-trnL(uaa)
+-trnI(gau)
+-trnL(uag)
+-rnl
+-trnV(uac)
+-rns
+-trnQ(uug)
++trnM(cau)
++ND2
++trnW(uca)
+-trnC(gca)
+-trnY(gua)
++COX1
+</DATA>

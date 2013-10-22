@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..18903
+                     /organism="Champsodon cf. snyderi CBM-ZF 10876"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM-ZF 10876"
+                     /db_xref="taxon:270612"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++16S ribosomal RNA
++tRNA-Ile
++tRNA-Val
+-ND6
+-tRNA-Glu
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Ser
++tRNA-Asp
++COII
++COIII
+-tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
+-tRNA-Pro
+-tRNA-Gln
++tRNA-Leu
++ND1
++tRNA-Met
+-tRNA-Ala
+-tRNA-Asn
++COI
++tRNA-Lys
++ATPase8
++ATPase6
++tRNA-Ser
++tRNA-Leu
++ND5
++cyt b
++tRNA-Thr
+</DATA>

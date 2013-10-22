@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17158
+                     /organism="Harengula jaguana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:224705"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COI
+-tRNA-Ser
++tRNA-Asp
++COII
++tRNA-Lys
++ATP8
++ATP6
++COIII
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++cyt b
++tRNA-Thr
+-tRNA-Pro
+</DATA>

@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14741
+                     /organism="Gyrodactylus derjavinoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Oncorhynchus mykiss"
+                     /db_xref="taxon:368976"
+                     /country="Denmark"
+                     /common="salmonid flatworm"
+
+</METADATA>
+<DATA>
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Phe
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++tRNA-Glu
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Gln
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
+</DATA>

@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..17100
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TK-2009-pet_trade-Tv01"
+                     /isolation_source="pet trade individual, preserved in
+                     IABHU"
+                     /db_xref="taxon:164973"
+
+</METADATA>
+<DATA>
++trnF
++12S ribosomal RNA
++trnV
++16S ribosomal RNA
++trnL(UUR)
++nad1
++trnI
+-trnQ
++trnM
++nad2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++cox1
+-trnS(UCN)
++trnD
++cox2
++trnK
++atp8
++atp6
++cox3
++trnG
++nad3
++trnR
++nad4L
++nad4
++trnH
++trnSer(AGY)
++trnL(CUN)
++nad5
+-nad6
+-trnE
++cob
++trnT
++trnT
++trnT
++trnP
+</DATA>

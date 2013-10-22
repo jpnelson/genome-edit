@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15546
+                     /organism="Romanomermis nielseni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:416167"
+                     /common="nematode"
+
+</METADATA>
+<DATA>
++COX2
++tRNA-Pro
+-tRNA-Tyr
++ND4L
+-tRNA-Gln
+-ND6
++tRNA-Leu
+-ND2
++tRNA-Ser
+-tRNA-Glu
++tRNA-Ser
++ND5
++tRNA-Val
++tRNA-Cys
+-tRNA-Ala
+-tRNA-Asn
++ATP6
+-ND1
+-tRNA-Ser
++CYTB
+-tRNA-Glu
++tRNA-Ser
+-tRNA-Trp
++tRNA-Leu
+-tRNA-Thr
+-l-rRNA
++tRNA-Met
++tRNA-Asp
++tRNA-Gly
++tRNA-Phe
++COX1
+-COX3
+-tRNA-Arg
++tRNA-Ile
++s-rRNA
+-ND4
+-tRNA-Lys
+-ND3
++tRNA-His
+</DATA>

@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..21376
+                     /organism="Ricordea florida"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CASIZ 168917"
+                     /db_xref="taxon:165100"
+                     /common="mushroom coral"
+
+</METADATA>
+<DATA>
++COX1
++COX3
++COX2
++ND2
++s-rRNA
++ND4
++ND6
++ATP6
++ND5
++tRNA-Trp
++tRNA-Met
++l-rRNA
++ND1
++CYTB
++ND4L
++ND3
++ATP8
+</DATA>

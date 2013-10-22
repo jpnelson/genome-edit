@@ -1,0 +1,31 @@
+###########################################
+####   Genome Compression code README  ####
+###########################################
+#                                         #
+#           Joshua Nelson, 2013           #
+#                                         #
+###########################################
+
+Contents of this directory:
+	-compress:	            The compression binary file
+	-compress.cpp           The C++ code for the compression algorithm
+	-Makefile
+	
+	
+#############################
+##### Compression usage #####
+#############################
+	Purpose:
+		To compress a pair of gene sequences, and return a pair of sequences with an equivalent edit distance and plan
+
+	Examples:	
+		./compress [-3,-2,-1] [1,2,3]
+		./compress [-6,-5,-4,1,2,3] [1,2,3,4,5,6]
+	
+	Where:
+		-Argument 1: The first circular genome
+		-Argument 2: The second circular genome
+	
+	Output:
+		-Two sequences, whose edit distances are equal to Argument 1 and Argument 2.
+		 A plan on these compressed sequences is also equivalent to a plan on the original sequences (with decompression, which should be fairly obvious)

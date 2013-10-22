@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..13643
+                     /organism="Spirometra erinaceieuropaei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Elaphe quadrivirgata"
+                     /db_xref="taxon:99802"
+                     /dev_stage="plerocercoid"
+                     /country="Japan"
+                     /common="tapeworm"
+
+</METADATA>
+<DATA>
++trnY
++trnL
++trnS
++trnL
++trnR
++ND5
++trnG
++COX3
++trnH
++CYTB
++ND4L
++ND4
++trnQ
++trnF
++trnM
++ATP6
++ND2
++trnV
++trnA
++trnD
++ND1
++trnN
++trnP
++trnI
++trnK
++ND3
++trnS
++trnW
++COX1
++trnT
++rrnL
++trnC
++rrnS
++COX2
++trnE
++ND6
+</DATA>

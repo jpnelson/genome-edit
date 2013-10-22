@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15543
+                     /organism="Cotesia vestalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:217443"
+
+</METADATA>
+<DATA>
+-tRNA-Ile
+-tRNA-Met
+-tRNA-Gln
++ND2
++tRNA-Trp
+-tRNA-Cys
++tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-His
++tRNA-Asp
++tRNA-Lys
++ATP8
++ATP6
++ND4
++ND5
++tRNA-Ser
++tRNA-Ala
+-tRNA-Thr
++ND4L
++tRNA-Phe
++tRNA-Arg
++COX3
++tRNA-Gly
++ND3
++tRNA-Asn
+-tRNA-Glu
+-CYTB
+-ND6
++tRNA-Pro
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

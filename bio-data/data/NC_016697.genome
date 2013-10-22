@@ -1,0 +1,23 @@
+<METADATA>
+     source          1..11016
+                     /organism="Pleurobrachia bachei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34499"
+                     /common="sea gooseberry"
+
+</METADATA>
+<DATA>
++COX1
++COX2
+-trnG
++trnP
++ND4L
++l-rRNA
++COX3
++ND4
++CYTB
++ND5
++ND1
++ND3
+</DATA>

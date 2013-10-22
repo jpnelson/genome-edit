@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..16189
+                     /organism="Hydra sinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="phc2010-01"
+                     /db_xref="taxon:570418"
+                     /country="China: Guandong"
+                     /collected_by="Wang A. T."
+
+</METADATA>
+<DATA>
++trnM(cau)
++rnl
++trnW(uca)
++COX2
++ATP8
++ATP6
++COX3
++ND2
++ND5
++rns
++ND6
++ND3
++ND4L
++ND1
++ND4
++CYTB
++COX1
+</DATA>

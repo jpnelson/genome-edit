@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..16784
+                     /organism="Solen grandis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:165599"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Tyr
++COX2
++tRNA-Thr
++tRNA-Arg
++tRNA-Ser
++tRNA-Trp
++tRNA-Glu
++ND3
++tRNA-Ile
++tRNA-Asp
++tRNA-Lys
++tRNA-Leu
++ND1
++tRNA-Leu
++ND6
++tRNA-Val
++ND5
++CYTB
++l-rRNA
++ATP6
++tRNA-Met
++s-rRNA
++COX3
++ND4L
++tRNA-Asn
++tRNA-Pro
++ND4
++tRNA-Gly
++tRNA-Ser
++ND2
++tRNA-Ala
++tRNA-Phe
++tRNA-His
++tRNA-Gln
++tRNA-Cys
+</DATA>

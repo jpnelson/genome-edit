@@ -1,0 +1,27 @@
+<METADATA>
+     source          1..16775
+                     /organism="Chrysaora quinquecirrha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6148"
+
+</METADATA>
+<DATA>
+-16S ribosomal RNA
+-cox1
++cox2
++tRNA-Trp
++atp8
++atp6
++cox3
++tRNA-Met
++nad2
++nad5
++12S ribosomal RNA
++nad6
++nad3
++nad4L
++nad1
++nad4
++cytb
+</DATA>

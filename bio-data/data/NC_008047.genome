@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..18030
+                     /organism="Strelkovimermis spiculatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:382540"
+                     /haplotype="large"
+                     /common="mosquito nematode"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asp
++tRNA-Trp
++COX3
+-tRNA-Tyr
+-COX2
++tRNA-Phe
++tRNA-Arg
++ATP6
++tRNA-Leu
++tRNA-Ile
++ND6
++tRNA-Lys
++ND5
++tRNA-Cys
+-tRNA-Ala
++tRNA-Ser
++rrnL
++rrnS
++tRNA-Gln
++ND3
++CYTB
++tRNA-His
++tRNA-Val
++ND4L
++tRNA-Leu
++tRNA-Glu
++tRNA-Pro
++tRNA-Gly
++ND2
++ND4
++tRNA-Thr
++tRNA-Met
++tRNA-Ser
++ND1
++tRNA-Asn
++tRNA-Cys
+-tRNA-Ala
++tRNA-Ser
++rrnL
++rrnS
+</DATA>

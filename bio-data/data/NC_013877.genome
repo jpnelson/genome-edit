@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15710
+                     /organism="Balanoglossus clavigerus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:560604"
+                     /country="France:Roscoff"
+                     /common="acorn worm"
+
+</METADATA>
+<DATA>
++16S rRNA
++tRNA Leu(CUN)
++trnL(UUR)
++ND1
+-trnQ
++trnI
++trnM
++ND2
+-trnN
++trnW
+-trnA
+-trnC
+-trnY
++COX1
+-trnS(UCN)
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
+-trnS(AGY)
++ND5
++CYTB
++trnE
++trnT
+-trnP
+-ND6
++trnF
++12S rRNA
++trnV
+</DATA>

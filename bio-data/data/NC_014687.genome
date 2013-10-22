@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15079
+                     /organism="Caprella scaura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:703580"
+                     /country="Japan: Kanagawa, Yokohama-Bay"
+                     /common="amphipod"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Ala
++tRNA-Ser
++tRNA-Asn
++tRNA-Glu
++tRNA-Arg
+-tRNA-Phe
++tRNA-Thr
++ND6
+-tRNA-Cys
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
++ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++tRNA-Ile
++tRNA-Met
+-tRNA-Tyr
++tRNA-Gln
++ND2
++tRNA-Trp
++tRNA-Gly
+</DATA>

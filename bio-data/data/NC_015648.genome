@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16828
+                     /organism="Crocodylus intermedius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:184240"
+
+</METADATA>
+<DATA>
++s-rRNA
++trnV
++l-rRNA
++trnL
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnS
++trnH
++trnL
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
++trnF
+</DATA>

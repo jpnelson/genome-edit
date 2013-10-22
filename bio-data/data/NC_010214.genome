@@ -1,0 +1,29 @@
+<METADATA>
+     source          1..16314
+                     /organism="Hydra oligactis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6088"
+                     /common="brown hydra"
+
+</METADATA>
+<DATA>
+-COX1_C
++trnM(cau)
++rnl
++trnW(uca)
++COX2
++ATP8
++ATP6
++COX3
++ND2
++ND5
++rns
++ND6
++ND3
++ND4L
++ND1
++ND4
++CYTB
++COX1
+</DATA>

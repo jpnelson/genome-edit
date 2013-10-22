@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16238
+                     /organism="Astrospartus mediterraneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:691888"
+                     /country="France:Marseille"
+
+</METADATA>
+<DATA>
+-tRNA-Gly
+-tRNA-Pro
+-12S rRNA
+-tRNA-Phe
+-16S rRNA
+-tRNA-Leu(CUN)
+-tRNA-Met
+-tRNA-Ala
+-tRNA-Glu
+-tRNA-Thr
+-cytb
+-tRNA-Asp
+-NADH2
+-tRNA-Ile
+-NADH1
+-tRNA-Leu(UUR)
+-tRNA-Asn
++tRNA-Gln
++tRNA-Cys
+-tRNA-Val
+-tRNA-Tyr
++tRNA-Trp
++COI
++tRNA-Arg
++NADH4L
++COII
++tRNA-Lys
++ATPase 8
++ATPase 6
++COIII
+-tRNA-Ser(UCN)
++NADH3
++NADH4
++tRNA-His
++tRNA-Ser(AGY)
++NADH5
+-NADH6
+</DATA>

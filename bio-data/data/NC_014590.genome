@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..20612
+                     /organism="Musculista senhousia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Mse-m1"
+                     /db_xref="taxon:182747"
+
+</METADATA>
+<DATA>
++ND3
++tRNA-Tyr
++tRNA-His
++tRNA-Ile
++tRNA-Asn
++tRNA-Glu
++COX1
++COX2
++COX2
++ATP6
++tRNA-Thr
++CYTB
++tRNA-Asp
++tRNA-Arg
+-tRNA-Ser
++tRNA-Gly
++s-rRNA
++ND6
++ND2
++COX3
++tRNA-Lys
++tRNA-Phe
++tRNA-Pro
++tRNA-Leu
++tRNA-Cys
++tRNA-Leu
++ND1
++tRNA-Met
++tRNA-Val
++ND4L
++ND5
++tRNA-Ala
++ND4
++tRNA-Trp
++tRNA-Gln
++tRNA-Met
++l-rRNA
+</DATA>

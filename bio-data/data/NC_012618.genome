@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15494
+                     /organism="Phascolosoma esculenta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:419950"
+                     /common="peanut worm"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Asp
++COX2
++tRNA-Leu
++tRNA-Asn
++tRNA-Tyr
++tRNA-Glu
++tRNA-Gly
++tRNA-Val
++ATP8
++tRNA-Gln
++COX3
++ND6
++CYTB
++tRNA-Pro
++tRNA-Ser
++tRNA-Cys
++tRNA-Met
++tRNA-Met
++12S ribosomal RNA
++16S ribosomal RNA
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Phe
++tRNA-Thr
++ND4L
++ND4
++tRNA-Leu
++ND1
++tRNA-Trp
++ATP6
++tRNA-His
++ND5
++tRNA-Ser
++tRNA-Ala
++ND2
+</DATA>

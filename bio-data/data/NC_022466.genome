@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..16184
+                     /organism="Sepia apama"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:212219"
+
+</METADATA>
+<DATA>
++CO 3
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Ser
++ND2
++CO1
++CO2
++ATP8
++ATP6
+-tRNA-Phe
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-16S ribosomal RNA
+-tRNA-Val
+-12S ribosomal RNA
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Gln
+-tRNA-Gly
++tRNA-Asn
++tRNA-Ile
++ND3
++tRNA-Asp
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
+-Cytb
+-ND6
+-tRNA-Pro
+-tRNA-Met
+-tRNA-Trp
+-tRNA-Glu
+</DATA>

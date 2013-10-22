@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16313
+                     /organism="Rattus norvegicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="BN/SsNHsdMCW"
+                     /db_xref="taxon:10116"
+
+</METADATA>
+<DATA>
++Trnf
++Rnr1
++Trnv
++Rnr2
++Trnl1
++ND1
++Trni
+-Trnq
++Trnm
++ND2
++Trnw
+-Trna
+-Trnn
+-Trnc
+-Trny
++COX1
+-Trns1
++Trnd
++COX2
++Trnk
++ATP8
++ATP6
++COX3
++Trng
++ND3
++Trnr
++ND4L
++ND4
++Trnh
++Trns2
++Trnl2
++ND5
+-ND6
+-Trne
++CYTB
++Trnt
+-Trnp
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..21656
+                     /organism="Pratylenchus vulnus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:45931"
+                     /common="walnut meadow nematode"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-His
++tRNA-Leu
++l-rRNA
++ND3
++CYTB
++s-rRNA
++tRNA-Tyr
++tRNA-Trp
++ND1
++tRNA-Leu
++ND2
++tRNA-Ile
++COX3
++tRNA-Asn
++tRNA-Gly
++tRNA-Lys
++tRNA-Cys
++tRNA-Phe
++ND6
++ND4L
++COX2
++ND4
++tRNA-Asp
++tRNA-Met
++tRNA-Thr
++tRNA-Ser
++ATP6
++ND5
++tRNA-Ser
++tRNA-Gln
++tRNA-Ala
++tRNA-Pro
++tRNA-Arg
++tRNA-Val
++tRNA-Glu
+</DATA>

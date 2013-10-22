@@ -1,0 +1,55 @@
+<METADATA>
+     source          1..17205
+                     /organism="Hypsiglena sp. DGM2008"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CAS 228951"
+                     /db_xref="taxon:533186"
+                     /country="USA: Portal Rd., near General Store in Portal,
+                     Cochise Co., AZ"
+                     /lat_lon="31.9144 N 109.1386 W"
+                     /common="nightsnake"
+                     /note="Cochise;
+                     voucher located at California Academy of Sciences, San
+                     Francisco"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

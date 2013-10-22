@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15102
+                     /organism="Asymmetron lucayanum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:223987"
+                     /country="Japan: Okinawa, Yaeyama, Taketomi, Kuroshima
+                     Island"
+                     /common="lancelet"
+
+</METADATA>
+<DATA>
++COX1
++COX3
++ND3
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++ND6
+-tRNA-Gly
+-ND5
+-tRNA-Leu
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
++s-rRNA
++tRNA-Phe
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
++tRNA-Met
+-tRNA-Gln
++ND2
+-tRNA-Asn
+</DATA>

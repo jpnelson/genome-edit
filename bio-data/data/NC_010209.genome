@@ -1,0 +1,52 @@
+<METADATA>
+     source          1..18865
+                     /organism="Ptilocaulis walpersi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:479640"
+                     /common="orange branching sponge"
+
+</METADATA>
+<DATA>
++rnl
++trnR(ucg)
++ND4L
++COX2
++trnK(uuu)
++ATP8
++ATP6
++COX3
++trnQ(uug)
++trnW(uca)
++trnL(uag)
++CYTB
++trnR(ucu)
++ATP9
++trnS(gcu)
++trnP(ugg)
++trnN(guu)
++ND4
++trnH(gug)
++trnE(uuc)
++ND6
++ND3
++COX1
++trnT(ugu)
++trnS(uga)
++trnC(gca)
++ND1
++trnL(uaa)
++trnI(gau)
++trnY(gua)
++trnI(cau)
++trnM(cau)f
++ND2
++ND5
++trnA(ugc)
++trnD(guc)
++trnM(cau)e
++trnF(gaa)
++rns
++trnG(ucc)
++trnV(uac)
+</DATA>

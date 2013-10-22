@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..17174
+                     /organism="Venustaconcha ellipsiformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H2455g"
+                     /db_xref="taxon:301928"
+                     /haplotype="male"
+                     /common="ellipse"
+
+</METADATA>
+<DATA>
+-COX1
+-COX2
+-ND3
++tRNA-Ala
++tRNA-Ser
++tRNA-Ser
++tRNA-Glu
++ND2
++tRNA-Met
++tRNA-Trp
++tRNA-Arg
++s-rRNA
++tRNA-Lys
++tRNA-Thr
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++tRNA-Asn
++tRNA-Pro
++CYTB
++tRNA-Phe
+-ND5
+-tRNA-His
++tRNA-Gln
++tRNA-Cys
++tRNA-Ile
++tRNA-Val
++tRNA-Leu
++ND1
++tRNA-Gly
++ND6
+-ND4
+-ND4L
++tRNA-Asp
+-ATP8
+-ATP6
+-COX3
+</DATA>

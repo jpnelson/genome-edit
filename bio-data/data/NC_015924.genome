@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..14898
+                     /organism="Baylisascaris transfuga"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Ursus maritimus"
+                     /db_xref="taxon:6260"
+                     /dev_stage="adult"
+                     /country="China:Sichuan"
+
+</METADATA>
+<DATA>
++ND4L
++trnW
++trnE
++rrnS
++trnS(UCN)
++trnN
++trnY
++ND1
++ATP6
++trnK
++trnL(UUR)
++trnS(AGN)
++ND2
++trnI
++trnR
++trnQ
++trnF
++CYTB
++trnL(CUN)
++COX3
++trnT
++ND4
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++rrnL
++ND3
++ND5
++trnA
++trnP
++trnV
++ND6
+</DATA>

@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..13554
+                     /organism="Benedenia hoshinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:407255"
+                     /common="flatworm (parasite of striped knifejaw)"
+
+</METADATA>
+<DATA>
++tRNA-Gly
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Phe
++tRNA-Gln
++tRNA-Met
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++l-rRNA
++tRNA-Cys
++s-rRNA
++COX2
++tRNA-Glu
++ND6
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
+</DATA>

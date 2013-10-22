@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14922
+                     /organism="Scutigera coleoptrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:29022"
+                     /country="Italy"
+
+</METADATA>
+<DATA>
+-tRNA-Gln
++ND2
++tRNA-Trp
++COX1
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++tRNA-Ala
++tRNA-Arg
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-ND4L
++ND6
++tRNA-Ser
+-ND1
++tRNA-Met
+-tRNA-Cys
+-tRNA-Tyr
++ND3
++tRNA-Asn
+-tRNA-His
+-ND4
++tRNA-Thr
+-tRNA-Pro
++CYTB
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
++tRNA-Ile
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15495
+                     /organism="Phoronopsis harmeri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:490051"
+                     /common="phoronid worm"
+
+</METADATA>
+<DATA>
++tRNA-Trp
++tRNA-Cys
++tRNA-Gly
++COX3
++tRNA-Lys
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++ATP6
++tRNA-Glu
++tRNA-Ile
++ND3
++tRNA-Ser
++ND2
++COX1
++COX2
++tRNA-Asp
++ATP8
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Ser
+-CYTB
+-ND6
++tRNA-Pro
+-ND1
+-tRNA-Leu
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Met
+-tRNA-Tyr
+-tRNA-Gln
+</DATA>

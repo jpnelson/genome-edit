@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14518
+                     /organism="Siphonaria gigas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UF:359645"
+                     /db_xref="taxon:1087063"
+
+</METADATA>
+<DATA>
++tRNA-Lys
++COX1
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++ND6
++ND5
++ND1
++tRNA-Tyr
++tRNA-Trp
++ND4L
++CYTB
++tRNA-Gly
++COX2
++tRNA-Phe
++tRNA-Asp
++tRNA-Cys
+-tRNA-Gln
+-tRNA-His
+-tRNA-Leu
+-ATP8
+-tRNA-Asn
+-ATP6
+-tRNA-Arg
+-tRNA-Glu
+-s-rRNA
+-tRNA-Met
++tRNA-Ser
++ND4
+-tRNA-Thr
+-ND3
+-tRNA-Ser
+-COX3
++tRNA-Ile
++ND2
+</DATA>

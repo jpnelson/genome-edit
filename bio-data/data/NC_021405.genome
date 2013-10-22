@@ -1,0 +1,95 @@
+<METADATA>
+     source          1..16770
+                     /organism="Plectropomus areolatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:327818"
+                     /PCR_primers="fwd_name: l489-12s, fwd_seq:
+                     aaactgggattagataccccactat, rev_name: h1489-16s, rev_seq:
+                     gcaaccagctattactaagttcggtagg"
+                     /PCR_primers="fwd_name: l1230-16s, fwd_seq:
+                     agtaccgcaagggaaygctgaaaa, rev_name: h2642-16s, rev_seq:
+                     ccggtctgaactcagatcacgt"
+                     /PCR_primers="fwd_name: l2541-16s, fwd_seq:
+                     ttacgacctcgatgttggatcag, rev_name: h3977-gln, rev_seq:
+                     ggaagcactgagagttttgatc"
+                     /PCR_primers="fwd_name: l3872-ile, fwd_seq:
+                     aagggccactttgatagagtg, rev_name: h4781-nd2, rev_seq:
+                     gtragtrygggggyttttgcyca"
+                     /PCR_primers="fwd_name: l4595-nd2, fwd_seq:
+                     tagcatactcctcyacagcccac, rev_name: h5802-coi, rev_seq:
+                     ctyatrttrttyattcgagggaa"
+                     /PCR_primers="fwd_name: l5551-coi, fwd_seq:
+                     cctytatcttgtattyggtgc, rev_name: h7103-ser, rev_seq:
+                     atgtggytggcttgaaa"
+                     /PCR_primers="fwd_name: l6719-coi, fwd_seq:
+                     agcacytgaacaaaaatccactt, rev_name: h8151-atp6, rev_seq:
+                     tcaaaaaarcttacactcagggtca"
+                     /PCR_primers="fwd_name: l7922-lys, fwd_seq:
+                     agcrtyagccttttaagc, rev_name: h8861-coiii, rev_seq:
+                     cangggctggggtcractat"
+                     /PCR_primers="fwd_name: l8534-atp6, fwd_seq:
+                     cccaayctcctaatccctatacttat, rev_name: h9829-nd3, rev_seq:
+                     ggagaamggaagtcgggctgt"
+                     /PCR_primers="fwd_name: l9627-gly, fwd_seq:
+                     tgacttccaatcacccggtcttggtt, rev_name: h10768-nd4, rev_seq:
+                     ggttgggatragagttgcttcaaatat"
+                     /PCR_primers="fwd_name: l10607-nd4, fwd_seq:
+                     ataatyytagcaagccaaaaccacacagc, rev_name: h11946-leu,
+                     rev_seq: cctaagaccrayggatgractattatcctt"
+                     /PCR_primers="fwd_name: l11809-his, fwd_seq:
+                     gttraaayccccttatccaccgag, rev_name: h13079- nd5, rev_seq:
+                     cctattttkcgratgtcttgttcgtc"
+                     /PCR_primers="fwd_name: l12880-nd5, fwd_seq:
+                     acccaaaacgacatyaaaaaaattgttgc, rev_name: h14294-nd6,
+                     rev_seq: ggrrygattgcggttgcttc"
+                     /PCR_primers="fwd_name: l13573-nd5, fwd_seq:
+                     aayatrctyggcttyttcccmataat, rev_name: h15090-cyt b,
+                     rev_seq: tawgaaaagtakgggtggaagga"
+                     /PCR_primers="fwd_name: l14954-cyt b, fwd_seq:
+                     ttccayttyttrytyccyttcrtwattgcag, rev_name: h16060-dloop,
+                     rev_seq: tgaaygctcggcwtgytgggtaacg"
+                     /PCR_primers="fwd_name: l15947-dloop, fwd_seq:
+                     ttcctggcatttggttcctayttcaggg, rev_name: h765-12s, rev_seq:
+                     gctacacctcgacctgacgttttggg"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
+-ND6
+-tRNA-Glu
++CYTB
++tRNA-Thr
+-tRNA-Pro
+</DATA>

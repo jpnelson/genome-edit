@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15983
+                     /organism="Mesobuthus gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="18-I-01, leg. V. Fet, NMBE"
+                     /db_xref="taxon:123226"
+                     /country="Greece:Visitsa, Mt. Pilion, eastern Thessalia,
+                     Greek Balkan"
+
+</METADATA>
+<DATA>
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-tRNA-Leu
++l-rRNA
++tRNA-Val
++s-rRNA
++tRNA-Asp
++tRNA-Gln
++tRNA-Ile
+</DATA>

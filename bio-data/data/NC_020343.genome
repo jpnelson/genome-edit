@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14751
+                     /organism="Placida sp. 1 NY-2013"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1281821"
+
+</METADATA>
+<DATA>
++tRNA-Lys
++COX1
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++tRNA-Ala
++tRNA-Pro
++ND6
++ND5
++ND1
++tRNA-Trp
++tRNA-Tyr
++ND4L
++CYTB
++tRNA-Asp
++tRNA-Phe
++COX2
++tRNA-Gly
++tRNA-His
+-tRNA-Gln
++tRNA-Leu
+-ATP8
+-tRNA-Asn
++tRNA-Cys
+-ATP6
+-tRNA-Arg
+-tRNA-Glu
++12S ribosomal RNA
+-tRNA-Met
+-ND3
++tRNA-Ser
++tRNA-Ser
++ND4
+-tRNA-Thr
+-COX3
+-tRNA-Ile
++ND2
+</DATA>

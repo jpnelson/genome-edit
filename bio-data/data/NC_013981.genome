@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..18329
+                     /organism="Pseudoleptodeira latifasciata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LSUMZ 39571"
+                     /db_xref="taxon:427734"
+                     /country="Mexico: 1 km E Guerrero-Michoacan state line on
+                     Mex Hwy 200, Guerrero"
+                     /lat_lon="17.9985 N 102.1690 W"
+                     /common="false cat-eyed snake"
+                     /note="voucher located at Louisiana State University,
+                     Baton Rouge"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

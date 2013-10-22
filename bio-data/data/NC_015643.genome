@@ -1,0 +1,28 @@
+<METADATA>
+     source          1..18766
+                     /organism="Goniopora columna"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:541198"
+                     /common="Daisy coral"
+
+</METADATA>
+<DATA>
++tRNA-Met
++l-rRNA
++ND5
++ND1
++CYTB
++ND2
++ND6
++ATP6
++ND4
++s-rRNA
++COX3
++COX2
++ND4L
++ND3
++tRNA-Trp
++ATP8
++COX1
+</DATA>

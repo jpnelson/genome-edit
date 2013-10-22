@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..17694
+                     /organism="Apis florea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7463"
+
+</METADATA>
+<DATA>
++tRNA-Glu
++tRNA-Ser
++tRNA-Ser
++tRNA-Ser
++tRNA-Met
++tRNA-Gln
++tRNA-Ala
++tRNA-Ile
++ND2
+-tRNA-Cys
+-tRNA-Tyr
++tRNA-Trp
++COX1
++tRNA-Leu
++COX2
++tRNA-Asp
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
+-tRNA-Arg
++tRNA-Asn
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

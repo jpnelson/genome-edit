@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14804
+                     /organism="Campanulotes bidentatus compar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="compar"
+                     /db_xref="taxon:135595"
+
+</METADATA>
+<DATA>
++tRNA-Leu
++tRNA-Phe
++ND6
++l-rRNA
++tRNA-Trp
++ND2
++tRNA-Lys
++tRNA-Tyr
++tRNA-Cys
++tRNA-His
++tRNA-Ala
++tRNA-Gly
++ND3
++tRNA-Asp
++tRNA-Ser
++ND4L
++tRNA-Met
++s-rRNA
+-tRNA-Gln
++tRNA-Ser
++tRNA-Ile
++COX1
++CYTB
++COX2
++tRNA-Arg
++tRNA-Thr
++ND1
++tRNA-Asn
++tRNA-Glu
++tRNA-Pro
++ATP8
++ATP6
++tRNA-Val
++ND5
++tRNA-Leu
++COX3
++ND4
+</DATA>

@@ -1,0 +1,46 @@
+<METADATA>
+     source          1..14281
+                     /organism="Oncicola luehei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1100885"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Gly
++tRNA-Gln
++tRNA-Tyr
++large subunit ribosomal RNA
++tRNA-Leu
++ND6
++tRNA-Asp
++tRNA-Ser
++ATP6
++ND3
++tRNA-Trp
++tRNA-Lys
++tRNA-Val
++tRNA-Glu
++tRNA-Thr
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Leu
++tRNA-Pro
++CYTB
++ND1
++tRNA-Ile
++tRNA-Ser
++tRNA-Met
++small subunit ribosomal RNA
++tRNA-Phe
++COX2
++tRNA-Cys
++COX3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++ND2
+</DATA>

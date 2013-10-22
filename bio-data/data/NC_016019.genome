@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..14628
+                     /organism="Dracunculus medinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:318479"
+
+</METADATA>
+<DATA>
++ND6
++ND4L
++s-rRNA
++trnK
++trnS
++ND2
++trnR
++trnF
++trnQ
++trnF
++trnI
++CYTB
++trnL
++COX3
++trnT
++ND4
++trnW
++trnS
++trnE
++trnI
++trnN
++trnF
++trnP
++trnY
++trnV
++ND1
++trnK
++trnL
++ATP6
++trnT
++COX1
++trnC
++trnM
++trnD
++trnG
++COX2
++trnH
++l-rRNA
++ND3
++ND5
++trnA
++trnP
++trnC
+</DATA>

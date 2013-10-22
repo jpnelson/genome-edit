@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..15407
+                     /organism="Thrips imaginis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:159957"
+
+</METADATA>
+<DATA>
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Cys
++ND6
++tRNA-Val
++l-rRNA
++COX1
++ND3
++tRNA-Leu
++COX2
++tRNA-Gly
++tRNA-Lys
++COX3
++tRNA-Arg
++tRNA-Thr
++tRNA-Asn
++tRNA-Glu
+-tRNA-Ser
+-trnP
++tRNA-Ile
++CYTB
+-tRNA-Tyr
++ND2
++tRNA-Trp
++ND1
++tRNA-Met
++tRNA-Ala
++tRNA-Phe
++s-rRNA
++ATP8
++ATP6
++tRNA-Gln
++tRNA-Ser
++tRNA-Asp
++tRNA-Ser
++tRNA-Leu
+</DATA>

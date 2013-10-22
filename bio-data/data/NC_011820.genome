@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14144
+                     /organism="Watersipora subtorquata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:193294"
+                     /common="bryozoan"
+
+</METADATA>
+<DATA>
++COX1
++ATP8
++tRNA-Leu
++COX3
++tRNA-Ile
++ND1
++tRNA-Gly
++l-rRNA
++tRNA-Ser
++tRNA-Trp
++tRNA-Asp
++ND5
++tRNA-Ala
++tRNA-Lys
++tRNA-Asn
++ND2
++tRNA-His
++CYTB
++tRNA-Arg
++s-rRNA
++tRNA-Ser
++tRNA-Leu
++COX2
++tRNA-Pro
++tRNA-Glu
++tRNA-Phe
++ND3
++tRNA-Tyr
++tRNA-Thr
++tRNA-Cys
++ND4L
++ND4
++ATP6
++tRNA-Gln
++ND6
++tRNA-Met
++tRNA-Val
+</DATA>

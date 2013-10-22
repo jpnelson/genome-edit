@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16199
+                     /organism="Phytoseiulus persimilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:44414"
+                     /common="predatory mite"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++tRNA-Arg
++ND5
+-ATP6
+-ATP8
++ND6
+-CYTB
++ND4L
++ND4
++tRNA-Asp
+-tRNA-Met
+-tRNA-Ile
+-tRNA-Lys
+-ND3
++tRNA-Leu
++tRNA-Ser
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Thr
+-tRNA-Asn
++tRNA-Gln
++tRNA-Pro
++tRNA-Ser
++tRNA-Glu
+-tRNA-Gly
+-COX3
++tRNA-Cys
+-ND2
++tRNA-Tyr
+-tRNA-Phe
++ND1
++tRNA-Leu
++tRNA-Trp
+-tRNA-His
++tRNA-Ala
+</DATA>

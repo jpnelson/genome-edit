@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..16737
+                     /organism="Caretta caretta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8467"
+                     /tissue_type="blood"
+                     /country="Greece:Ionion"
+
+</METADATA>
+<DATA>
++trnF
++s-rRNA
++trnV
++16S rRNA
++trnL (UUR)
++ND1
++trnI
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COXi
+-trnS (UCN)
++trnD
++COXii
++trnK
++ATP8
++ATP6
++COXiii
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS (AGY)
++trnL (CUN)
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

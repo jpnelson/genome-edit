@@ -1,0 +1,24 @@
+<METADATA>
+     source          1..15828
+                     /organism="Squilla empusa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:84350"
+                     /common="mantis shrimp"
+
+</METADATA>
+<DATA>
++COX1
++COX2
++ATP8
++ATP6
++COX3
++ND3
+-ND5
+-ND4
+-ND4L
++ND6
++CYTB
+-ND1
++ND2
+</DATA>

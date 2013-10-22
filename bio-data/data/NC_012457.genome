@@ -1,0 +1,6 @@
+<METADATA>
+TypeError: 'undefined' is not an object (evaluating 'features[0].innerText')
+
+  phantomjs://webpage.evaluate():6
+  phantomjs://webpage.evaluate():65
+  phantomjs://webpage.evaluate():65

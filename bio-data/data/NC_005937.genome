@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..16491
+                     /organism="Hutchinsoniella macracantha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:84335"
+                     /common="cephalocarid crustacean"
+
+</METADATA>
+<DATA>
++tRNA-Ser
++tRNA-Asp
++ND2
++COX1
++COX2
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Lys
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
+-tRNA-Pro
++tRNA-Thr
++ND6
++CYTB
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+-tRNA-Ile
+-tRNA-Met
+-tRNA-Leu
+-tRNA-Cys
+-tRNA-Tyr
+-tRNA-Gln
+-tRNA-Trp
+</DATA>

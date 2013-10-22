@@ -1,0 +1,44 @@
+<METADATA>
+     source          1..14496
+                     /organism="Neomaskellia andropogonis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:266944"
+                     /common="sugarcane whitefly"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Leu
++COX2
++tRNA-Asp
++ATP8
++ATP6
+-tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
++ND6
++CYTB
++tRNA-Lys
+-ND1
+-tRNA-Leu
+-l-rRNA
++tRNA-Pro
+-ND3
+-tRNA-Gly
+-COX3
+-tRNA-Cys
+-tRNA-Tyr
++s-rRNA
++tRNA-Val
+-tRNA-Gln
++tRNA-Met
++ND2
+-tRNA-Ser
++tRNA-Trp
+</DATA>

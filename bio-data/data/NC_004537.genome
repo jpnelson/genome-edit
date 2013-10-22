@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..15076
+                     /organism="Branchiostoma belcheri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7741"
+                     /country="Japan:Fukuoka, Tsuyazaki, Sea of Genkai"
+                     /common="amphioxus"
+
+</METADATA>
+<DATA>
++CYTB
+-tRNA-Thr
++tRNA-Pro
++12S ribosomal RNA
++tRNA-Phe
++tRNA-Val
++16S ribosomal RNA
++tRNA-Leu
++ND1
++tRNA-Ile
++tRNA-Met
+-tRNA-Gln
++ND2
+-tRNA-Asn
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
++tRNA-Gly
+-ND6
+-tRNA-Glu
+</DATA>

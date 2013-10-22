@@ -1,0 +1,54 @@
+<METADATA>
+     source          1..17203
+                     /organism="Hypsiglena jani texana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="texana"
+                     /specimen_voucher="CAS 228960"
+                     /db_xref="taxon:509071"
+                     /country="USA: Hwy 54, 10 mi N of Van Horn, Culberson Co.,
+                     TX"
+                     /lat_lon="31.1636 N 104.8417 W"
+                     /note="voucher located at California Academy of Sciences,
+                     San Francisco"
+
+</METADATA>
+<DATA>
++trnF
++rrnS
++trnV
++rrnL
++ND1
++trnI
++trnL1
+-trnQ
++trnM
++ND2
++trnW
+-trnA
+-trnN
+-trnC
+-trnY
++COX1
+-trnS2
++trnD
++COX2
++trnK
++ATP8
++ATP6
++COX3
++trnG
++ND3
++trnR
++ND4L
++ND4
++trnH
++trnS1
++trnL2
++ND5
+-ND6
+-trnE
++CYTB
++trnT
+-trnP
+</DATA>

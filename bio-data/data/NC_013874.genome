@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..17383
+                     /organism="Ophiocomina nigra"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:55617"
+                     /country="France:Roscoff"
+                     /common="black brittle star"
+
+</METADATA>
+<DATA>
+-trnM
+-trnA
+-trnE
+-trnG
+-16S rRNA
+-trnL(CUN)
+-trnP
+-12S rRNA
+-trnF
+-trnT
+-CYTB
+-trnD
+-ND2
+-trnI
+-ND1
+-trnL(UUR)
+-trnN
++trnQ
++trnC
+-trnV
+-trnY
++trnW
++COX1
++trnR
++ND4L
++COX2
++trnK
++ATP8
++ATP6
++COX3
+-trnS(UCN)
++ND3
++ND4
++trnH
++trnS(AGY)
++ND5
+-ND6
+</DATA>

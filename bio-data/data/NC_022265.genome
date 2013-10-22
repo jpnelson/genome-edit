@@ -1,0 +1,30 @@
+<METADATA>
+     source          1..19791
+                     /organism="Aiptasia pulchella"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NOR1"
+                     /db_xref="taxon:12924"
+                     /country="Norway"
+
+</METADATA>
+<DATA>
++nd5
++nd1
++nd3
++tRNA-Trp
++nd2
++ssu rRNA
++coii
++nd4
++nd6
++cytb
++tRNA-Met
++lsu rRNA
++coiii
++coi
++heg
++nd4L
++atp8
++atp6
+</DATA>

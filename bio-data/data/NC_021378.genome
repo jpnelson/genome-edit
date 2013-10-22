@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..15215
+                     /organism="Frankliniella intonsa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:163893"
+
+</METADATA>
+<DATA>
++tRNA-Gln
+-tRNA-Pro
+-tRNA-Tyr
++ND2
++tRNA-Trp
++ND1
++tRNA-Met
++tRNA-Ala
++tRNA-Phe
++s-rRNA
++ATP8
++ATP6
++tRNA-Asn
++tRNA-Glu
++tRNA-Ser
++tRNA-Leu
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Cys
++ND6
++tRNA-Val
++l-rRNA
++tRNA-Ser
++COX1
++ND3
++tRNA-Leu
++COX2
++tRNA-Asp
++tRNA-Arg
++tRNA-Gly
++tRNA-Lys
++COX3
++tRNA-Ile
++tRNA-Thr
++CYTB
+</DATA>

@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..18243
+                     /organism="Crassostrea sikamea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NT521"
+                     /db_xref="taxon:94324"
+                     /country="China: nantong"
+
+</METADATA>
+<DATA>
++COX1
++l-rRNA
++COX3
++tRNA-Ile
++tRNA-Thr
++tRNA-Glu
++CYTB
++tRNA-Asp
++COX2
++tRNA-Met
++tRNA-Ser
++tRNA-Leu
++tRNA-Met
++tRNA-Ser
++tRNA-Pro
++s-rRNA
++tRNA-Lys
++tRNA-Cys
++tRNA-Gln
++l-rRNA
++tRNA-Asn
++s-rRNA
++tRNA-Tyr
++ATP6
++tRNA-Gly
++tRNA-Val
++ND2
++tRNA-Arg
++tRNA-His
++ND4
++tRNA-Lys
++ND5
++ND6
++tRNA-Gln
++ND3
++tRNA-Leu
++tRNA-Phe
++tRNA-Ala
++ND1
++ND4L
++tRNA-Trp
+</DATA>

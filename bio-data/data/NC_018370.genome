@@ -1,0 +1,34 @@
+<METADATA>
+     source          1..14889
+                     /organism="Frankliniella occidentalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:133901"
+
+</METADATA>
+<DATA>
++tRNA-Thr
++tRNA-Gln
++tRNA-Ile
+-tRNA-Pro
+-tRNA-Tyr
++tRNA-Trp
++tRNA-Met
++tRNA-Ala
++tRNA-Phe
++s-rRNA
++tRNA-Asn
++tRNA-Glu
++tRNA-Ser
++tRNA-Leu
+-tRNA-His
++tRNA-Cys
++tRNA-Val
++l-rRNA
++tRNA-Ser
++tRNA-Leu
++tRNA-Asp
++tRNA-Arg
++tRNA-Gly
++tRNA-Lys
+</DATA>

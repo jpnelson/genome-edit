@@ -1,0 +1,20 @@
+<METADATA>
+     source          1..5596
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="1"
+                     /country="Italy: Isola del Giglio"
+
+</METADATA>
+<DATA>
+-rnl
+-trnP(ugg)
++trnK(uuu)
+-rnl
+-trnS(uga)
+-rns
+-rns
+-trnI(cau)
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..17620
+                     /organism="Heleophryne regis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="MNCN:DNA:28481"
+                     /db_xref="taxon:143568"
+
+</METADATA>
+<DATA>
++tRNA-Leu
++tRNA-Thr
+-tRNA-Pro
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++ND2
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
++tRNA-Met
++tRNA-Trp
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++ND5
+-ND6
+-tRNA-Glu
++CYTB
+</DATA>

@@ -1,0 +1,57 @@
+<METADATA>
+     source          1..18037
+                     /organism="Leptocephalus sp. 'type II larva' (Smith,
+                     1989)"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NSMT:P-66713"
+                     /db_xref="taxon:556254"
+                     /tissue_type="muscle"
+                     /common="duckbill eel"
+                     /note="Smith, D. G. 1989. Unidentified Leptocephali. Pages
+                     973-981 in Fishes of the Western North Atlantic (E. B.
+                     Bohlke, ed.) Sears Foundation for Marine Research, New
+                     Haven.;
+                     synonym: Type II leptocephalus larva (Smith, 1989)"
+
+</METADATA>
+<DATA>
++tRNA-Phe
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Ile
+-tRNA-Gln
++tRNA-Met
++ND2
++tRNA-Trp
+-tRNA-Ala
+-tRNA-Asn
+-tRNA-Cys
+-tRNA-Tyr
++COX1
+-tRNA-Ser
++tRNA-Asp
++COX2
++tRNA-Lys
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Arg
++ND4L
++ND4
++tRNA-His
++tRNA-Ser
++tRNA-Leu
++ND5
++CYTB
++tRNA-Thr
+-ND6
+-tRNA-Glu
+-tRNA-Pro
+</DATA>

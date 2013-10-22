@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..17260
+                     /organism="Crotalus horridus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:35024"
+
+</METADATA>
+<DATA>
++trnF-GAA
++small subunit ribosomal RNA
++trnV-UAC
++large subunit ribosomal RNA
++nad1
++trnI-GAU
++trnP-UGG
++trnL-UAA
+-trnQ-UUG
++trnM-CAU
++nad2
++trnW-UCA
+-trnA-UGC
+-trnN-GUU
+-trnC-GCA
+-trnY-GUU
++cox1
+-trnS-UGA
++trnD-GUC
++cox2
++trnK-UUU
++atp8
++atp6
++cox3
++trnG-UCC
++nad3
++trnH-TCG
++nad4L
++nad4
++trnH-GUG
++trnS-GCT
++trnL-UAG
++nad5
+-nad6
+-trnE-UUC
++cob
++trnT-UGU
+</DATA>

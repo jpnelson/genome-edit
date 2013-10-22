@@ -1,0 +1,47 @@
+<METADATA>
+     source          1..14128
+                     /organism="Wellcomia siamensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:435744"
+                     /common="parasitic nematode"
+
+</METADATA>
+<DATA>
++COX1
++ND1
++ATP6
++tRNA-Leu
++tRNA-Ser
++ND2
++tRNA-Ile
++tRNA-Tyr
++tRNA-Arg
++tRNA-Gln
++tRNA-Cys
++l-rRNA
++tRNA-Met
++ND6
++tRNA-Val
++tRNA-Trp
++tRNA-Phe
++CYTB
++COX3
++tRNA-Pro
++tRNA-Thr
++ND4
++tRNA-Gly
++ND4L
++tRNA-Lys
++ND3
++ND5
++tRNA-Leu
++tRNA-Glu
++tRNA-Asp
++COX2
++tRNA-His
++s-rRNA
++tRNA-Ala
++tRNA-Ser
++tRNA-Asn
+</DATA>

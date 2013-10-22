@@ -1,0 +1,53 @@
+<METADATA>
+     source          1..15933
+                     /organism="Acleris fimbriana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="organic apple orchard"
+                     /specimen_voucher="20100901"
+                     /db_xref="taxon:941637"
+                     /country="China: Beijing, Changping"
+                     /collected_by="Jinliang Zhao"
+                     /note="stored at the Institute of Zoology, Chinese Academy
+                     of Sciences"
+
+</METADATA>
+<DATA>
++tRNA-Met
++tRNA-Ile
+-tRNA-Gln
++ND2
++tRNA-Trp
+-tRNA-Cys
+-tRNA-Tyr
++COX1
++tRNA-Leu
++COX2
++tRNA-Lys
++tRNA-Asp
++ATP8
++ATP6
++COX3
++tRNA-Gly
++ND3
++tRNA-Ala
++tRNA-Arg
++tRNA-Asn
++tRNA-Ser
++tRNA-Glu
+-tRNA-Phe
+-ND5
+-tRNA-His
+-ND4
+-ND4L
++tRNA-Thr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-ND1
+-tRNA-Leu
+-l-rRNA
+-tRNA-Val
+-s-rRNA
+</DATA>

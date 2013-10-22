@@ -1,0 +1,49 @@
+<METADATA>
+     source          1..13717
+                     /organism="Echinococcus ortleppi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="cattle"
+                     /db_xref="taxon:446560"
+                     /common="tapeworm"
+                     /genotype="G5"
+
+</METADATA>
+<DATA>
++tRNA-Tyr
++tRNA-Leu
++tRNA-Ser
++tRNA-Leu
++tRNA-Arg
++ND5
++tRNA-Gly
++COX3
++tRNA-His
++CYTB
++ND4L
++ND4
++tRNA-Gln
++tRNA-Phe
++tRNA-Met
++ATP6
++ND2
++tRNA-Val
++tRNA-Ala
++tRNA-Asp
++ND1
++tRNA-Asn
++tRNA-Pro
++tRNA-Ile
++tRNA-Lys
++ND3
++tRNA-Ser
++tRNA-Trp
++COX1
++tRNA-Thr
++rrnL
++tRNA-Cys
++rrnS
++COX2
++tRNA-Glu
++ND6
+</DATA>

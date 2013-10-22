@@ -1,0 +1,16 @@
+<METADATA>
+     source          1..9406
+                     /organism="Clathrina clathrus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1031547"
+                     /chromosome="6"
+
+</METADATA>
+<DATA>
+-nad5
++trnS(gcu)
++rnl_p6
++trnQ(uug)
++cox3
+</DATA>

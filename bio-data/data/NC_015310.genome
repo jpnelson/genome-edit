@@ -1,0 +1,50 @@
+<METADATA>
+     source          1..15760
+                     /organism="Unio pictorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="147"
+                     /db_xref="taxon:55837"
+                     /haplotype="F-type"
+                     /sex="female"
+
+</METADATA>
+<DATA>
++tRNA-Gln
++tRNA-Cys
++tRNA-Ile
++tRNA-Val
++tRNA-Leu
++ND1
++tRNA-Gly
++ND6
+-ND4
+-ND4L
+-ATP8
+-tRNA-Asp
+-ATP6
+-COX3
+-COX1
+-COX2
+-ND3
+-tRNA-His
++tRNA-Ala
++tRNA-Ser
++tRNA-Ser
++tRNA-Glu
++ND2
++tRNA-Met
++tRNA-Trp
++tRNA-Arg
++s-rRNA
++tRNA-Lys
++tRNA-Thr
++tRNA-Tyr
++l-rRNA
++tRNA-Leu
++tRNA-Asn
++tRNA-Pro
++CYTB
++tRNA-Phe
+-ND5
+</DATA>

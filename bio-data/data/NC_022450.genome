@@ -1,0 +1,51 @@
+<METADATA>
+     source          1..23435
+                     /organism="Hymeniacidon sinapium"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:364019"
+
+</METADATA>
+<DATA>
++16S ribosomal RNA
++tRNA-Tyr
++tRNA-Met
++COII
++tRNA-Lys
++ATP8
++ATP6
++tRNA-Arg
++COIII
++tRNA-Gln
++tRNA-Trp
++tRNA-Leu
++tRNA-Asn
++CYTB
++tRNA-Thr
++ATP9
++tRNA-Ser
++tRNA-Pro
++ND4
++tRNA-His
++tRNA-Glu
++ND6
++tRNA-Asp
++ND3
++tRNA-Arg
++ND4L
++COI
++tRNA-Ser
++tRNA-Cys
++ND1
++tRNA-Leu
++tRNA-Ile
++tRNA-Met
++ND2
++ND5
++tRNA-Ala
++tRNA-Met
++tRNA-Phe
++12S ribosomal RNA
++tRNA-Gly
++tRNA-Val
+</DATA>

@@ -1,0 +1,48 @@
+<METADATA>
+     source          1..14666
+                     /organism="Emplectonema gracile"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:6230"
+                     /common="ribbon worm"
+
+</METADATA>
+<DATA>
++COX1
++tRNA-Trp
++tRNA-Ser
++ND2
++COX2
++tRNA-Asp
++ATP8
++ATP6
++tRNA-Cys
++tRNA-Met
++s-rRNA
++tRNA-Val
++l-rRNA
++tRNA-Leu
++tRNA-Leu
++ND1
++tRNA-Tyr
+-tRNA-Pro
++ND6
++CYTB
++tRNA-Ser
+-tRNA-Thr
++ND4L
++ND4
++tRNA-His
++ND5
++tRNA-Glu
++tRNA-Gly
++COX3
++tRNA-Lys
++tRNA-Ala
++tRNA-Phe
++tRNA-Gln
++tRNA-Arg
++tRNA-Asn
++tRNA-Ile
++ND3
+</DATA>
