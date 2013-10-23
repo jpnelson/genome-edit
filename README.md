@@ -21,3 +21,5 @@ The file structure is
 Also contains a program to convert relational model output to positional output for better interpretation of plans and results.
                               
 * `inversion-only/`  -Contains `baobab-lunar.jar`, the inversion-only solver used, and a script that uses this to pre-process .dzn files with a `costCap=N;` parameter, which provides the MiniZinc solvers with an upper bound on plan cost
+
+* `breakpoint/`  -Contains a script to compute the breakpoint distance between two genomes
