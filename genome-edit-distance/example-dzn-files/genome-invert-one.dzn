@@ -1,0 +1,6 @@
+initialGenome = [1,2,3,4,5,6,7];
+goalGenome =    [1,-2,3,4,5,6,7];
+genomeLength = 7;
+planLength = 1;
+inversionPenalty = 1;
+costCap=1;
